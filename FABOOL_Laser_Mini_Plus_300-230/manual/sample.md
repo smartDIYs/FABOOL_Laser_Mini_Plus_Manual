@@ -1,4 +1,79 @@
 ここでは、実際にソフトウェアを起動し、加工を行うまでの流れを説明します。
+## 部品表
+<table>
+<tbody>
+<tr>
+<td>No.</td>
+<td>部品名</td>
+<td>備考</td>
+<td>画像</td>
+<td>個数</td>
+</tr>
+<tr>
+<td>126</td>
+<td>Inner acrylic</td>
+<td>アクリル</td>
+<td><img src="./images/sample/sample.jpg" alt="sample" width="170" height="126"></td>
+<td>1</td>
+</tr>
+<tr>
+<td>40</td>
+<td>中継基板</td>
+<td>&nbsp;</td>
+<td><img src="./images/sample/sample.jpg" alt="sample" width="170" height="126"></td>
+<td>1</td>
+</tr>
+<tr>
+<td>36</td>
+<td>スイッチング電源</td>
+<td>&nbsp;</td>
+<td><img src="./images/sample/sample.jpg" alt="sample" width="170" height="126"></td>
+<td>1</td>
+</tr>
+<tr>
+<td>43</td>
+<td>端子台</td>
+<td>&nbsp;</td>
+<td><img src="./images/sample/sample.jpg" alt="sample" width="170" height="126"></td>
+<td>1</td>
+</tr>
+<tr>
+<td>19</td>
+<td>座付ソケット</td>
+<td>&nbsp;</td>
+<td><img src="./images/sample/sample.jpg" alt="sample" width="170" height="126"></td>
+<td>1</td>
+</tr>
+<tr>
+<td>88</td>
+<td>六角スペーサー</td>
+<td>&nbsp;</td>
+<td><img src="./images/sample/sample.jpg" alt="sample" width="170" height="126"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>102</td>
+<td>M4x10六角穴付皿ボルト</td>
+<td>&nbsp;</td>
+<td><img src="./images/sample/sample.jpg" alt="sample" width="170" height="126"></td>
+<td>6</td>
+</tr>
+<tr>
+<td>113</td>
+<td>M3x5ナイロンネジ</td>
+<td>&nbsp;</td>
+<td><img src="./images/sample/sample.jpg" alt="sample" width="170" height="126"></td>
+<td>4</td>
+</tr>
+<tr>
+<td>98</td>
+<td>M3x8六角穴付ボルト</td>
+<td>&nbsp;</td>
+<td><img src="./images/sample/sample.jpg" alt="sample" width="170" height="126"></td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
 
 ## ソフトウェアの起動
 インストールしたソフトウェアを起動します。起動すると新規プロジェクトが展開されます。
@@ -54,7 +129,7 @@
 ソフトウェアの「位置確認モード」などを利用してレーザヘッドを素材の真上へ移動させ、素材とレーザヘッドの距離（焦点距離）を調整します。
 
 <p align="center">
-<img alt="GridItem" src="./images/flow/focus.png" width="80%">
+<img alt="GridItem" src="./images/sample/focus.png" width="80%">
 </p>
 
 ### 加工範囲の確認
