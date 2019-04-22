@@ -3,72 +3,62 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>No.</td>
+<td>パーツID</td>
 <td>部品名</td>
-<td>備考</td>
 <td class="packing-img">画像</td>
 <td>個数</td>
 </tr>
 <tr>
 <td>126</td>
 <td>Inner acrylic</td>
-<td>アクリル</td>
 <td><img src="./images/sample/sample.jpg" alt="sample"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>40</td>
 <td>中継基板</td>
-<td>&nbsp;</td>
 <td><img src="./images/sample/sample.jpg" alt="sample"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>36</td>
 <td>スイッチング電源</td>
-<td>&nbsp;</td>
 <td><img src="./images/sample/sample.jpg" alt="sample"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>43</td>
 <td>端子台</td>
-<td>&nbsp;</td>
 <td><img src="./images/sample/sample.jpg" alt="sample"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>19</td>
 <td>座付ソケット</td>
-<td>&nbsp;</td>
 <td><img src="./images/sample/sample.jpg" alt="sample"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>88</td>
 <td>六角スペーサー</td>
-<td>&nbsp;</td>
 <td><img src="./images/sample/sample.jpg" alt="sample"></td>
 <td>4</td>
 </tr>
 <tr>
 <td>102</td>
 <td>M4x10六角穴付皿ボルト</td>
-<td>&nbsp;</td>
 <td><img src="./images/sample/sample.jpg" alt="sample"></td>
 <td>6</td>
 </tr>
 <tr>
 <td>113</td>
 <td>M3x5ナイロンネジ</td>
-<td>&nbsp;</td>
 <td><img src="./images/sample/sample.jpg" alt="sample"></td>
 <td>4</td>
 </tr>
 <tr>
 <td>98</td>
 <td>M3x8六角穴付ボルト</td>
-<td>&nbsp;</td>
 <td><img src="./images/sample/sample.jpg" alt="sample"></td>
 <td>2</td>
 </tr>
