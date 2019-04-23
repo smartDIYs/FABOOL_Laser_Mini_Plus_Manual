@@ -3,7 +3,7 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>パーツID</td>
+<td>No.</td>
 <td>部品名</td>
 <td>個数</td>
 <td class="packing-img">画像</td>
