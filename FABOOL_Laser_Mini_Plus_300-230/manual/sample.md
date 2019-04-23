@@ -1,5 +1,5 @@
 ここでは、実際にソフトウェアを起動し、加工を行うまでの流れを説明します。
-## 部品表test
+## 部品表
 <table class="packing-list">
 <tbody>
 <tr>
