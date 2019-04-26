@@ -59,26 +59,26 @@
 ※motor mount plate x-axisには取り付ける向きがあるので注意してください。小さい2つの穴が右下に来るようにします。
 <img src="./images/02/mini-300mm_02_01.jpg">
 
-<img src="./images/02/mini-300mm_02_01.jpg">
+<img src="./images/02/mini-300mm_02_02.jpg">
 
 ### タイミングプーリーを取り付ける
 ステッピングモーターにタイミングプーリーをM3イモネジ2個で取り付けます。どちらか片方のネジ穴をステッピングモーターのシャフト切りかけ部分に合わせて取り付けて下さい。  
 ※タイミングプーリーで取り付けたイモネジは後で高さを調整するので仮止めして下さい。
-<img src="./images/02/mini-300mm_02_01.jpg">
+<img src="./images/02/mini-300mm_02_03.jpg">
 
-<img src="./images/02/mini-300mm_02_01.jpg">
+<img src="./images/02/mini-300mm_02_04.jpg">
 
-<img src="./images/02/mini-300mm_02_01.jpg">
+<img src="./images/02/mini-300mm_02_05.jpg">
 
 ## Y軸モーターユニットの組み立て
 ### motor mount plate y-axisを取り付ける
 ステッピングモーターにmotor mount plate y-axisをM3&times;6六角穴付きボルト8個で取り付けます。  
 ※motor mount plate y-axisのには取り付ける向きがあるので注意してください。
-<img src="./images/02/mini-300mm_02_01.jpg">
+<img src="./images/02/mini-300mm_02_06.jpg">
 
-<img src="./images/02/mini-300mm_02_01.jpg">
+<img src="./images/02/mini-300mm_02_07.jpg">
 
 ### タイミングプーリーを取り付ける
 ステッピングモーターにタイミングプーリーをM3イモネジ2個で取り付けます。どちらか片方のネジ穴をステッピングモーターのシャフト切りかけ部分に合わせて取り付けてください。  
 ※タイミングプーリーで取り付けたイモネジは後で高さを調整するので仮止めしてください。
-<img src="./images/02/mini-300mm_02_01.jpg">
+<img src="./images/02/mini-300mm_02_08.jpg">
