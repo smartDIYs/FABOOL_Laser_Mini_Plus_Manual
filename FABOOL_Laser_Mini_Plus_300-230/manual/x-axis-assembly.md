@@ -110,6 +110,8 @@
 <img src="./images/03/mini-300mm_03_04.jpg">
 
 [偏心スペーサー動画]  
+{% youtube https://www.youtube.com/embed/y8QG-4ASV9U %}
+
 mini v plate_L、mini v plate_R、mini v plate_Cを調整してください。
 <img src="./images/03/mini-300mm_03_05.jpg">
 
