@@ -110,7 +110,8 @@
 <img src="./images/03/mini-300mm_03_04.jpg">
 
 [偏心スペーサー動画]  
-{% youtube y8QG-4ASV9U %}
+[![偏心スペーサー動画](http://img.youtube.com/vi/y8QG-4ASV9U/0.jpg)](http://www.youtube.com/watch?v=y8QG-4ASV9U)
+
 
 mini v plate_L、mini v plate_R、mini v plate_Cを調整してください。
 <img src="./images/03/mini-300mm_03_05.jpg">
@@ -175,6 +176,8 @@ A、mini v plate_Cにタイミングベルト106mmの山がある方を上にし
 <img src="./images/03/mini-300mm_03_27.jpg">
 
 [タイミングベルト固定動画]
+[![タイミングベルト固定動画1](http://img.youtube.com/vi/EJ0unA_HlrA/0.jpg)](http://www.youtube.com/watch?v=EJ0unA_HlrA)
+[![タイミングベルト固定動画2](http://img.youtube.com/vi/Gq2b4nlQAnA/0.jpg)](http://www.youtube.com/watch?v=Gq2b4nlQAnA)
 
 B・Cの箇所にタイミングベルトを通します。
 <img src="./images/03/mini-300mm_03_28.jpg">
@@ -201,6 +204,7 @@ v-slot 450mmの溝から大きくずれている場合は、イモネジ2個を�
 <img src="./images/03/mini-300mm_03_36.jpg">
 
 [動画　タイミングベルト 張り具合]
+[![タイミングベルト 張り具合](http://img.youtube.com/vi/B0T3zE79iKU/0.jpg)](http://www.youtube.com/watch?v=B0T3zE79iKU)
 
 ## 光学ステージの取り付け
 mini v plate_Cに光学ステージをM6&times;8六角穴付きボルト2個で取り付けます。
