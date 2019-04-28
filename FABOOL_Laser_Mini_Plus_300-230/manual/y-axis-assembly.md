@@ -141,7 +141,9 @@ X軸ユニットを先程組み立てたフレームに通します。X軸ユニ
 Y軸の動作を手動で確認します。以下の動画のように、本体を立てた時に自然にX軸ユニットが下に落ちてくる状態が正常となります。
 X軸ユニットを可動範囲全体で動かしてみて、少しでも引っかかりを感じる場合は、X軸ユニット左右のmini v plate_R、mini v plate_Lの偏心スペーサーを少しずつ回して、緩める方向に調整してください。
 [動画　Y軸調整]
+[![動画　Y軸調整](http://img.youtube.com/vi/RGGYh4Ocqyo/0.jpg)](http://www.youtube.com/watch?v=RGGYh4Ocqyo)
 [動画　Y軸調整]
+[![動画　Y軸調整](http://img.youtube.com/vi/BsWwEVtgDBo/0.jpg)](http://www.youtube.com/watch?v=BsWwEVtgDBo)
 <img src="./images/04/mini-300mm_04_29.jpg">
 
 ## タイミングベルトの取り付け
