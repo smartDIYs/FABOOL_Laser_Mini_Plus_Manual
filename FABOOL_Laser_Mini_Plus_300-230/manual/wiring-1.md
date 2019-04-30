@@ -99,3 +99,32 @@ PCBケース内の配線を2本の結束バンドを使ってまとめます。�
 ## 配線（3.5W）
 以下の写真を参考に計6種類のケーブルの配線を行います。
 ### PCBケーブル
+<img src="./images/06/mini-300mm_06_12.jpg">
+
+<img src="./images/06/mini-300mm_06_13.jpg">
+
+<img src="./images/06/mini-300mm_06_14.jpg">
+
+### Laserケーブル ※反対側は後ほど配線
+<img src="./images/06/mini-300mm_06_15.jpg">
+
+### X-Axisケーブル ※反対側は後ほど配線
+<img src="./images/06/mini-300mm_06_16.jpg">
+
+### Y-Axis-Rケーブル ※反対側は後ほど配線
+<img src="./images/06/mini-300mm_06_17.jpg">
+
+### Y-Axis-Lケーブル ※反対側は後ほど配線
+<img src="./images/06/mini-300mm_06_18.jpg">
+
+### Foot Switchケーブル ※反対側は後ほど配線
+<img src="./images/06/mini-300mm_06_19.jpg">
+
+### ケーブルをすべて接続した状態
+<img src="./images/06/mini-300mm_06_20.jpg">
+
+PCBケース内の配線を2本の結束バンドを使ってまとめます。固定方法は下記の動画を参考にしてください。  
+[動画　3.6W配線取りまとめ]
+
+配線まとめ後の結束バンドを裏から見ると写真の通りになります。結束バンドの不要な部分を切り取ります。
+<img src="./images/06/mini-300mm_06_10.jpg">
