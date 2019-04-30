@@ -9,7 +9,7 @@
 <td>個数</td>
 </tr>
 <tr>
-<td>13</td>
+<td>23</td>
 <td>PCBケース</td>
 <td></td>
 <td><img src="./images/05/p5-1.jpg" alt="PCBケース"></td>
