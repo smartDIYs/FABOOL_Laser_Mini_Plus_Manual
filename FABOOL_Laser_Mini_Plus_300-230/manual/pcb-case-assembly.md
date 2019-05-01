@@ -46,3 +46,61 @@
 PCBケースにDCファンをM3&times;10ナイロンネジ4個で取り付けます。
 ※DCファンには取り付ける向きがあるので注意して下さい。
 <img src="./images/08/mini-300mm_08_01.jpg">
+
+DCファンケーブルをコントロール基板（FAN1）に接続します。
+<img src="./images/08/mini-300mm_08_01.jpg">
+
+DCファンケーブルとPCBケーブルを結束バンドで固定します。
+<img src="./images/08/mini-300mm_08_03.jpg">
+
+結束バンドの不要な部分を切り取ります。
+
+### サイドカバーの取り付け
+PCBケースにサイドカバーをM3&times;6六角穴付皿ボルト4個で取り付けます。  
+※サイドカバーには取り付ける向きがあるので注意して下さい。
+<img src="./images/08/mini-300mm_08_19.jpg">
+
+<img src="./images/08/mini-300mm_08_05.jpg">
+
+<img src="./images/08/mini-300mm_08_06.jpg">
+
+### フロントカバーの取り付け
+フロントカバーをM3&times;6六角穴付皿ボルト4個で取り付けます。  
+※カバーが閉じない場合はヒートシンクを5ｍｍ程傾けてください。
+<img src="./images/08/mini-300mm_08_07.jpg">
+
+<img src="./images/08/mini-300mm_08_08.jpg">
+
+<img src="./images/08/mini-300mm_08_09.jpg">
+
+<img src="./images/08/mini-300mm_08_10.jpg">
+
+## PCBケースの組み立て（3.5W）
+### DCファンの取り付け
+PCBケースにDCファンをM3&times;10ナイロンネジ4個で取り付けます。  
+※DCファンには取り付ける向きがあるので注意して下さい。
+<img src="./images/08/mini-300mm_08_01.jpg">
+
+DCファンケーブルをコントロール基板（FAN1）に接続します。
+<img src="./images/08/mini-300mm_08_01.jpg">
+
+DCファンケーブルとPCBケーブルを結束バンドで固定します。
+<img src="./images/08/mini-300mm_08_13.jpg">
+
+結束バンドの不要な部分を切り取ります。
+<img src="./images/08/mini-300mm_08_14.jpg">
+
+### サイドカバーの取り付け
+PCBケースにサイドカバーをM3&times;6六角穴付皿ボルト4個で取り付けます。  
+※サイドカバーには取り付ける向きがあるので注意して下さい。
+<img src="./images/08/mini-300mm_08_19.jpg">
+
+<img src="./images/08/mini-300mm_08_15.jpg">
+
+<img src="./images/08/mini-300mm_08_16.jpg">
+
+### フロントカバーの取り付け
+フロントカバーをM3&times;6六角穴付皿ボルト4個で取り付けます。
+<img src="./images/08/mini-300mm_08_09.jpg">
+
+<img src="./images/08/mini-300mm_08_10.jpg">
