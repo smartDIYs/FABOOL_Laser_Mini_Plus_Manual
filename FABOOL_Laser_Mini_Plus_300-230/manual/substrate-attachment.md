@@ -66,9 +66,11 @@ PCBケースにコントロール基板をM3&times;5ナイロンネジ4個で取
 <img src="./images/05/mini-300mm_05_03.jpg">
 
 <font color="Red">コントロール基板のスイッチが左側にあることを確認してください。</font>
-<img src="./images/05/mini-300mm_05_05.jpg">
+<img src="./images/05/mini-300mm_05_04.jpg">
 
 PCBケースの裏に結束バンド固定具をM3&times;5ナイロンネジで取り付けます。
+<img src="./images/05/mini-300mm_05_05.jpg">
+
 <img src="./images/05/mini-300mm_05_06.jpg">
 
 ## 基板の取り付け（3.5W）
