@@ -82,7 +82,7 @@ PCBケースにDCファンをM3&times;10ナイロンネジ4個で取り付けま
 <img src="./images/08/mini-300mm_08_01.jpg">
 
 DCファンケーブルをコントロール基板（FAN1）に接続します。
-<img src="./images/08/mini-300mm_08_01.jpg">
+<img src="./images/08/mini-300mm_08_12.jpg">
 
 DCファンケーブルとPCBケーブルを結束バンドで固定します。
 <img src="./images/08/mini-300mm_08_13.jpg">
