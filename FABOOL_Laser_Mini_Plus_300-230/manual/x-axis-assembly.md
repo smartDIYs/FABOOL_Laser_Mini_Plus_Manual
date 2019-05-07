@@ -109,8 +109,7 @@
 偏心スペーサーは赤丸で示した部分に取り付けてあります。
 <img src="./images/03/mini-300mm_03_04.jpg">
 
-[偏心スペーサー動画]  
-[![偏心スペーサー動画](http://img.youtube.com/vi/y8QG-4ASV9U/0.jpg)](http://www.youtube.com/watch?v=y8QG-4ASV9U)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9VzXz4hIBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 mini v plate_L、mini v plate_R、mini v plate_Cを調整してください。
@@ -203,7 +202,8 @@ v-slot 450mmの溝から大きくずれている場合は、イモネジ2個を�
 
 <img src="./images/03/mini-300mm_03_36.jpg">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B9VzXz4hIBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[動画　タイミングベルト 張り具合]
+[![タイミングベルト 張り具合](http://img.youtube.com/vi/B0T3zE79iKU/0.jpg)](http://www.youtube.com/watch?v=B0T3zE79iKU)
 
 ## 光学ステージの取り付け
 mini v plate_Cに光学ステージをM6&times;8六角穴付きボルト2個で取り付けます。
