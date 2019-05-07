@@ -109,8 +109,9 @@
 偏心スペーサーは赤丸で示した部分に取り付けてあります。
 <img src="./images/03/mini-300mm_03_04.jpg">
 
+<div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B9VzXz4hIBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 mini v plate_L、mini v plate_R、mini v plate_Cを調整してください。
 <img src="./images/03/mini-300mm_03_05.jpg">
