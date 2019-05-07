@@ -29,7 +29,7 @@
 
 ## 保守部品とその交換について
 消耗品であるレーザーモジュール( 使用可能時間: 約5,000~10,000 時間)、タイミングベルトなど各種保守部品は、個別にご購入することが可能です。  
-詳しくは、<a href="https://www.smartdiys.com/manual/fabool-laser-mini-plus-service-parts/">保守部品</a>に関する項目をご確認ください。
+詳しくは、<a href="https://www.smartdiys.com/manual/fabool-laser-mini-plus-300-230-maintenance-parts/">保守部品</a>に関する項目をご確認ください。
 
 ## 免責事項について
 本製品の組み立てや使用を理由とする破損・ケガ・事故・火災につきましては、いかなる責任も負いかねますのであらかじめご了承ください。また、当社は以下に記載する損害・ケガ・事故・火災に関して、一切責任を負いません。
@@ -40,6 +40,6 @@
 ## 内容を確認する
 FABOOL Laser Miniが届きましたら、内容品の確認をします。
 
-<a href="https://www.smartdiys.com/manual/wp-content/uploads/2016/08/fabool-laser-mini-packing-list.pdf" target="_blank">FABOOL Laser Mini パッキングリスト</a>
+<a href="https://www.smartdiys.com/manual/fabool-laser-mini-plus-300-230-packing-list/" target="_blank">FABOOL Laser Mini パッキングリスト</a>
 
 数量や内容の間違いが御座いましたら、<a href="https://www.smartdiys.com/contact/" target="_blank">smartDIYs</a>へご連絡ください。

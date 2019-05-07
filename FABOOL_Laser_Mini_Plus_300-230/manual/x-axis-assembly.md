@@ -96,7 +96,7 @@
 </table>
 
 ## X軸の組み立て
-### mini v plate(3種類)の調整・確認
+### mini v plate（3種類）の調整・確認
 写真内赤丸印10箇所のネジに緩みがないか確認してください。
 <img src="./images/03/mini-300mm_03_01.jpg">
 
@@ -109,9 +109,9 @@
 偏心スペーサーは赤丸で示した部分に取り付けてあります。
 <img src="./images/03/mini-300mm_03_04.jpg">
 
-[偏心スペーサー動画]  
-[![偏心スペーサー動画](http://img.youtube.com/vi/y8QG-4ASV9U/0.jpg)](http://www.youtube.com/watch?v=y8QG-4ASV9U)
-
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9VzXz4hIBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 mini v plate_L、mini v plate_R、mini v plate_Cを調整してください。
 <img src="./images/03/mini-300mm_03_05.jpg">
@@ -154,7 +154,7 @@ V-slot 450mmの写真の位置にM5Tナット2個を入れます。
 <img src="./images/03/mini-300mm_03_20.jpg">
 
 X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り付けます。  
-※X軸モーターユニットの取り付け位置は、後工程で調整するので仮止めして下さい。
+※後工程で調整するので、ステッピングモーターの軸がmini v plate_Lに触れる程度の位置で仮止めします。
 <img src="./images/03/mini-300mm_03_21.jpg">
 
 <img src="./images/03/mini-300mm_03_22.jpg">
@@ -163,7 +163,7 @@ X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り�
 
 ## タイミングベルトの取り付け
 タイミングベルトは凹凸がある面をタイミングプーリーの歯に合うように取り付けてください。
-※タイミングベルトがねじれないように注意して下さい。
+※タイミングベルトがねじれないように注意してください。
 
 写真のA~Dの箇所にタイミングベルトを取り付けます。
 <img src="./images/03/mini-300mm_03_24.jpg">
