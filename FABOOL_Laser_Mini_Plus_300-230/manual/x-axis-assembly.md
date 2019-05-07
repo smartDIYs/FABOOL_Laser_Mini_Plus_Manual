@@ -96,7 +96,7 @@
 </table>
 
 ## X軸の組み立て
-### mini v plate(3種類)の調整・確認
+### mini v plate（3種類）の調整・確認
 写真内赤丸印10箇所のネジに緩みがないか確認してください。
 <img src="./images/03/mini-300mm_03_01.jpg">
 
@@ -154,7 +154,7 @@ V-slot 450mmの写真の位置にM5Tナット2個を入れます。
 <img src="./images/03/mini-300mm_03_20.jpg">
 
 X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り付けます。  
-※X軸モーターユニットの取り付け位置は、後工程で調整するので仮止めして下さい。
+※後工程で調整するので、ステッピングモーターの軸がmini v plate_Lに触れる程度の位置で仮止めします。
 <img src="./images/03/mini-300mm_03_21.jpg">
 
 <img src="./images/03/mini-300mm_03_22.jpg">
@@ -163,7 +163,7 @@ X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り�
 
 ## タイミングベルトの取り付け
 タイミングベルトは凹凸がある面をタイミングプーリーの歯に合うように取り付けてください。
-※タイミングベルトがねじれないように注意して下さい。
+※タイミングベルトがねじれないように注意してください。
 
 写真のA~Dの箇所にタイミングベルトを取り付けます。
 <img src="./images/03/mini-300mm_03_24.jpg">
@@ -203,8 +203,7 @@ v-slot 450mmの溝から大きくずれている場合は、イモネジ2個を�
 
 <img src="./images/03/mini-300mm_03_36.jpg">
 
-[動画　タイミングベルト 張り具合]
-[![タイミングベルト 張り具合](http://img.youtube.com/vi/B0T3zE79iKU/0.jpg)](http://www.youtube.com/watch?v=B0T3zE79iKU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9VzXz4hIBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 光学ステージの取り付け
 mini v plate_Cに光学ステージをM6&times;8六角穴付きボルト2個で取り付けます。
