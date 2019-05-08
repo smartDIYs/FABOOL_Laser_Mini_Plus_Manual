@@ -99,7 +99,10 @@
 ## X軸の組み立て
 mini v plate_L_2040_1m、mini v plate_R_2040_1m、mini v plate_Cを調整してください。
 
+<div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y8QG-4ASV9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 <img src="./images/04/mini-1000mm_04_01.jpg">
 
