@@ -165,9 +165,13 @@ A、mini v plate_Cにタイミングベルト3600mmの山がある方を上に�
 
 <img src="./images/04/mini-1000mm_04_21.jpg">
 
+<div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJ0unA_HlrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+<div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gq2b4nlQAnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 B・Cの箇所にタイミングベルトを通します。
 <img src="./images/04/mini-1000mm_04_22.jpg">
@@ -195,7 +199,9 @@ X軸モーターユニットのタイミングプーリーの位置を調整し�
 
 <img src="./images/04/mini-1000mm_04_30.jpg">
 
+<div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B0T3zE79iKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 光学ステージの取り付け
 mini v plate_Cに光学ステージをM6&times;8六角穴付きボルト2個で取り付けます。
