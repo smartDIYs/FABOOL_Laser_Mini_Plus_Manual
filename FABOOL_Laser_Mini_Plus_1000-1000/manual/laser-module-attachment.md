@@ -48,10 +48,10 @@
 
 <br>  
 高さ調整用アクリルを使用し、レーザーユニットに光学キャリアをM6&times;8六角穴付ボルトで取り付けます。
-<img src="./images/10/mini-300mm_10_01.jpg">
+<img src="./images/10/mini-1000mm_10_01.jpg">
 
 光学ステージに光学キャリアを取り付けし、レーザーユニットとLaserケーブルを接続します。
-<img src="./images/10/mini-300mm_10_02.jpg">
+<img src="./images/10/mini-1000mm_10_02.jpg">
 
 ケーブルを結束バンドで固定し、結束バンドの不要な部分は切り取ります。
-<img src="./images/10/mini-300mm_10_03.jpg">
+<img src="./images/10/mini-1000mm_10_03.jpg">
