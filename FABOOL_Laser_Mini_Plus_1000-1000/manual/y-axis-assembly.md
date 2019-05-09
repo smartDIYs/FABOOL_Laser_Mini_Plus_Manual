@@ -147,6 +147,8 @@ X軸ユニットを可動範囲全体で動かしてみて、少しでも引っ�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BsWwEVtgDBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<br>
+
 <img src="./images/05/mini-1000mm_05_21.jpg">
 
 ## タイミングベルトの取り付け
