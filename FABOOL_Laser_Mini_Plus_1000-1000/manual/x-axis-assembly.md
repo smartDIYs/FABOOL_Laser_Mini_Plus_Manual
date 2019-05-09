@@ -103,6 +103,7 @@ mini v plate_L_2040_1m、mini v plate_R_2040_1m、mini v plate_Cを調整して�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y8QG-4ASV9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<br>
 
 <img src="./images/04/mini-1000mm_04_01.jpg">
 
@@ -200,6 +201,8 @@ X軸モーターユニットのタイミングプーリーの位置を調整し�
 <img src="./images/04/mini-1000mm_04_29.jpg">
 
 <img src="./images/04/mini-1000mm_04_30.jpg">
+
+<br>
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B0T3zE79iKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
