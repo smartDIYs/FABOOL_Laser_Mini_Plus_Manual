@@ -175,9 +175,12 @@ A、mini v plate_Cにタイミングベルト106mmの山がある方を上にし
 
 <img src="./images/03/mini-300mm_03_27.jpg">
 
-[タイミングベルト固定動画]
-[![タイミングベルト固定動画1](http://img.youtube.com/vi/EJ0unA_HlrA/0.jpg)](http://www.youtube.com/watch?v=EJ0unA_HlrA)
-[![タイミングベルト固定動画2](http://img.youtube.com/vi/Gq2b4nlQAnA/0.jpg)](http://www.youtube.com/watch?v=Gq2b4nlQAnA)
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJ0unA_HlrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gq2b4nlQAnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 B・Cの箇所にタイミングベルトを通します。
 <img src="./images/03/mini-300mm_03_28.jpg">
@@ -203,8 +206,9 @@ v-slot 450mmの溝から大きくずれている場合は、イモネジ2個を�
 
 <img src="./images/03/mini-300mm_03_36.jpg">
 
-[動画　タイミングベルト 張り具合]
-[![タイミングベルト 張り具合](http://img.youtube.com/vi/B0T3zE79iKU/0.jpg)](http://www.youtube.com/watch?v=B0T3zE79iKU)
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B0T3zE79iKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 光学ステージの取り付け
 mini v plate_Cに光学ステージをM6&times;8六角穴付きボルト2個で取り付けます。
