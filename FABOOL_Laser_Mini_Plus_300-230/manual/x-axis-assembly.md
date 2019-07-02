@@ -103,12 +103,13 @@
 偏心スペーサーは赤丸で示した部分に取り付けてあります。
 <img src="./images/03/mini-300mm_03_04.jpg">
 
-mini v plate_L、mini v plate_R、mini v plate_Cを調整します。V-slot 450mmに各プレートを一つずつ通し調整してください。
-<img src="./images/03/mini-300mm_03_39.jpg">
+mini v plate_L、mini v plate_R、mini v plate_Cを調整します。V-slot 450mmに各プレートを一つずつ通し調整してください。調整具合は下記動画を参考にしてください。
 
 <div class="iframe-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WgLAE_uB4J0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c_Q01xAQ09k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<img src="./images/03/mini-300mm_03_39.jpg">
 
 <img src="./images/03/mini-300mm_03_05.jpg">
 
@@ -175,7 +176,7 @@ X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り�
 
 Aの箇所に、mini v plate_Cにタイミングベルト106mmの山がある方を上にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
 <div class="iframe-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/okEIo2-UhFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tsZOb9eN33c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 B・Cの箇所にタイミングベルトを通します。
