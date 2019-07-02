@@ -66,6 +66,8 @@
 ※イモネジは後で高さを調整するので仮止めして下さい。
 <img src="./images/02/mini-300mm_02_03.jpg">
 
+<img src="./images/02/mini-300mm_02_10.jpg">
+
 <img src="./images/02/mini-300mm_02_04.jpg">
 
 <img src="./images/02/mini-300mm_02_05.jpg">

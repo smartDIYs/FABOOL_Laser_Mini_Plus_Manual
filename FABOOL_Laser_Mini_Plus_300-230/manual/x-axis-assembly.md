@@ -173,7 +173,7 @@ X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り�
 写真のA~Dの箇所にタイミングベルトを取り付けます。
 <img src="./images/03/mini-300mm_03_24.jpg">
 
-A、mini v plate_Cにタイミングベルト106mmの山がある方を上にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
+Aの箇所に、mini v plate_Cにタイミングベルト106mmの山がある方を上にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/okEIo2-UhFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -189,12 +189,12 @@ D、mini v plate_Cの右側にタイミングベルト106mmの山がある方を
 結束バンドの不要な部分は切り取ります。少しでも切り口が飛び出ていると怪我をする恐れがありますので、根本から切り取ってください。
 <img src="./images/03/mini-300mm_03_31.jpg">
 
-X軸モーターユニットのタイミングプーリーの位置を調整します。v-slot 450mmの溝と一致していることを確認します。
+X軸モーターユニットのタイミングプーリーの位置を調整し固定します。タイミングプーリーをv-slot 450mmの溝と同じ高さに調整し、イモネジ2個をしっかりと締め固定してください。
 <img src="./images/03/mini-300mm_03_32.jpg">
 
 <img src="./images/03/mini-300mm_03_33.jpg">
 
-v-slot 450mmの溝から大きくずれている場合は、イモネジ2個を緩め調整してから固定してください。
+v-slot 450mmの溝から大きくずれている場合は、位置を調整してから固定してください。
 <img src="./images/03/mini-300mm_03_34.jpg">
 
 タイミングベルトを張ります。X軸モーターユニットのM5&times;8低頭ボルトを緩め、矢印の方向に引っ張りながらボルトを固定します。ステッピングモーターとV-slotが平行になるようにしてください。張り具合は、下記の動画をご覧ください。

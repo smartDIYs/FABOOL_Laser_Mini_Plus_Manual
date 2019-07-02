@@ -49,9 +49,9 @@
 ## X-Axisケーブルの配線
 X軸モーターユニットにX-AxisケーブルのリミットスイッチをM2&times;10六角穴付きボルト2個で取り付けます。  
 ※リミットスイッチには取り付ける向きがあるので注意して下さい。
-<img src="./images/07/mini-300mm_07_01.jpg">
+<img src="./images/07/mini-300mm_07_19.jpg">
 
-<img src="./images/07/mini-300mm_07_02.jpg">
+<img src="./images/07/mini-300mm_07_20.jpg">
 
 ステッピングモーターにX-Axisケーブルを接続します。
 <img src="./images/07/mini-300mm_07_03.jpg">
@@ -62,7 +62,7 @@ X軸モーターユニットにX-Axisケーブルを結束バンドで2ヵ所固
 ## Y-Axis-Lケーブルの配線
 Y軸モーターユニットにY-Axis-LケーブルのリミットスイッチをM2&times;10六角穴付きボルト2個で取り付けます。取り付け後、ステッピングモーターにY-Axis-Lケーブルを接続します。  
 ※リミットスイッチには取り付ける向きがあるので注意して下さい。
-<img src="./images/07/mini-300mm_07_05.jpg">
+<img src="./images/07/mini-300mm_07_21.jpg">
 
 <img src="./images/07/mini-300mm_07_06.jpg">
 
@@ -75,16 +75,20 @@ Y軸モーターユニットにFoot Switchケーブルのリミットスイッ�
 <img src="./images/07/mini-300mm_07_09.jpg">
 
 本体を立て、写真の赤丸にM3後入れナット2個を挿入します。
-<img src="./images/07/mini-300mm_07_10.jpg">
+<img src="./images/07/mini-300mm_07_22.jpg">
 
 先ほど入れたM3後入れナットに結束バンド固定具をM3&times;6六角穴付ボルトで取り付けます。
-<img src="./images/07/mini-300mm_07_11.jpg">
+<img src="./images/07/mini-300mm_07_23.jpg">
 
-<img src="./images/07/mini-300mm_07_12.jpg">
+<img src="./images/07/mini-300mm_07_24.jpg">
 
-先ほど取り付けた結束バンド固定具（左側）に、X-Axisケーブル、Y-Axis-Lケーブル、Foot Switchケーブルを結束バンドで固定します。  
+結束バンド固定具（右側）に、Y-Axis-Rケーブルを結束バンドで固定します。
+
+<img src="./images/07/mini-300mm_07_25.jpg">
+
+結束バンド固定具（左側）に、X-Axisケーブル、Y-Axis-Lケーブル、Foot Switchケーブルを結束バンドで固定します。  
 ※USBケーブル接続部分（赤丸）にケーブルがかぶらないように配線してください。
-<img src="./images/07/mini-300mm_07_14.jpg">
+<img src="./images/07/mini-300mm_07_26.jpg">
 
 ## Laserケーブルの固定
 PCBケースの背面にコルゲートチューブを結束バンドで固定します。
@@ -97,3 +101,4 @@ LaserケーブルとY-Axis-Rケーブルを結束バンドで2ヵ所固定しま
 <img src="./images/07/mini-300mm_07_18.jpg">
 
 最後に、結束バンドの不要な部分を切り取ります。
+<img src="./images/07/mini-300mm_07_28.jpg">

@@ -42,4 +42,6 @@ FABOOL Laser Miniが届きましたら、内容品の確認をします。
 
 <a href="https://www.smartdiys.com/manual/fabool-laser-mini-plus-300-230-packing-list/" target="_blank">FABOOL Laser Mini パッキングリスト</a>
 
+加工エリアの違いによって使用しないネジやボルトがあります。また、ネジ・ボルトは予備分もありますので、組み立て後に残っていても問題ありません。
+
 数量や内容の間違いが御座いましたら、<a href="https://www.smartdiys.com/contact/" target="_blank">smartDIYs</a>へご連絡ください。

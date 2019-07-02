@@ -58,8 +58,8 @@
 本工程は1.6Wモデルと3.5Wモデルで手順が異なります。以下にてそれぞれ説明しておりますので、該当箇所をご参照ください。
 
 ## 基板の取り付け（1.6W）
-<a href="/manual/fabool-laser-mini-plus-300-230-y-axis-assembly/">Y軸の組み立て</a>で予め入れておいたM5Tナットを使用しPCBケースをM5&times;6低頭ボルト2個で取り付けます。
-<img src="./images/05/mini-300mm_05_01.jpg">
+<a href="/manual/fabool-laser-mini-300-230-y-axis-assembly/">Y軸の組み立て</a>で予め入れておいたM5Tナットを使用しPCBケースをM5&times;6低頭ボルト2個で取り付けます。
+<img src="./images/05/mini-300mm_05_12.jpg">
 
 PCBケースにレーザー基板をM3&times;5ナイロンネジ4個で取り付けます。
 <img src="./images/05/mini-300mm_05_02.jpg">
