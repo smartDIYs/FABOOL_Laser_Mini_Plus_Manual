@@ -31,16 +31,16 @@
 </tr>
 <tr>
 <td>45</td>
-<td>M5×6 低頭ボルト</td>
+<td>M5&times;6 低頭ボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/06/kp6-4.jpg" alt="M5×6 低頭ボルト"></td>
+<td><img src="./images/06/kp6-4.jpg" alt="M5&times;6 低頭ボルト"></td>
 <td>4</td>
 </tr>
 <tr>
 <td>38</td>
-<td>M3×5 ナイロンネジ</td>
+<td>M3&times;5 ナイロンネジ</td>
 <td>ネジケース</td>
-<td><img src="./images/06/kp6-5.jpg" alt="M3×5 ナイロンネジ"></td>
+<td><img src="./images/06/kp6-5.jpg" alt="M3&times;5 ナイロンネジ"></td>
 <td>11</td>
 </tr>
 </tbody>

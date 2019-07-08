@@ -52,42 +52,42 @@
 </tr>
 <tr>
 <td>42</td>
-<td>M4×8低頭ボルト</td>
+<td>M4&times;8低頭ボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/03/p2-7.jpg" alt="M4×8低頭ボルト"></td>
-<td>10</td>
+<td><img src="./images/03/p2-7.jpg" alt="M4&times;8低頭ボルト"></td>
+<td>1</td>
 </tr>
 <tr>
 <td>46</td>
 <td>M5Tナット</td>
 <td>ネジケース</td>
 <td><img src="./images/03/p2-8.jpg" alt="M5Tナット"></td>
-<td>28</td>
+<td>6</td>
 </tr>
 <tr>
 <td>45</td>
-<td>M5×8低頭ボルト</td>
+<td>M5&times;8低頭ボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/03/p2-9.jpg" alt="M5×8低頭ボルト"></td>
-<td>25</td>
+<td><img src="./images/03/p2-9.jpg" alt="M5&times;8低頭ボルト"></td>
+<td>6</td>
 </tr>
 <tr>
 <td>25</td>
 <td>結束バンド</td>
 <td></td>
 <td><img src="./images/03/p2-10.jpg" alt="結束バンド"></td>
-<td>1</td>
+<td>2</td>
 </tr>
 <tr>
 <td>47</td>
-<td>M6×8六角穴付きボルト</td>
+<td>M6&times;8六角穴付きボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/03/p2-11.jpg" alt="M6×8六角穴付きボルト"></td>
-<td>5</td>
+<td><img src="./images/03/p2-11.jpg" alt="M6&times;8六角穴付きボルト"></td>
+<td>2</td>
 </tr>
 <tr>
 <td></td>
-<td>タイミングベルト106cm</td>
+<td>タイミングベルト</td>
 <td></td>
 <td><img src="./images/03/p2-12.jpg" alt="タイミングベルト106cm"></td>
 <td>1</td>
@@ -97,13 +97,17 @@
 
 ## X軸の組み立て
 
-### 偏心スペーサー調整
-フレームとホイールを適度に接地させスムーズに軸を動かすために、偏心スペーサーを調整します。
+### mini v plate（偏心スペーサー）の調整
+フレームとホイールを適度に接地させスムーズに軸を動かすために、mini v plateに取り付けてある偏心スペーサーを調整します。
 偏心スペーサーとは、軸が中心ではないスペーサーを指します。スペーサーを回すことで軸が上下左右に動き、ホイールの接地具合を調整できます。
-偏心スペーサーは赤丸で示した部分に取り付けてあります。
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y8QG-4ASV9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+偏心スペーサーは各プレートの赤丸で示した部分に取り付けてあります。
 <img src="./images/03/mini-300mm_03_04.jpg">
 
-mini v plate_L、mini v plate_R、mini v plate_Cを調整します。V-slot 450mmに各プレートを一つずつ通し調整してください。調整具合は下記動画を参考にしてください。
+V-slot 450mmに各プレートを一つずつ通し偏心スペーサーを調整してください。調整具合は下記動画を参考にしてください。
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c_Q01xAQ09k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -113,11 +117,6 @@ mini v plate_L、mini v plate_R、mini v plate_Cを調整します。V-slot 450m
 
 <img src="./images/03/mini-300mm_03_05.jpg">
 
-<img src="./images/03/mini-300mm_03_06.jpg">
-
-<img src="./images/03/mini-300mm_03_07.jpg">
-
-### mini v plate（3種類）の調整・確認
 写真内赤丸印10箇所のネジに緩みがないか確認してください。
 <img src="./images/03/mini-300mm_03_01.jpg">
 
@@ -126,12 +125,13 @@ mini v plate_L、mini v plate_R、mini v plate_Cを調整します。V-slot 450m
 ネジの緩みがあった場合は、六角レンチとスパナを使用して固定します。
 <img src="./images/03/mini-300mm_03_03.jpg">
 
-### mini v plate_Rの取り付け
+### mini v plate_C、mini v plate_Rの取り付け
 V-slot 450mmにmini v plate_Cを通します。
 <img src="./images/03/mini-300mm_03_08.jpg">
 
 V-slot 450mmを裏返し、写真の位置にM5Tナット2個を入れます。
-<img src="./images/03/mini-300mm_03_10.jpg">
+Tナットには、表と裏があるので注意してください。
+<img src="./images/04/mini-300mm_04_30.jpg">
 
 <img src="./images/03/mini-300mm_03_11.jpg">
 
@@ -144,8 +144,6 @@ mini v plate_RをM5&times;8低頭ボルト2個で取り付けます。V-slot 450
 
 ### mini v plate_Lの取り付け
 写真の位置にM5Tナット2個を入れます。
-<img src="./images/03/mini-300mm_03_15.jpg">
-
 <img src="./images/03/mini-300mm_03_16.jpg">
 
 mini v plate_LをM5&times;8低頭ボルト2個で取り付けます。V-slot 450mmの先端をmini v plate_Lの溝に合わせてください。
@@ -159,7 +157,7 @@ mini v plate_LをM5&times;8低頭ボルト2個で取り付けます。V-slot 450
 V-slot 450mmの写真の位置にM5Tナット2個を入れます。
 <img src="./images/03/mini-300mm_03_20.jpg">
 
-X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り付けます。  
+X軸モーターユニットをM5&times;8低頭ボルト2個で取り付けます。  
 ※後工程で調整するので、ステッピングモーターの軸がmini v plate_Lに触れる程度の位置で仮止めします。
 <img src="./images/03/mini-300mm_03_21.jpg">
 
@@ -168,10 +166,11 @@ X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り�
 <img src="./images/03/mini-300mm_03_23.jpg">
 
 ## タイミングベルトの取り付け
-タイミングベルトは凹凸がある面をタイミングプーリーの歯に合うように取り付けてください。
+タイミングベルト1個を106cmに切り取ってください。
+タイミングベルトは凹凸がある面をタイミングプーリーの歯に合うように取り付けます。
 ※タイミングベルトがねじれないように注意してください。
 
-写真のA~Dの箇所にタイミングベルトを取り付けます。
+写真のA~Dの箇所に順にタイミングベルトを取り付けます。
 <img src="./images/03/mini-300mm_03_24.jpg">
 
 Aの箇所に、mini v plate_Cにタイミングベルト106mmの山がある方を上にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
@@ -184,13 +183,13 @@ B・Cの箇所にタイミングベルトを通します。
 
 <img src="./images/03/mini-300mm_03_29.jpg">
 
-D、mini v plate_Cの右側にタイミングベルト106mmの山がある方を上にして通し、結束バンドで固定します。
+mini v plate_Cの右側にタイミングベルト106mmの山がある方を上にして通し、結束バンドで固定します。
 <img src="./images/03/mini-300mm_03_30.jpg">
 タイミングベルトが余っている場合は、30mm程度残して切り取ってください。
 結束バンドの不要な部分は切り取ります。少しでも切り口が飛び出ていると怪我をする恐れがありますので、根本から切り取ってください。
 <img src="./images/03/mini-300mm_03_31.jpg">
 
-X軸モーターユニットのタイミングプーリーの位置を調整し固定します。タイミングプーリーをv-slot 450mmの溝と同じ高さに調整し、イモネジ2個をしっかりと締め固定してください。
+X軸モーターユニットのタイミングプーリーの位置を調整します。タイミングプーリーをv-slot 450mmの溝と同じ高さに調整し、M3&times;3イモネジ2個をしっかりと締め固定してください。
 <img src="./images/03/mini-300mm_03_32.jpg">
 
 <img src="./images/03/mini-300mm_03_33.jpg">
@@ -211,8 +210,7 @@ v-slot 450mmの溝から大きくずれている場合は、位置を調整し�
 mini v plate_Cに光学ステージをM6&times;8六角穴付きボルト2個で取り付けます。
 <img src="./images/03/mini-300mm_03_37.jpg">
 
-光学ステージ上部にM4&times;8低頭ボルトを取り付けます。完全にボルトを締めずに写真のように3〜4mm飛び出させてください。
+光学ステージ上部にM4&times;8低頭ボルトを取り付けます。完全にボルトを締めずに写真のように3〜4mm余らせてください。
 <img src="./images/03/mini-300mm_03_38.jpg">
 
-以上で本工程は終了です。
 <img src="./images/03/mini-300mm_03_40.jpg">

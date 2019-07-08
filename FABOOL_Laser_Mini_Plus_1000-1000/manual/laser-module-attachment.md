@@ -31,9 +31,9 @@
 </tr>
 <tr>
 <td>48</td>
-<td>M6×8六角穴付きボルト</td>
+<td>M6&times;8六角穴付きボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/10/kp10-4.jpg" alt="M6×8六角穴付きボルト"></td>
+<td><img src="./images/10/kp10-4.jpg" alt="M6&times;8六角穴付きボルト"></td>
 <td>5</td>
 </tr>
 <tr>

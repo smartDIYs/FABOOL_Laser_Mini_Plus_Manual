@@ -55,14 +55,14 @@
 <td>結束バンド</td>
 <td></td>
 <td><img src="./images/06/p6-8.jpg" alt="結束バンド"></td>
-<td>1</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
 
 <br>
 
-本工程は1.6Wモデルと3.5Wモデルで手順が異なります。以下にてそれぞれ説明しておりますので、該当箇所をご参照ください。
+本工程は1.6Wモデルと3.5Wモデルで手順が異なります。3.5Wモデルの方は<a href="#35W">こちら</a>。
 
 ## 配線（1.6W）
 以下の写真を参考に計6種類のケーブルの配線を行います。
@@ -74,22 +74,27 @@
 
 <img src="./images/06/mini-300mm_06_03.jpg">
 
-### Laserケーブル ※反対側は後ほど配線
+### Laserケーブル
+※反対側は後ほど配線
 <img src="./images/06/mini-300mm_06_04.jpg">
 
-### X-Axisケーブル ※反対側は後ほど配線
+### X-Axisケーブル
+※反対側は後ほど配線
 <img src="./images/06/mini-300mm_06_05.jpg">
 
-### Y-Axis-Rケーブル ※反対側は後ほど配線
+### Y-Axis-Rケーブル
+※反対側は後ほど配線
 <img src="./images/06/mini-300mm_06_06.jpg">
 
-### Y-Axis-Lケーブル ※反対側は後ほど配線
+### Y-Axis-Lケーブル
+※反対側は後ほど配線
 <img src="./images/06/mini-300mm_06_07.jpg">
 
-### Foot Switchケーブル ※反対側は後ほど配線
+### Foot Switchケーブル
+※反対側は後ほど配線
 <img src="./images/06/mini-300mm_06_08.jpg">
 
-### ケーブルをすべて接続した状態
+### ケーブルをすべて配線した状態
 PCBケース内の配線を2本の結束バンドを使ってまとめます。
 
 <img src="./images/06/mini-300mm_06_09.jpg">
@@ -106,22 +111,27 @@ PCBケース内の配線を2本の結束バンドを使ってまとめます。
 
 <img src="./images/06/mini-300mm_06_14.jpg">
 
-### Laserケーブル ※反対側は後ほど配線
+### Laserケーブル
+※反対側は後ほど配線
 <img src="./images/06/mini-300mm_06_15.jpg">
 
-### X-Axisケーブル ※反対側は後ほど配線
+### X-Axisケーブル
+※反対側は後ほど配線
 <img src="./images/06/mini-300mm_06_16.jpg">
 
-### Y-Axis-Rケーブル ※反対側は後ほど配線
+### Y-Axis-Rケーブル
+※反対側は後ほど配線
 <img src="./images/06/mini-300mm_06_17.jpg">
 
-### Y-Axis-Lケーブル ※反対側は後ほど配線
+### Y-Axis-Lケーブル
+※反対側は後ほど配線
 <img src="./images/06/mini-300mm_06_18.jpg">
 
-### Foot Switchケーブル ※反対側は後ほど配線
+### Foot Switchケーブル
+※反対側は後ほど配線
 <img src="./images/06/mini-300mm_06_19.jpg">
 
-### ケーブルをすべて接続した状態
+### ケーブルをすべて配線した状態
 PCBケース内の配線を2本の結束バンドを使ってまとめます。
 <img src="./images/06/mini-300mm_06_20.jpg">
 

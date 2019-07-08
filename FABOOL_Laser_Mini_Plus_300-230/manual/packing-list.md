@@ -1,4 +1,3 @@
-## 部品リスト
 <table class="packing-list">
 <tbody>
 <tr>
@@ -45,16 +44,16 @@
 </tr>
 <tr>
 <td>6</td>
-<td>ブラケット</td>
+<td>直角ブラケット</td>
 <td>300x230mmで使用</td>
-<td><img src="./images/13/6.jpg" alt="ブラケット"></td>
+<td><img src="./images/13/6.jpg" alt="直角ブラケット"></td>
 <td>4</td>
 </tr>
 <tr>
 <td>7</td>
-<td>直角ブラケット</td>
+<td>直角直角ブラケット</td>
 <td>600x420mmで使用</td>
-<td><img src="./images/13/7.jpg" alt="直角ブラケット"></td>
+<td><img src="./images/13/7.jpg" alt="直角直角ブラケット"></td>
 <td>4</td>
 </tr>
 <tr>
@@ -248,39 +247,39 @@
 </tr>
 <tr>
 <td>35</td>
-<td>M2×10 六角穴付きボルト</td>
+<td>M2&times;10 六角穴付きボルト</td>
 <td rowspan="13">ネジケース</td>
-<td><img src="./images/13/35.jpg" alt="M2×10 六角穴付きボルト"></td>
+<td><img src="./images/13/35.jpg" alt="M2&times;10 六角穴付きボルト"></td>
 <td>8</td>
 </tr>
 <tr>
 <td>36</td>
-<td>M3×3 イモネジ</td>
-<td><img src="./images/13/36.jpg" alt="M3×3 イモネジ"></td>
+<td>M3&times;3 イモネジ</td>
+<td><img src="./images/13/36.jpg" alt="M3&times;3 イモネジ"></td>
 <td>10</td>
 </tr>
 <tr>
 <td>37</td>
-<td>M3×5 ナイロンネジ</td>
-<td><img src="./images/13/37.jpg" alt="M3×5 ナイロンネジ"></td>
+<td>M3&times;5 ナイロンネジ</td>
+<td><img src="./images/13/37.jpg" alt="M3&times;5 ナイロンネジ"></td>
 <td>11</td>
 </tr>
 <tr>
 <td>38</td>
-<td>M3×6 六角穴付きボルト</td>
-<td><img src="./images/13/38.jpg" alt="M3×6 六角穴付きボルト"></td>
+<td>M3&times;6 六角穴付きボルト</td>
+<td><img src="./images/13/38.jpg" alt="M3&times;6 六角穴付きボルト"></td>
 <td>22</td>
 </tr>
 <tr>
 <td>39</td>
-<td>M3×6 六角穴付き皿ボルト</td>
-<td><img src="./images/13/39.jpg" alt="M3×6 六角穴付き皿ボルト"></td>
+<td>M3&times;6 六角穴付き皿ボルト</td>
+<td><img src="./images/13/39.jpg" alt="M3&times;6 六角穴付き皿ボルト"></td>
 <td>10</td>
 </tr>
 <tr>
 <td>40</td>
-<td>M3×10 六角穴付きボルト</td>
-<td><img src="./images/13/40.jpg" alt="M3×10 六角穴付きボルト"></td>
+<td>M3&times;10 六角穴付きボルト</td>
+<td><img src="./images/13/40.jpg" alt="M3&times;10 六角穴付きボルト"></td>
 <td>6</td>
 </tr>
 <tr>
@@ -291,8 +290,8 @@
 </tr>
 <tr>
 <td>42</td>
-<td>M4×8 低頭ボルト</td>
-<td><img src="./images/13/42.jpg" alt="M4×8 低頭ボルト"></td>
+<td>M4&times;8 低頭ボルト</td>
+<td><img src="./images/13/42.jpg" alt="M4&times;8 低頭ボルト"></td>
 <td>10</td>
 </tr>
 <tr>
@@ -303,14 +302,14 @@
 </tr>
 <tr>
 <td>44</td>
-<td>M5×6 低頭ボルト</td>
-<td><img src="./images/13/44.jpg" alt="M5×6 低頭ボルト"></td>
+<td>M5&times;6 低頭ボルト</td>
+<td><img src="./images/13/44.jpg" alt="M5&times;6 低頭ボルト"></td>
 <td>4</td>
 </tr>
 <tr>
 <td>45</td>
-<td>M5×8 低頭ボルト</td>
-<td><img src="./images/13/45.jpg" alt="M5×8 低頭ボルト"></td>
+<td>M5&times;8 低頭ボルト</td>
+<td><img src="./images/13/45.jpg" alt="M5&times;8 低頭ボルト"></td>
 <td>25</td>
 </tr>
 <tr>
@@ -321,8 +320,8 @@
 </tr>
 <tr>
 <td>47</td>
-<td>M6×8 六角穴付きボルト</td>
-<td><img src="./images/13/47.jpg" alt="M6×8 六角穴付きボルト"></td>
+<td>M6&times;8 六角穴付きボルト</td>
+<td><img src="./images/13/47.jpg" alt="M6&times;8 六角穴付きボルト"></td>
 <td>5</td>
 </tr>
 </tbody>

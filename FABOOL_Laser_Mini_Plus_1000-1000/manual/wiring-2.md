@@ -24,9 +24,9 @@
 </tr>
 <tr>
 <td>39</td>
-<td>M3×6六角穴付きボルト</td>
+<td>M3&times;6六角穴付きボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/08/kp8-3.jpg" alt="M3×6六角穴付きボルト"></td>
+<td><img src="./images/08/kp8-3.jpg" alt="M3&times;6六角穴付きボルト"></td>
 <td>22</td>
 </tr>
 <tr>
