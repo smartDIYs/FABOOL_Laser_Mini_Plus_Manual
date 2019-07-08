@@ -141,7 +141,6 @@ Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個�
 
 <img src="./images/04/mini-300mm_04_48.jpg">
 
-<img src="./images/04/mini-300mm_04_49.jpg">
 
 反対側も同じ要領でidler pulley plateとY軸モーターユニットを取り付けます。
 idler pulley plateをM5Tナット2個とM5&times;8低頭ボルト2個で取り付けます。

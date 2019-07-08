@@ -11,7 +11,7 @@
 <tr>
 <td>23</td>
 <td>PCBケース</td>
-<td></td>
+<td>背面</td>
 <td><img src="./images/05/p5-1.jpg" alt="PCBケース"></td>
 <td>1</td>
 </tr>

@@ -40,7 +40,7 @@
 <td></td>
 <td>保護メガネ</td>
 <td></td>
-<td><img src="./images/09/p9-.jpg" alt="保護メガネ"></td>
+<td><img src="./images/10/p10-1.jpg" alt="保護メガネ"></td>
 <td>1</td>
 </tr>
 </tbody>
@@ -107,6 +107,7 @@ FABOOL Laser Miniで加工を行う際、加工する素材の厚さが変わる
 
 光学キャリアのネジを緩め、レーザーユニットが高さ調整用アクリルに当たるまで下げます。
 
+<img src="./images/10/mini-300mm_10_34.jpg">
 <img src="./images/10/mini-300mm_10_32.jpg">
 
 光学キャリアのネジを締め、高さ調整用アクリルを抜き取ります。
@@ -144,11 +145,13 @@ FABOOL Laser Miniで加工を行う際、加工する素材の厚さが変わる
   - 手動でX軸・Y軸を動かしていただき、可動域全体でスムーズに動くか確認をお願い致します。 どこかで引っかかりやカタさを感じる場合は、偏心スペーサーを回して調整してください。<a href="/manual/fabool-laser-mini-300-230-y-axis-assembly/#YV-slot" target="_blank">Y軸確認、V-slot調整</a>
 
 ### 加工開始
-実際に加工をします。画面右側の「アイテムを追加」をクリックし、「アセットカタログ」→「product」→「テスト用データ」を選択し、インポートします。グラフィックエリアに「テスト用データ」が配置されます。
+実際に加工をします。画面右側の「アイテムを追加」をクリックし、「アセットカタログ」→「product」→「テスト用データ」を選択し、インポートします。グラフィックエリアに「テスト用データ」が配置され、アイテムリストエリアに文字（FABOOL Laser）と円が表示されます。
 
 「範囲確認」をクリックすると、データの外周をレーザーヘッドが示すので、それをもとに素材の位置を調整してください。
 
-次にパラメータを設定します。パラメータについては、<a href="/manual/smartdiys-creator-parameter/" target="_blank">パラメータ設定</a>をご覧ください。1.6Wモデルの方は、スピード2000、パワー100、回数1、3.5Wモデルの方はスピード2000、パワー50、回数1、を設定します。
+次にパラメータを設定します。パラメータについては、<a href="/manual/smartdiys-creator-parameter/" target="_blank">パラメータ設定</a>をご覧ください。
+
+1.6Wモデルの方は、文字・円データ共にスピード1500、パワー100、回数1、ハッチング0.1mm（文字データのみ）、3.5Wモデルの方は、文字・円データ共にスピード1500、パワー50、回数1、ハッチング0.1mm（文字データのみ）を設定します。
 
 画面右上のスタートをクリックし、表示された注意内容を確認後、OKをクリックしてください。加工が開始されます。
 
@@ -162,3 +165,6 @@ FABOOL Laser Miniで加工を行う際、加工する素材の厚さが変わる
 
 **円に歪みがある・レーザーが照射されていない部分がある（ドット抜け）**
   - タイミングベルトを張りすぎている可能性があります。下記動画を参考にX軸・Y軸のタイミングベルトの張りを調整してください。
+  <div class="iframe-content">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nZFclrTLQzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
+  </div>

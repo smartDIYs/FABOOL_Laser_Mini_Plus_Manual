@@ -12,42 +12,42 @@
 <td>13</td>
 <td>PCBケーブル</td>
 <td></td>
-<td><img src="./images/06/p6-1.jpg" alt="PCBケーブル"></td>
+<td><img src="./images/06/p6-9.jpg" alt="PCBケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Laserケーブル</td>
 <td>一部の製品には形状の違うケーブルが入っています</td>
-<td><img src="./images/06/p6-2.jpg" alt="Laserケーブル"></td>
+<td><img src="./images/06/p6-10.jpg" alt="Laserケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>15</td>
 <td>X-Axisケーブル</td>
 <td></td>
-<td><img src="./images/06/p6-4.jpg" alt="X-Axisケーブル"></td>
+<td><img src="./images/06/p6-11.jpg" alt="X-Axisケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Y-Axis-Rケーブル</td>
 <td></td>
-<td><img src="./images/06/p6-3.jpg" alt="Y-Axis-Rケーブル"></td>
+<td><img src="./images/06/p6-12.jpg" alt="Y-Axis-Rケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Y-Axis-Lケーブル</td>
 <td></td>
-<td><img src="./images/06/p6-5.jpg" alt="Y-Axis-Lケーブル"></td>
+<td><img src="./images/06/p6-13.jpg" alt="Y-Axis-Lケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Foot Switchケーブル</td>
 <td></td>
-<td><img src="./images/06/p6-7.jpg" alt="Foot Switchケーブル"></td>
+<td><img src="./images/06/p6-14.jpg" alt="Foot Switchケーブル"></td>
 <td>1</td>
 </tr>
 <tr>

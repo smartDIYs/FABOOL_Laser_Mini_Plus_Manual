@@ -64,13 +64,14 @@ Y軸モーターユニットにY-Axis-Lケーブルのリミットスイッチ�
 ※リミットスイッチには取り付ける向きがあるので注意して下さい。
 <img src="./images/07/mini-300mm_07_21.jpg">
 
-<img src="./images/07/mini-300mm_07_06.jpg">
+<img src="./images/07/mini-300mm_07_30.jpg">
 
 ステッピングモーターにY-Axis-Lケーブルを接続します。
+<img src="./images/07/mini-300mm_07_31.jpg">
 
 ## Foot Switchケーブル配線
 Y軸モーターユニットにFoot SwitchケーブルのリミットスイッチをM2&times;10六角穴付きボルト2個で取り付けます。
-<img src="./images/07/mini-300mm_07_07.jpg">
+<img src="./images/07/mini-300mm_07_32.jpg">
 
 ## Y-Axis-Rケーブルの配線
 ステッピングモーターにY-Axis-Rケーブルを接続します。
