@@ -71,11 +71,15 @@ ACケーブルを家庭用のコンセント（AC100V）に接続します。PCB
 <img src="./images/10/mini-300mm_10_30.jpg">
 
 #### トラブルシューティング
+
 **電源が入らない**
 - ACアダプターのLEDが点灯していますか？点灯していない場合、ACケーブルの接続をご確認ください。
 <img src="./images/10/mini-300mm_10_15.jpg">
+
 - コントロール基板のLEDの下部、青色のLEDは点灯していますか？点灯していない場合、コントーロール基盤のケーブルの配線が正常でない可能性があります。<a href="/manual/fabool-laser-mini-300-230-wiring-1/">配線1</a>をご覧いただき、配線をご確認ください。
+
 <img src="./images/10/mini-300mm_10_16.jpg">
+
 **ファンが回転しない**
 ファンが回転しない場合、こちらもコントーロール基盤のケーブルの配線が正常でない可能性があります。<a href="/manual/fabool-laser-mini-300-230-wiring-1/">配線1</a>をご覧いただき、配線をご確認ください。
 
@@ -90,13 +94,13 @@ PCと製品が問題なく接続できている場合、ソフトウェアの画
 
 #### トラブルシューティング
 **製品と接続しているのに未接続と表示される**
-  USBを何回か抜き差ししてください。また、USBハブを使用している場合は、使用せずにUSBとPCを直接接続してください。
+USBを何回か抜き差ししてください。また、USBハブを使用している場合は、使用せずにUSBとPCを直接接続してください。
 
-**エラーリスト**
+####エラーリスト
 - **フットスイッチが接地していません**
-  製品左後方に取り付けたフットスイッチ（リミットスイッチ）が地面と接地しておらず、スイッチが押されていない状態になっています。水平で平らな場所に装置を置いた状態で、フットスイッチが押されているかご確認ください。<a href="/manual/fabool-laser-mini-300-230-wiring-2/#Foot_Switch/" target="_blank">Foot Switchケーブル配線</a>
+製品左後方に取り付けたフットスイッチ（リミットスイッチ）が地面と接地しておらず、スイッチが押されていない状態になっています。水平で平らな場所に装置を置いた状態で、フットスイッチが押されているかご確認ください。<a href="/manual/fabool-laser-mini-300-230-wiring-2/#Foot_Switch/" target="_blank">Foot Switchケーブル配線</a>
 - **リミットスイッチに接触しています**
-  <a href="/manual/fabool-laser-mini-300-230-wiring-2/#X-Axis" target="_blank">X-Axisケーブルの配線</a>と<a href="/manual/fabool-laser-mini-300-230-wiring-2/#Y-Axis-L/" target="_blank">Y-Axis-Lケーブルの配線</a>、で配線したリミットスイッチに、X軸またはレーザーヘッドが接触しています。下記で説明する原点復帰を行ってください。改善しない場合は<a href="/manual/fabool-laser-mini-300-230-wiring-2/#X-Axis" target="_blank">X-Axisケーブルの配線</a>と<a href="/manual/fabool-laser-mini-300-230-wiring-2/#Y-Axis-L/" target="_blank">Y-Axis-Lケーブルの配線</a>、ならびに<a href="/manual/fabool-laser-mini-300-230-wiring-1/">配線1</a>をご覧いただき、リミットスイッチの取り付け位置と部品の向き、配線をご確認ください。
+<a href="/manual/fabool-laser-mini-300-230-wiring-2/#X-Axis" target="_blank">X-Axisケーブルの配線</a>と<a href="/manual/fabool-laser-mini-300-230-wiring-2/#Y-Axis-L/" target="_blank">Y-Axis-Lケーブルの配線</a>、で配線したリミットスイッチに、X軸またはレーザーヘッドが接触しています。下記で説明する原点復帰を行ってください。改善しない場合は<a href="/manual/fabool-laser-mini-300-230-wiring-2/#X-Axis" target="_blank">X-Axisケーブルの配線</a>と<a href="/manual/fabool-laser-mini-300-230-wiring-2/#Y-Axis-L/" target="_blank">Y-Axis-Lケーブルの配線</a>、ならびに<a href="/manual/fabool-laser-mini-300-230-wiring-1/">配線1</a>をご覧いただき、リミットスイッチの取り付け位置と部品の向き、配線をご確認ください。
 
 ## 高さ調整
 FABOOL Laser Miniで加工を行う際、加工する素材の厚さが変わるごとに、付属の高さ調整用アクリルを使い、レーザーユニットの高さの調整を行ってください。
@@ -130,19 +134,19 @@ FABOOL Laser Miniで加工を行う際、加工する素材の厚さが変わる
 
 #### トラブルシューティング
 **原点復帰ボタンをクリックしても動作しない**
-  表示が接続済みになっているかご確認ください。また、USBを抜き差ししてください。
+表示が接続済みになっているかご確認ください。また、USBを抜き差ししてください。
 
 **原点に戻ってもレーザーヘッドが停止しない**
-  リミットスイッチの取り付け位置、または配線が原因の可能性があります。<a href="/manual/fabool-laser-mini-300-230-wiring-2/#X-Axis" target="_blank">X-Axisケーブルの配線</a>と<a href="/manual/fabool-laser-mini-300-230-wiring-2/#Y-Axis-L/" target="_blank">Y-Axis-Lケーブルの配線</a>、ならびに<a href="/manual/fabool-laser-mini-300-230-wiring-1/">配線1</a>をご覧いただき取り付け位置と部品の向き、配線をご確認ください。
+リミットスイッチの取り付け位置、または配線が原因の可能性があります。<a href="/manual/fabool-laser-mini-300-230-wiring-2/#X-Axis" target="_blank">X-Axisケーブルの配線</a>と<a href="/manual/fabool-laser-mini-300-230-wiring-2/#Y-Axis-L/" target="_blank">Y-Axis-Lケーブルの配線</a>、ならびに<a href="/manual/fabool-laser-mini-300-230-wiring-1/">配線1</a>をご覧いただき取り付け位置と部品の向き、配線をご確認ください。
 
 ### 位置確認
 「位置確認」をクリックしてください。グラフィックエリアにレーザヘッドのアイコンが表示され、このアイコンをドラッグすることで、レーザーヘッドを任意の場所に移動させます。移動に問題がないかレーザーヘッドを何回か移動させ確認します。
 
 #### トラブルシューティング
 **X軸・Y軸に引っかかりがある**
-  - タイミングプーリーがモーターの軸に対してしっかりと固定されているか、イモネジを再度ご確認ください。<a href="/manual/fabool-laser-mini-300-230-motor-unit-assembly/" target="_blank">X軸・Y軸モーターユニット組み立て</a>
-  - タイミングベルトを張り過ぎた場合、ステッピングモーターに負荷が掛かってしまい、正常動作をしない場合が御座います。タイミングベルトを少し緩めて動作を再度動作をご確認ください。<a href="/manual/fabool-laser-mini-300-230-y-axis-assembly/#i-3" target="_blank">タイミングベルトの取り付け</a>
-  - 手動でX軸・Y軸を動かしていただき、可動域全体でスムーズに動くか確認をお願い致します。 どこかで引っかかりやカタさを感じる場合は、偏心スペーサーを回して調整してください。<a href="/manual/fabool-laser-mini-300-230-y-axis-assembly/#YV-slot" target="_blank">Y軸確認、V-slot調整</a>
+- タイミングプーリーがモーターの軸に対してしっかりと固定されているか、イモネジを再度ご確認ください。<a href="/manual/fabool-laser-mini-300-230-motor-unit-assembly/" target="_blank">X軸・Y軸モーターユニット組み立て</a>
+- タイミングベルトを張り過ぎた場合、ステッピングモーターに負荷が掛かってしまい、正常動作をしない場合が御座います。タイミングベルトを少し緩めて動作を再度動作をご確認ください。<a href="/manual/fabool-laser-mini-300-230-y-axis-assembly/#i-3" target="_blank">タイミングベルトの取り付け</a>
+- 手動でX軸・Y軸を動かしていただき、可動域全体でスムーズに動くか確認をお願い致します。 どこかで引っかかりやカタさを感じる場合は、偏心スペーサーを回して調整してください。<a href="/manual/fabool-laser-mini-300-230-y-axis-assembly/#YV-slot" target="_blank">Y軸確認、V-slot調整</a>
 
 ### 加工開始
 実際に加工をします。画面右側の「アイテムを追加」をクリックし、「アセットカタログ」→「product」→「テスト用データ」を選択し、インポートします。グラフィックエリアに「テスト用データ」が配置され、アイテムリストエリアに文字（FABOOL Laser）と円が表示されます。
@@ -164,7 +168,6 @@ FABOOL Laser Miniで加工を行う際、加工する素材の厚さが変わる
   - フットスイッチが接地していないとレーザーは照射されません。製品左後方に取り付けたフットスイッチ（リミットスイッチ）が地面と接地しているかご確認ください。
 
 **円に歪みがある・レーザーが照射されていない部分がある（ドット抜け）**
-  - タイミングベルトを張りすぎている可能性があります。下記動画を参考にX軸・Y軸のタイミングベルトの張りを調整してください。
-  <div class="iframe-content">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/nZFclrTLQzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
-  </div>
+- タイミングプーリーがモーターの軸に対してしっかりと固定されているか、イモネジを再度ご確認ください。<a href="/manual/fabool-laser-mini-300-230-motor-unit-assembly/" target="_blank">X軸・Y軸モーターユニット組み立て</a>
+- タイミングベルトを張り過ぎた場合、ステッピングモーターに負荷が掛かってしまい、正常動作をしない場合が御座います。タイミングベルトを少し緩めて動作を再度動作をご確認ください。<a href="/manual/fabool-laser-mini-300-230-y-axis-assembly/#i-3" target="_blank">タイミングベルトの取り付け</a>
+- 手動でX軸・Y軸を動かしていただき、可動域全体でスムーズに動くか確認をお願い致します。 どこかで引っかかりやカタさを感じる場合は、偏心スペーサーを回して調整してください。<a href="/manual/fabool-laser-mini-300-230-y-axis-assembly/#YV-slot" target="_blank">Y軸確認、V-slot調整</a>

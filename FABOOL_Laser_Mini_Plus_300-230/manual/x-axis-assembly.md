@@ -179,12 +179,12 @@ Aの箇所に、mini v plate_Cにタイミングベルト106mmの山がある方
 </div>
 
 B・Cの箇所にタイミングベルトを通します。
-<img src="./images/03/mini-300mm_03_28.jpg">
+<img src="./images/03/mini-300mm_03_41.jpg">
 
-<img src="./images/03/mini-300mm_03_29.jpg">
+<img src="./images/03/mini-300mm_03_42.jpg">
 
 mini v plate_Cの右側にタイミングベルト106mmの山がある方を上にして通し、結束バンドで固定します。
-<img src="./images/03/mini-300mm_03_30.jpg">
+<img src="./images/03/mini-300mm_03_43.jpg">
 タイミングベルトが余っている場合は、30mm程度残して切り取ってください。
 結束バンドの不要な部分は切り取ります。少しでも切り口が飛び出ていると怪我をする恐れがありますので、根本から切り取ってください。
 <img src="./images/03/mini-300mm_03_31.jpg">

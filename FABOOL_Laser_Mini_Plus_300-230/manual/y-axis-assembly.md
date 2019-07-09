@@ -141,6 +141,8 @@ Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個�
 
 <img src="./images/04/mini-300mm_04_48.jpg">
 
+<img src="./images/04/mini-300mm_04_62.jpg">
+
 
 反対側も同じ要領でidler pulley plateとY軸モーターユニットを取り付けます。
 idler pulley plateをM5Tナット2個とM5&times;8低頭ボルト2個で取り付けます。
@@ -155,14 +157,18 @@ Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個�
 ## タイミングベルトの取り付け
 タイミングベルト2本を1000mmに切り取ってください。  
 結束バンドを使いながらタイミングベルトを取り付けます。mini v plate_Rにタイミングベルトを結束バンドで取り付けます。
-<img src="./images/04/mini-300mm_04_54.jpg">
+<img src="./images/04/mini-300mm_04_63.jpg">
+
+<img src="./images/04/mini-300mm_04_64.jpg">
 
 手前のidler pulleyにタイミングベルトを通します。
+<img src="./images/04/mini-300mm_04_65.jpg">
 
 奥のidler pulleyにタイミングベルトを通します。
-<img src="./images/04/mini-300mm_04_55.jpg">
+<img src="./images/04/mini-300mm_04_66.jpg">
 
 mini v plate_Rにタイミングベルトを結束バンドで取り付けます。
+<img src="./images/04/mini-300mm_04_67.jpg">
 
 反対側も同様にタイミングベルトを取り付けます。
 タイミングベルトをしっかりと張るため、idler pulley plate側のねじを一度緩め、写真を参考に引っ張りながら再度ねじを締めます。しっかりとタイミングベルトが張っていることを確認してください。

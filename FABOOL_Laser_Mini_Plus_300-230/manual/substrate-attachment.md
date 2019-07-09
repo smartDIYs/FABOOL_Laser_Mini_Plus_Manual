@@ -19,7 +19,7 @@
 <td></td>
 <td>レーザー基板 （1.6W/3.5W）</td>
 <td></td>
-<td><img src="./images/05/p5-2.jpg" alt="レーザー基板 （1.6W/3.5W）"></td>
+<td><img src="./images/05/p5-7.jpg" alt="レーザー基板 （1.6W/3.5W）"></td>
 <td>1</td>
 </tr>
 <tr>
