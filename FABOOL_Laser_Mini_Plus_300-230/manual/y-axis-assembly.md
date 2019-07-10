@@ -18,7 +18,7 @@
 <tr>
 <td>2</td>
 <td>V-slot 410mm</td>
-<td>300x230mmで使用</td>
+<td></td>
 <td><img src="./images/04/p4-2.jpg" alt="V-slot 410mm"></td>
 <td>4</td>
 </tr>
@@ -116,7 +116,7 @@ X軸が揺れる場合は偏心スペーサーの調整をしてください。
 
 <img src="./images/04/mini-300mm_04_60.jpg">
 
-このように隙間ができても問題ありません。
+写真のように隙間ができても問題ありません。
 <img src="./images/04/mini-300mm_04_41.jpg">
 
 ## idler pulley plate・Y軸モーターユニットの取り付け
@@ -133,7 +133,7 @@ Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個�
 ※Y軸モーターユニットは、取り付ける向きがあるので注意してください。
 <img src="./images/04/mini-300mm_04_45.jpg">
 
-取り付けた際に、Y軸モーターユニットの線と、奥に見えるアルミフレームの端が一直線上に来るように位置を調整してください。内側にも同じ位置に線があるので、その線とV-slot 410mmの先端がぴったり合っているかを確認してください。
+Y軸モーターユニットの線と、V-slotの端が一直線上に来るように位置を調整してください。内側にも同じ位置に線があるので、その線とV-slot 410mmの先端がぴったり合っているかを確認してください。
 <img src="./images/04/mini-300mm_04_46.jpg">
 
 タイミングプーリーをv-slot 410mmの溝と同位置に調整し、イモネジ2個をしっかりと締め固定してください。ずれている場合は、位置を調節した上で固定します。
@@ -155,8 +155,8 @@ Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個�
 <img src="./images/04/mini-300mm_04_52.jpg">
 
 ## タイミングベルトの取り付け
-タイミングベルト2本を1000mmに切り取ってください。  
-結束バンドを使いながらタイミングベルトを取り付けます。mini v plate_Rにタイミングベルトを結束バンドで取り付けます。
+タイミングベルト2本を1000mmに切ります。  
+結束バンドを使いながらタイミングベルトを取り付けます。mini v plate_Lにタイミングベルトを結束バンドで取り付けます。
 <img src="./images/04/mini-300mm_04_63.jpg">
 
 <img src="./images/04/mini-300mm_04_64.jpg">
@@ -167,10 +167,11 @@ Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個�
 奥のidler pulleyにタイミングベルトを通します。
 <img src="./images/04/mini-300mm_04_66.jpg">
 
-mini v plate_Rにタイミングベルトを結束バンドで取り付けます。
+mini v plate_Lにタイミングベルトを結束バンドで取り付けます。
 <img src="./images/04/mini-300mm_04_67.jpg">
 
 反対側も同様にタイミングベルトを取り付けます。
+
 タイミングベルトをしっかりと張るため、idler pulley plate側のねじを一度緩め、写真を参考に引っ張りながら再度ねじを締めます。しっかりとタイミングベルトが張っていることを確認してください。
 
 <img src="./images/04/mini-300mm_04_57.jpg">
@@ -182,4 +183,9 @@ mini v plate_Rにタイミングベルトを結束バンドで取り付けます
 
 ### チェックポイント　Y軸確認 2
 タイミングベルトを取り付けた状態で再度Y軸の確認を行います。X軸ユニットを手動で動かし、少しでも引っかかりがある場合は偏心スペーサーを調整してください。
+
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xU4jr6fL4cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <img src="./images/04/mini-300mm_04_40.jpg">

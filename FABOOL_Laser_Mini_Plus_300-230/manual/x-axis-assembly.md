@@ -178,7 +178,7 @@ Aの箇所に、mini v plate_Cにタイミングベルト106mmの山がある方
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tsZOb9eN33c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-B・Cの箇所にタイミングベルトを通します。
+写真を参考にタイミングベルトを通します。
 <img src="./images/03/mini-300mm_03_41.jpg">
 
 <img src="./images/03/mini-300mm_03_42.jpg">
