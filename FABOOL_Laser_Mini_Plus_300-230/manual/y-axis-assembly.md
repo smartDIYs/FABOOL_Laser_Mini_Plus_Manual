@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td></td>
-<td>タイミングベルト100cm</td>
+<td>タイミングベルト</td>
 <td></td>
 <td><img src="./images/04/p4-5.jpg" alt="タイミングベルト100cm"></td>
 <td>2</td>
@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td>7</td>
-<td>直角直角ブラケット</td>
+<td>直角ブラケット</td>
 <td>一部の製品には黒色の直角ブラケットが入っています</td>
 <td><img src="./images/04/p4-11.jpg" alt="直角ブラケット"></td>
 <td>4</td>

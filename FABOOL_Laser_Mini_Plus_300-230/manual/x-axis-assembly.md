@@ -39,7 +39,7 @@
 <tr>
 <td>1</td>
 <td>V-slot 450mm</td>
-<td>300x230mmで使用</td>
+<td></td>
 <td><img src="./images/03/p2-5.jpg" alt="V-slot 450mm"></td>
 <td>1</td>
 </tr>
@@ -173,7 +173,7 @@ X軸モーターユニットをM5&times;8低頭ボルト2個で取り付けま�
 写真のA~Dの箇所に順にタイミングベルトを取り付けます。
 <img src="./images/03/mini-300mm_03_24.jpg">
 
-Aの箇所に、mini v plate_Cにタイミングベルト106mmの山がある方を上にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
+Aの箇所に、mini v plate_Cにタイミングベルトの山がある方を下にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tsZOb9eN33c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -183,7 +183,7 @@ Aの箇所に、mini v plate_Cにタイミングベルト106mmの山がある方
 
 <img src="./images/03/mini-300mm_03_42.jpg">
 
-mini v plate_Cの右側にタイミングベルト106mmの山がある方を上にして通し、結束バンドで固定します。
+mini v plate_Cの右側にタイミングベルトの山がある方を下にして通し、結束バンドで固定します。
 <img src="./images/03/mini-300mm_03_43.jpg">
 タイミングベルトが余っている場合は、30mm程度残して切り取ってください。
 結束バンドの不要な部分は切り取ります。少しでも切り口が飛び出ていると怪我をする恐れがありますので、根本から切り取ってください。

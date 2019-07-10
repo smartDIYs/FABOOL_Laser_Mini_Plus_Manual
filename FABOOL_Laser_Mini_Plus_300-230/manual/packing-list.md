@@ -10,56 +10,28 @@
 <tr>
 <td>1</td>
 <td>V-slot 450mm</td>
-<td>300x230mmで使用</td>
+<td></td>
 <td><img src="./images/13/1.jpg" alt="V-slot 450mm"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>V-slot 410mm</td>
-<td>300x230mmで使用</td>
+<td></td>
 <td><img src="./images/13/2.jpg" alt="V-slot 410mm"></td>
 <td>4</td>
 </tr>
 <tr>
-<td>3</td>
-<td>V-slot 760mm</td>
-<td>600x420mmで使用</td>
-<td><img src="./images/13/3.jpg" alt="V-slot 760mm"></td>
-<td>1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>V-slot 720mm</td>
-<td>600x420mmで使用</td>
-<td><img src="./images/13/4.jpg" alt="V-slot 720mm"></td>
-<td>2</td>
-</tr>
-<tr>
-<td>5</td>
-<td>V-slot 610mm</td>
-<td>600x420mmで使用</td>
-<td><img src="./images/13/4.jpg" alt="V-slot 610mm"></td>
-<td>2</td>
-</tr>
-<tr>
-<td>6</td>
-<td>直角ブラケット</td>
-<td>300x230mmで使用</td>
-<td><img src="./images/13/6.jpg" alt="直角ブラケット"></td>
-<td>4</td>
-</tr>
-<tr>
 <td>7</td>
-<td>直角直角ブラケット</td>
-<td>600x420mmで使用</td>
-<td><img src="./images/13/7.jpg" alt="直角直角ブラケット"></td>
+<td>直角ブラケット</td>
+<td>一部の製品には黒色の直角ブラケットが入っています</td>
+<td><img src="./images/04/p4-11.jpg" alt="直角ブラケット"></td>
 <td>4</td>
 </tr>
 <tr>
 <td>8</td>
 <td>タイミングベルト1500mm</td>
-<td>300x230mmで使用</td>
+<td></td>
 <td><img src="./images/13/8.jpg" alt="タイミングベルト1500mm"></td>
 <td>3</td>
 </tr>
@@ -141,6 +113,13 @@
 <td>1</td>
 </tr>
 <tr>
+<td></td>
+<td>レーザー基板 （1.6W/3.5W）</td>
+<td></td>
+<td><img src="./images/05/p5-7.jpg" alt="レーザー基板 （1.6W/3.5W）"></td>
+<td>1</td>
+</tr>
+<tr>
 <td>20</td>
 <td>タイミングプーリー</td>
 <td></td>
@@ -173,13 +152,13 @@
 <td>結束バンド固定具</td>
 <td></td>
 <td><img src="./images/13/24.jpg" alt="結束バンド固定具"></td>
-<td>1</td>
+<td>3</td>
 </tr>
 <tr>
 <td>25</td>
 <td>結束バンド</td>
 <td></td>
-<td><img src="./images/13/25.jpg" alt="結束バンド"></td>
+<td><img src="./images/13/25.jpg" alt="結束バンド">18</td>
 <td>1</td>
 </tr>
 <tr>
@@ -250,79 +229,73 @@
 <td>M2&times;10 六角穴付きボルト</td>
 <td rowspan="13">ネジケース</td>
 <td><img src="./images/13/35.jpg" alt="M2&times;10 六角穴付きボルト"></td>
-<td>8</td>
+<td>6</td>
 </tr>
 <tr>
 <td>36</td>
 <td>M3&times;3 イモネジ</td>
 <td><img src="./images/13/36.jpg" alt="M3&times;3 イモネジ"></td>
-<td>10</td>
+<td>6</td>
 </tr>
 <tr>
 <td>37</td>
 <td>M3&times;5 ナイロンネジ</td>
 <td><img src="./images/13/37.jpg" alt="M3&times;5 ナイロンネジ"></td>
-<td>11</td>
+<td>9</td>
 </tr>
 <tr>
 <td>38</td>
 <td>M3&times;6 六角穴付きボルト</td>
 <td><img src="./images/13/38.jpg" alt="M3&times;6 六角穴付きボルト"></td>
-<td>22</td>
+<td>14</td>
 </tr>
 <tr>
 <td>39</td>
 <td>M3&times;6 六角穴付き皿ボルト</td>
 <td><img src="./images/13/39.jpg" alt="M3&times;6 六角穴付き皿ボルト"></td>
-<td>10</td>
+<td>8</td>
 </tr>
 <tr>
 <td>40</td>
-<td>M3&times;10 六角穴付きボルト</td>
-<td><img src="./images/13/40.jpg" alt="M3&times;10 六角穴付きボルト"></td>
-<td>6</td>
+<td>M3&times;10 ナイロンネジ</td>
+<td><img src="./images/13/40.jpg" alt="M3&times;10 ナイロンネジ"></td>
+<td>4</td>
 </tr>
 <tr>
 <td>41</td>
 <td>M3後入れナット</td>
 <td><img src="./images/13/41.jpg" alt="M3後入れナット"></td>
-<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>42</td>
 <td>M4&times;8 低頭ボルト</td>
 <td><img src="./images/13/42.jpg" alt="M4&times;8 低頭ボルト"></td>
-<td>10</td>
-</tr>
-<tr>
-<td>43</td>
-<td>M4x40 六角穴付ボルト</td>
-<td><img src="./images/13/43.jpg" alt="M4x40 六角穴付ボルト"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>44</td>
 <td>M5&times;6 低頭ボルト</td>
 <td><img src="./images/13/44.jpg" alt="M5&times;6 低頭ボルト"></td>
-<td>4</td>
+<td>2</td>
 </tr>
 <tr>
 <td>45</td>
 <td>M5&times;8 低頭ボルト</td>
 <td><img src="./images/13/45.jpg" alt="M5&times;8 低頭ボルト"></td>
-<td>25</td>
+<td>22</td>
 </tr>
 <tr>
 <td>46</td>
 <td>M5 Tナット</td>
 <td><img src="./images/13/46.jpg" alt="M5 Tナット"></td>
-<td>28</td>
+<td>24</td>
 </tr>
 <tr>
 <td>47</td>
 <td>M6&times;8 六角穴付きボルト</td>
 <td><img src="./images/13/47.jpg" alt="M6&times;8 六角穴付きボルト"></td>
-<td>5</td>
+<td>3</td>
 </tr>
 </tbody>
 </table>
