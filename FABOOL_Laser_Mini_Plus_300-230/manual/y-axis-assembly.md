@@ -182,7 +182,7 @@ mini v plate_Lにタイミングベルトを結束バンドで取り付けます
 <img src="./images/04/mini-300mm_04_58.jpg">
 
 ### チェックポイント　Y軸確認 2
-タイミングベルトを取り付けた状態で再度Y軸の確認を行います。X軸ユニットを手動で動かし、少しでも引っかかりがある場合は偏心スペーサーを調整してください。
+タイミングベルトを取り付けた状態で再度Y軸の確認を行います。X軸ユニットを手動で動かし、ベルトの張り具合が左右で異なる場合は、idler pulley plateの位置を調整し、タイミングベルトの張りを調整してください。また、少しでも引っかかりがある場合は偏心スペーサーを調整してください。
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xU4jr6fL4cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
