@@ -151,8 +151,8 @@
 <td>25</td>
 <td>結束バンド</td>
 <td></td>
-<td><img src="./images/13/25.jpg" alt="結束バンド">18</td>
-<td>1</td>
+<td><img src="./images/13/25.jpg" alt="結束バンド"></td>
+<td>18</td>
 </tr>
 <tr>
 <td>26</td>
@@ -250,8 +250,8 @@
 </tr>
 <tr>
 <td>40</td>
-<td>M3&times;10 ナイロンネジ</td>
-<td><img src="./images/13/40.jpg" alt="M3&times;10 ナイロンネジ"></td>
+<td>M3&times;10ナイロンネジ</td>
+<td><img src="./images/08/p8-4.jpg" alt="M3&times;10ナイロンネジ"></td>
 <td>4</td>
 </tr>
 <tr>
