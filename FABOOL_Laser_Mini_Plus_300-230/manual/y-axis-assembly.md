@@ -129,6 +129,8 @@ idler pulley plateをM5Tナット2個とM5&times;8低頭ボルト2個で取り�
 
 <img src="./images/04/mini-300mm_04_44.jpg">
 
+<img src="./images/04/mini-300mm_04_69.jpg">
+
 Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個で取り付けます。  
 ※Y軸モーターユニットは、取り付ける向きがあるので注意してください。
 <img src="./images/04/mini-300mm_04_45.jpg">
