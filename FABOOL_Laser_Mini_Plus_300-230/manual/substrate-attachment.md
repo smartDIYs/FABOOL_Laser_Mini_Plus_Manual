@@ -47,7 +47,7 @@
 <td>24</td>
 <td>結束バンド固定具</td>
 <td></td>
-<td><img src="./images/04/p4-10.jpg" alt="結束バンド固定具"></td>
+<td><img src="./images/07/p7-3.jpg" alt="結束バンド固定具"></td>
 <td>1</td>
 </tr>
 </tbody>
@@ -76,7 +76,7 @@ PCBケースの裏に結束バンド固定具をM3&times;5ナイロンネジで�
 <img src="./images/05/mini-300mm_05_06.jpg">
 
 ## 基板の取り付け（3.5W）
-<a href="/manual/fabool-laser-mini-300-230-y-axis-assembly/">Y軸の組み立て</a>で予め入れておいたM5Tナットをて、使用しPCBケースをM5&times;6低頭ボルト2個で取り付けます。
+<a href="/manual/fabool-laser-mini-300-230-y-axis-assembly/">Y軸の組み立て</a>で予め入れておいたM5Tナットを使用して、使用しPCBケースをM5&times;6低頭ボルト2個で取り付けます。
 <img src="./images/05/mini-300mm_05_01.jpg">
 
 PCBケースにレーザー基板をM3&times;5ナイロンネジ4個で取り付けます。

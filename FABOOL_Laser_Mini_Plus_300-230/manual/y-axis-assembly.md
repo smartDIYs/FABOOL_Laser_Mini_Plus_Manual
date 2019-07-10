@@ -136,12 +136,12 @@ Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個�
 Y軸モーターユニットの線と、V-slotの端が一直線上に来るように位置を調整してください。内側にも同じ位置に線があるので、その線とV-slot 410mmの先端がぴったり合っているかを確認してください。
 <img src="./images/04/mini-300mm_04_46.jpg">
 
+<img src="./images/04/mini-300mm_04_68.jpg">
+
 タイミングプーリーをv-slot 410mmの溝と同位置に調整し、イモネジ2個をしっかりと締め固定してください。ずれている場合は、位置を調節した上で固定します。
 <img src="./images/04/mini-300mm_04_47.jpg">
 
 <img src="./images/04/mini-300mm_04_48.jpg">
-
-<img src="./images/04/mini-300mm_04_62.jpg">
 
 
 反対側も同じ要領でidler pulley plateとY軸モーターユニットを取り付けます。
