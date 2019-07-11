@@ -95,7 +95,7 @@ Tナットの上に直角ブラケットを載せ、ネジ締めを行います�
 V-slot 410mm の両端にV-slot 410mmを2本置き、M5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
 <img src="./images/04/mini-300mm_04_37.jpg">
 
-<a href="/manual/fabool-laser-mini-300-230-motor-unit-assembly/">X軸の組み立て</a>で組み立てたX軸ユニットをフレームに通します。
+<a href="/manual/fabool-laser-mini-300-230-x-axis-assembly/">X軸の組み立て</a>で組み立てたX軸ユニットをフレームに通します。
 <img src="./images/04/mini-300mm_04_38.jpg">
 
 V-slot 410mm をM5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
