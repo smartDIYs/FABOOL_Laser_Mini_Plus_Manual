@@ -121,7 +121,7 @@ FABOOL Laser Miniで加工を行う際、加工する素材の厚さが変わる
 ソフトウェアを操作し、製品が問題なく組み立てられているかチェックをします。
 下記動画を参考にソフトウェアの操作、製品の動作をチェックしてください。
 <div class="iframe-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xU4jr6fL4cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vmhB0CPzQBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### 原点復帰
