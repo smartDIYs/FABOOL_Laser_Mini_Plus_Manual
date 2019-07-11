@@ -11,7 +11,7 @@
 <tr>
 <td>23</td>
 <td>PCBケース</td>
-<td>表面、側面</td>
+<td>フロントカバー、サイドカバー</td>
 <td><img src="./images/08/p8-1.jpg" alt="PCBケース"></td>
 <td>1</td>
 </tr>
@@ -32,7 +32,7 @@
 <tr>
 <td></td>
 <td>M3&times;10ナイロンネジ</td>
-<td></td>
+<td>ネジケース</td>
 <td><img src="./images/08/p8-4.jpg" alt="M3&times;10ナイロンネジ"></td>
 <td>4</td>
 </tr>

@@ -69,7 +69,7 @@ Y軸モーターユニットにY-Axis-Lケーブルのリミットスイッチ�
 ステッピングモーターにY-Axis-Lケーブルを接続します。
 <img src="./images/07/mini-300mm_07_31.jpg">
 
-## Foot Switchケーブル配線
+## Foot Switchケーブルの配線
 Y軸モーターユニットにFoot SwitchケーブルのリミットスイッチをM2&times;10六角穴付きボルト2個で取り付けます。
 <img src="./images/07/mini-300mm_07_32.jpg">
 
@@ -105,5 +105,5 @@ Laserケーブルの反対側を光学ステージのM4&times;8低頭ボルト�
 LaserケーブルとY-Axis-Rケーブルを結束バンドで2ヵ所固定します。
 <img src="./images/07/mini-300mm_07_18.jpg">
 
-最後に、結束バンドの不要な部分を切り取ります。
+結束バンドの不要な部分を切り取ります。
 <img src="./images/07/mini-300mm_07_28.jpg">
