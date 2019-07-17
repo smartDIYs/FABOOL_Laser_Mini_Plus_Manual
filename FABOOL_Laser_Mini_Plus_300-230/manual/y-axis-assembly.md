@@ -105,7 +105,7 @@ V-slot 410mm をM5Tナット4個とM5&times;8低頭ボルト4個と直角ブラ�
 Y軸の動作を手動で確認します。以下の動画のように、X軸ユニットがスムーズに動く状態が正常となります。
 
 <div class="iframe-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3kBx3myEY30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Qh-cn_xt_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 X軸が揺れる場合は偏心スペーサーの調整をしてください。

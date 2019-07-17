@@ -110,7 +110,7 @@
 V-slot 450mmに各プレートを一つずつ通し偏心スペーサーを調整してください。調整具合は下記動画を参考にしてください。
 
 <div class="iframe-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c_Q01xAQ09k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-c9290TpFkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <img src="./images/03/mini-300mm_03_39.jpg">
@@ -203,7 +203,7 @@ v-slot 450mmの溝から大きくずれている場合は、位置を調整し�
 <img src="./images/03/mini-300mm_03_36.jpg">
 
 <div class="iframe-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nZFclrTLQzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/74ecE_M3Mac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 光学ステージの取り付け
