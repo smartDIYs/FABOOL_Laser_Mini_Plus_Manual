@@ -95,62 +95,85 @@
 </tbody>
 </table>
 
-## mini v plateの調整とmini v plate_c取り付け
 ## X軸の組み立て
-mini v plate_L_2040_1m、mini v plate_R_2040_1m、mini v plate_Cを調整してください。
-
+フレームとホイールを適度に接地させスムーズに軸を動かすために、mini v plateに取り付けてある偏心スペーサーを調整します。
+偏心スペーサーとは、軸が中心ではないスペーサーを指します。スペーサーを回すことで軸が上下左右に動き、ホイールの接地具合を調整できます。
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y8QG-4ASV9U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<br>
+偏心スペーサーは各プレートの赤丸で示した部分に取り付けてあります。
+<img src="./images/04/mini-1000mm_04_33.jpg">
 
-<img src="./images/04/mini-1000mm_04_01.jpg">
+2040 V-slot 1210mmに各プレートを一つずつ通し偏心スペーサーを調整してください。調整具合は下記動画を参考にしてください。
 
-<img src="./images/04/mini-1000mm_04_02.jpg">
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-c9290TpFkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<img src="./images/04/mini-1000mm_04_03.jpg">
+<img src="./images/04/mini-1000mm_04_34.jpg">
 
-### mini v plate_R_2040_1mの取り付け
+<img src="./images/04/mini-1000mm_04_35.jpg">
+
+写真内赤丸印10箇所のネジに緩みがないか確認してください。
+<img src="./images/04/mini-1000mm_04_36.jpg">
+
+<img src="./images/04/mini-1000mm_04_37.jpg">
+
+ネジの緩みがあった場合は、六角レンチとスパナを使用して固定します。
+
+<img src="./images/04/mini-1000mm_04_38.jpg">
+
+
+### mini v plate_C、mini v plate_R_2040_1mの取り付け
 2040 V-slot 1210mmにmini v plate_Cを通します。
 <img src="./images/04/mini-1000mm_04_04.jpg">
 
-2040 V-slot 1210mmを裏返し、写真の位置にM5Tナット4個を入れます。
-<img src="./images/04/mini-1000mm_04_05.jpg">
+2040 V-slot 1210mmを裏返し、写真の位置にM5Tナット4個を入れます。 Tナットには、表と裏があるので注意してください。
+<img src="./images/04/mini-1000mm_04_39.jpg">
 
 <img src="./images/04/mini-1000mm_04_06.jpg">
 
 mini v plate_R_2040_1mをM5&times;8低頭ボルト4個で取り付けます。2040 V-slot 1210mmの先端をmini v plate_R_2040_1mの溝に合わせてください。
-<img src="./images/04/mini-1000mm_04_07.jpg">
+<img src="./images/04/mini-1000mm_04_40.jpg">
 
-<img src="./images/04/mini-1000mm_04_08.jpg">
+<img src="./images/04/mini-1000mm_04_41.jpg">
 
-<img src="./images/04/mini-1000mm_04_09.jpg">
+<img src="./images/04/mini-1000mm_04_42.jpg">
 
 ### mini v plate_L_2040_1mの取り付け
 写真の位置にM5Tナット4個を入れます。
-<img src="./images/04/mini-1000mm_04_10.jpg">
 
 <img src="./images/04/mini-1000mm_04_11.jpg">
 
 mini v plate_L_2040_1mをM5&times;8低頭ボルト4個で取り付けます。2040 V-slot 1210mmの先端をmini v plate_L_2040_1mの溝に合わせてください。
-<img src="./images/04/mini-1000mm_04_12.jpg">
+<img src="./images/04/mini-1000mm_04_43.jpg">
 
-<img src="./images/04/mini-1000mm_04_13.jpg">
+<img src="./images/04/mini-1000mm_04_44.jpg">
 
-<img src="./images/04/mini-1000mm_04_14.jpg">
+<img src="./images/04/mini-1000mm_04_45.jpg">
 
 ## X軸モーターユニットの取り付け
 2040 V-slot 1210mmの写真の位置にM5Tナット2個を入れます。
-<img src="./images/04/mini-1000mm_04_15.jpg">
+<img src="./images/04/mini-1000mm_04_46.jpg">
 
 X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り付けます。  
-※X軸モーターユニットの取り付け位置は、後工程で調整するので仮止めして下さい。
+後工程で調整するので、ステッピングモーターの軸がmini v plate_Lに触れる程度の位置で仮止めします。
 <img src="./images/04/mini-1000mm_04_16.jpg">
 
-<img src="./images/04/mini-1000mm_04_17.jpg">
+<img src="./images/04/mini-1000mm_04_47.jpg">
 
 <img src="./images/04/mini-1000mm_04_18.jpg">
+
+## carrier-mount2の取り付け
+2040 V-slot 1210mmの写真の位置にM5Tナット8個を入れます。
+
+<img src="./images/04/mini-1000mm_04_50.jpg">
+
+carrier-mount2をM5&times;8六角穴付きボルト6個で取り付けます。一番左のcarrier-mount2は、2040 V-slot 1210mmの中心に取り付けてください。
+<img src="./images/04/mini-1000mm_04_51.jpg">
+
+<img src="./images/04/mini-1000mm_04_52.jpg">
 
 ## タイミングベルトの取り付け
 タイミングベルトは凹凸がある面をタイミングプーリーの歯に合うように取り付けてください。  
@@ -159,42 +182,31 @@ X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り�
 写真のA~Dの箇所にタイミングベルトを取り付けます。
 <img src="./images/04/mini-1000mm_04_18_01.jpg">
 
-A、mini v plate_Cにタイミングベルト3600mmの山がある方を上にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
-<img src="./images/04/mini-1000mm_04_19.jpg">
-
-<img src="./images/04/mini-1000mm_04_20.jpg">
-
-<img src="./images/04/mini-1000mm_04_21.jpg">
+Aの箇所に、mini v plate_Cにタイミングベルト3600mmの山がある方を下にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
 
 <div class="iframe-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EJ0unA_HlrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tsZOb9eN33c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<br>
+写真を参考にタイミングベルトを通します。
+<img src="./images/04/mini-1000mm_04_53.jpg">
 
-<div class="iframe-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gq2b4nlQAnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<img src="./images/04/mini-1000mm_04_54.jpg">
 
-B・Cの箇所にタイミングベルトを通します。
-<img src="./images/04/mini-1000mm_04_22.jpg">
+D、mini v plate_Cの右側にタイミングベルト3600mmの山がある方を下にして通し、結束バンドで固定します。
 
-<img src="./images/04/mini-1000mm_04_23.jpg">
-
-D、mini v plate_Cの右側にタイミングベルト3600mmの山がある方を上にして通し、結束バンドで固定します。
-
-<img src="./images/04/mini-1000mm_04_24.jpg">
+<img src="./images/04/mini-1000mm_04_55.jpg">
 
 タイミングベルトが余っている場合は、30mm程度残して切り取ってください。  
 結束バンドの不要な部分は切り取ります。少しでも切り口が飛び出ていると怪我をする恐れがありますので、根本から切り取ってください。
 <img src="./images/04/mini-1000mm_04_25.jpg">
 
-X軸モーターユニットのタイミングプーリーの位置を調整します。2040 v-slot 1210mmの溝と一致していることを確認します。
+X軸モーターユニットのタイミングプーリーの位置を調整します。タイミングプーリーを2040 v-slot 1210mmの溝と同じ高さに調整し、M3×3イモネジ2個をしっかりと締め固定してください。
 <img src="./images/04/mini-1000mm_04_26.jpg">
 
 <img src="./images/04/mini-1000mm_04_27.jpg">
 
-2040 v-slot 1210mmの溝から大きくずれている場合は、イモネジ2個を緩め調整してから固定してください。
+2040 v-slot 1210mmの溝から大きくずれている場合は、位置を調整してから固定してください。
 <img src="./images/04/mini-1000mm_04_28.jpg">
 
 タイミングベルトを張ります。X軸モーターユニットのM5&times;8低頭ボルトを緩め、矢印の方向に引っ張りながらボルトを固定します。ステッピングモーターと2040 V-slot 1210mmが平行になるようにしてください。張り具合は、下記の動画をご覧ください。
@@ -202,15 +214,13 @@ X軸モーターユニットのタイミングプーリーの位置を調整し�
 
 <img src="./images/04/mini-1000mm_04_30.jpg">
 
-<br>
-
 <div class="iframe-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B0T3zE79iKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/74ecE_M3Mac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 光学ステージの取り付け
 mini v plate_Cに光学ステージをM6&times;8六角穴付きボルト2個で取り付けます。
-<img src="./images/04/mini-1000mm_04_31.jpg">
+<img src="./images/04/mini-1000mm_04_57.jpg">
 
-光学ステージ上部にM4&times;40六角穴付きボルトを取り付けます。
-<img src="./images/04/mini-1000mm_04_32.jpg">
+光学ステージ上部にcarrier-mountを〇〇ボルトで取り付けます。
+<img src="./images/04/mini-1000mm_04_58.jpg">
