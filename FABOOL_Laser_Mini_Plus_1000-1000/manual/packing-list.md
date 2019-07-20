@@ -346,10 +346,10 @@
 <td>5</td>
 </tr>
 <tr>
+<td>M4&times;6六角穴付ボルト</td>
 <td></td>
-<td></td>
-<td><img src="" alt="M3&times;8六角穴付皿ボルト"></td>
-<td>5</td>
+<td><img src="" alt="M4&times;6六角穴付ボルト"></td>
+<td>1</td>
 </tr>
 <tr>
 <td>48</td>

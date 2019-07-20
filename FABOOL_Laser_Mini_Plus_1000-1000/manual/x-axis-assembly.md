@@ -107,11 +107,11 @@
 <td>5</td>
 </tr>
 <tr>
-<td>0</td>
-<td>〇〇ボルト</td>
+<td></td>
+<td>M4&times;6六角穴付ボルト</td>
 <td>ネジケース</td>
-<td><img src="" alt="M6x8六角穴付ボルト"></td>
-<td>5</td>
+<td><img src="" alt="M4&times;6六角穴付ボルト"></td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
@@ -243,5 +243,5 @@ X軸モーターユニットのタイミングプーリーの位置を調整し�
 mini v plate_Cに光学ステージをM6&times;8六角穴付きボルト2個で取り付けます。
 <img src="./images/04/mini-1000mm_04_57.jpg">
 
-光学ステージ上部にcarrier-mount1を〇〇ボルトで取り付けます。
+光学ステージ上部にcarrier-mount1をM4&times;6六角穴付ボルトで取り付けます。
 <img src="./images/04/mini-1000mm_04_58.jpg">
