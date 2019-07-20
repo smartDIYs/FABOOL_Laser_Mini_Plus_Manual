@@ -46,7 +46,7 @@
 </tbody>
 </table>
 
-本工程は1.6Wモデルと3.5Wモデルで手順が異なります。3.5Wモデルの方は<a href="/manual/fabool-laser-mini-300-230-pcb-case-assembly/#PCB35W">こちら</a>。
+本工程は1.6Wモデルと3.5Wモデルで手順が異なります。3.5Wモデルの方は<a href="/manual/fabool-laser-mini-plus-1000-1000-pcb-case-assembly/#PCB35W">こちら</a>。
 
 ## PCBケースの組み立て（1.6W）
 ### DCファン取り付け

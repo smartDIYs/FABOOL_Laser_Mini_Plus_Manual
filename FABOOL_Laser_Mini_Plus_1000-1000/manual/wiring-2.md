@@ -50,6 +50,13 @@
 <td><img src="./images/08/kp8-6.jpg" alt="M2x10六角穴付ボルト"></td>
 <td>8</td>
 </tr>
+<tr>
+<td>00</td>
+<td>M3x6六角穴付皿ボルト</td>
+<td>ネジケース</td>
+<td><img src="" alt="M2x10六角穴付ボルト"></td>
+<td>4</td>
+</tr>
 </tbody>
 </table>
 
