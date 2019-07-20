@@ -12,21 +12,21 @@
 <td>10</td>
 <td>mini v plate_C</td>
 <td></td>
-<td><img src="./images/04/kp3-01.jpg" alt="mini v plate_C"></td>
+<td><img src="./images/14/10.jpg" alt="mini v plate_C"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>11</td>
 <td>mini v plate_L_2040_1m</td>
 <td></td>
-<td><img src="./images/04/kp3-02.jpg" alt="mini v plate_L_2040_1m"></td>
+<td><img src="./images/14/11.jpg" alt="mini v plate_L_2040_1m"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>12</td>
 <td>mini v plate_R_2040_1m</td>
 <td></td>
-<td><img src="./images/04/kp3-03.jpg" alt="mini v plate_R_2040_1m"></td>
+<td><img src="./images/14/12.jpg" alt="mini v plate_R_2040_1m"></td>
 <td>1</td>
 </tr>
 <tr>
@@ -64,7 +64,6 @@
 <td><img src="./images/14/50.jpg" alt="carrier-mount2"></td>
 <td>3</td>
 </tr>
-
 <tr>
 <td>26</td>
 <td>結束バンド</td>
