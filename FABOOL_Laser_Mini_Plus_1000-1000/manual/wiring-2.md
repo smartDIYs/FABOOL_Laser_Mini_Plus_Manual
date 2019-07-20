@@ -45,14 +45,14 @@
 </tr>
 <tr>
 <td>36</td>
-<td>M2x10六角穴付ボルト</td>
+<td>M2&times;10六角穴付ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/08/kp8-6.jpg" alt="M2x10六角穴付ボルト"></td>
 <td>8</td>
 </tr>
 <tr>
 <td>00</td>
-<td>M3x6六角穴付皿ボルト</td>
+<td>M3&times;8六角穴付皿ボルト</td>
 <td>ネジケース</td>
 <td><img src="" alt="M2x10六角穴付ボルト"></td>
 <td>4</td>
@@ -112,7 +112,7 @@ M3後入れナットに結束バンド固定具をM3×6六角穴付ボルトで�
 M3後入れナットに結束バンド固定具をM3&times;6六角穴付ボルトで取り付けます。
 <img src="./images/08/mini-1000mm_08_40.jpg">
 
-ケーブルキャリアを写真の位置に置き、中心のcarrier-mount2にケーブルキャリアをM3&times;6六角穴付皿ボルト2個で取り付けます。
+ケーブルキャリアを写真の位置に置き、中心のcarrier-mount2にケーブルキャリアをM3&times;8六角穴付皿ボルト2個で取り付けます。
 <img src="./images/08/mini-1000mm_08_41.jpg">
 
 <img src="./images/08/mini-1000mm_08_42.jpg">
