@@ -54,7 +54,7 @@
 <td>00</td>
 <td>M3&times;8六角穴付皿ボルト</td>
 <td>ネジケース</td>
-<td><img src="" alt="M2x10六角穴付ボルト"></td>
+<td><img src="./images/14/56.jpg" alt="M3&times;8六角穴付皿ボルト"></td>
 <td>4</td>
 </tr>
 </tbody>
