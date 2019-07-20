@@ -162,4 +162,4 @@ FABOOL Laser Miniで加工を行う際、加工する素材の厚さが変わる
 **円に歪みがある・レーザーが照射されていない部分がある（ドット抜け）**
 - タイミングプーリーがモーターの軸に対してしっかりと固定されているか、イモネジを再度ご確認ください。<a href="/manual/fabool-laser-mini-plus-1000-1000-motor-unit-assembly/" target="_blank">X軸・Y軸モーターユニット組み立て</a>
 - タイミングベルトを張り過ぎた場合、ステッピングモーターに負荷が掛かってしまい、正常動作をしない場合が御座います。タイミングベルトを少し緩めて動作を再度動作をご確認ください。<a href="/manual/fabool-laser-mini-plus-1000-1000-y-axis-assembly/#i-3" target="_blank">タイミングベルトの取り付け</a>
-- 手動でX軸・Y軸を動かしていただき、可動域全体でスムーズに動くか確認をお願い致します。 どこかで引っかかりやカタさを感じる場合は、偏心スペーサーを回して調整してください。<a href="/manual/fabool-laser-mini-plus-1000-1000-y-axis-assembly/#YV-slot" target="_blank">Y軸確認、V-slot調整</a>
+- 手動でX軸・Y軸を動かしていただき、可動域全体でスムーズに動くか確認をお願い致します。 どこかで引っかかりやカタさを感じる場合は、偏心スペーサーを回して調整してください。<a href="/manual/fabool-laser-mini-plus-1000-1000-y-axis-assembly/#Y_2" target="_blank">チェックポイント　Y軸確認 2</a>
