@@ -10,16 +10,37 @@
 <tr>
 <td>1</td>
 <td>V-slot 450mm</td>
-<td></td>
+<td>加工エリア30cm×23cm</td>
 <td><img src="./images/13/1.jpg" alt="V-slot 450mm"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>V-slot 410mm</td>
-<td></td>
+<td>加工エリア30cm×23cm</td>
 <td><img src="./images/13/2.jpg" alt="V-slot 410mm"></td>
 <td>4</td>
+</tr>
+<tr>
+<td></td>
+<td>V-slot 760mm</td>
+<td>加工エリア60cm×42cm</td>
+<td><img src="./images/13/51.jpg" alt="V-slot 760mm></td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td>V-slot 720mm</td>
+<td>加工エリア60cm×42cm</td>
+<td><img src="./images/13/52.jpg" alt="V-slot 720mm"></td>
+<td>2</td>
+</tr>
+<tr>
+<td></td>
+<td>V-slot 610mm</td>
+<td>加工エリア60cm×42cm</td>
+<td><img src="./images/13/53.jpg" alt="V-slot 610mm"></td>
+<td>2</td>
 </tr>
 <tr>
 <td>7</td>
@@ -220,7 +241,7 @@
 <tr>
 <td>35</td>
 <td>M2&times;10 六角穴付きボルト</td>
-<td rowspan="13">ネジケース</td>
+<td rowspan="12">ネジケース</td>
 <td><img src="./images/13/35.jpg" alt="M2&times;10 六角穴付きボルト"></td>
 <td>6</td>
 </tr>
@@ -289,6 +310,27 @@
 <td>M6&times;8 六角穴付きボルト</td>
 <td><img src="./images/13/47.jpg" alt="M6&times;8 六角穴付きボルト"></td>
 <td>3</td>
+</tr>
+<tr>
+<td>48</td>
+<td>六角レンチ</td>
+<td></td>
+<td><img src="./images/13/48.jpg" alt="六角レンチ"></td>
+<td>1</td>
+</tr>
+<tr>
+<td>49</td>
+<td>スパナ</td>
+<td></td>
+<td><img src="./images/13/49.jpg" alt="スパナ"></td>
+<td>1</td>
+</tr>
+<tr>
+<td>50</td>
+<td>保護メガネ</td>
+<td></td>
+<td><img src="./images/13/50.jpg" alt="保護メガネ"></td>
+<td>1</td>
 </tr>
 </tbody>
 </table>
