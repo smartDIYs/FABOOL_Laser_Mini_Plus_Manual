@@ -51,7 +51,4 @@
 <img src="./images/10/mini-1000mm_10_01.jpg">
 
 光学ステージに光学キャリアを取り付けし、レーザーユニットとLaserケーブルを接続します。
-<img src="./images/10/mini-1000mm_10_02.jpg">
-
-ケーブルを結束バンドで固定し、結束バンドの不要な部分は切り取ります。
-<img src="./images/10/mini-1000mm_10_03.jpg">
+<img src="./images/10/mini-1000mm_10_04.jpg">

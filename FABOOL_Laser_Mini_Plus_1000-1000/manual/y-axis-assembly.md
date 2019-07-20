@@ -81,26 +81,33 @@
 </tbody>
 </table>
 
+## 直角ブラケットの取り扱いついて
+フレーム組み立てに使用する直角ブラケットの取り扱いについて説明します。この説明をご覧いただいた後に実際の組み立てに入ってください。
+
+アルミフレームの溝に表を上にしたTナットを入れます。
+<img src="./images/05/mini-300mm_04_32.jpg">
+
+直角ブラケットには穴が２つ空いている面がありますが、写真赤丸の穴のみを使用します。
+<img src="./images/05/mini-300mm_04_31.jpg">
+
+Tナットの上に直角ブラケットを載せ、ネジ締めを行います。ネジ締めを行うことで、写真のように2つのアルミフレームを固定できます。
+<img src="./images/05/mini-300mm_04_34.jpg">
+
 ## フレームの組み立て
 平で水平な机の上でフレーム組み立てを行ってください。
-まず、2020 V-slot 1170mmにM5Tナット2個を入れます。
-<img src="./images/05/mini-1000mm_05_01.jpg">
+まず、2020 V-slot 1170mmの背面にM5Tナット2個を入れます。
+<img src="./images/05/mini-1000mm_05_27.jpg">
 
-先程の2020 V-slot 1170mm と（写真奥のフレーム、M5Tナットを入れた面を奥に向けてください）、2020 V-slot 1210mm 2本を組み合わせます。
-<img src="./images/05/mini-1000mm_05_02.jpg">
+2020 V-slot 1170mm の両端に、2020 V-slot 1210mm を2本置き、M5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
+<img src="./images/05/mini-1000mm_05_28.jpg">
 
-M5Tナット4個とM5&times;8低頭ボルト4個で直角ブラケット2個を固定します。
-<img src="./images/05/mini-1000mm_05_03.jpg">
+<a href="/manual/fabool-laser-mini-plus-1000-1000-x-axis-assembly/">X軸の組み立て</a>で組み立てたX軸ユニットをフレームに通します。
 
-<img src="./images/05/mini-1000mm_05_04.jpg">
+<img src="./images/05/mini-1000mm_05_29.jpg">
 
-X軸ユニットを先程組み立てたフレームに通します。X軸ユニットの向きに注意して、2020 V-slot 1210mmの溝と、mini v wheelを合わせて通します。
-<img src="./images/05/mini-1000mm_05_05.jpg">
 
-<img src="./images/05/mini-1000mm_05_06.jpg">
-
-最後の1辺にフレームを取り付けます。写真の赤丸の位置に直角ブラケットを入れて、M5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
-<img src="./images/05/mini-1000mm_05_07.jpg">
+2020 V-slot 1170mmをM5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
+<img src="./images/05/mini-1000mm_05_30.jpg">
 
 ### フレームの直角確認
 組み立てたフレームの直角を確認します。L字定規などを角にあて直角を確認してください。アルミフレームの特性上、フレームに隙間を作らないと直角にならない場合がありますが、隙間ができても問題ありません。角を直角にすることを優先してください。
@@ -108,63 +115,83 @@ X軸ユニットを先程組み立てたフレームに通します。X軸ユニ
 
 <img src="./images/05/mini-1000mm_05_09.jpg">
 
-## idler pulley plate・Y軸モーターユニットの取り付け
-左手前にidler pulley plate、左奥にY軸モーターユニットを取り付けます。
-<img src="./images/05/mini-1000mm_05_10.jpg">
+### チェックポイント　Y軸確認 １
+Y軸の動作を手動で確認します。以下の動画のように、X軸ユニットがスムーズに動く状態が正常となります。
 
-まず、左手前にM5Tナット2個を入れ、idler pulley plateをM5&times;8低頭ボルト2個で取り付けます。（写真は左側から写しています）  
-※後工程で最終的な位置調整は行いますので、写真を参考にidler pulley plateのidler pulleyが2020 v-slot 1210mmに触れる程度で仮止めをします。
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Qh-cn_xt_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+X軸が揺れる場合は偏心スペーサーの調整をしてください。
+<img src="./images/05/mini-1000mm_05_34.jpg">
+
+引っかかりを感じる場合は、アルミフレームの調整を行います。アルミフレームの製造上の公差により、アルミフレームの寸法が合わない場合があります。アルミフレームに隙間を設けて調整してください。
+<img src="./images/05/mini-300mm_04_59.jpg">
+
+<img src="./images/05/mini-300mm_04_60.jpg">
+
+写真のように隙間ができても問題ありません。
+<img src="./images/05/mini-1000mm_05_09.jpg">
+
+## idler pulley plate・Y軸モーターユニットの取り付け
+<img src="./images/05/mini-1000mm_05_41.jpg">
+
+idler pulley plateをM5Tナット2個とM5&times;8低頭ボルト2個で取り付けます。
+後工程で調整するので、写真を参考にidler pulleyが2020 v-slot 1210mmに触れる程度で仮止めをします。
 <img src="./images/05/mini-1000mm_05_11.jpg">
 
 <img src="./images/05/mini-1000mm_05_12.jpg">
 
-次に左奥にM5Tナット2個を入れ、Y軸モーターユニットをM5&times;8低頭ボルト2個で取り付けます。（写真は左側から写しています）  
-※Y軸モーターユニットは、取り付けた際に右側の小さい穴が上部にくるものを使用してください。
+<img src="./images/05/mini-1000mm_05_31.jpg">
+
+Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個で取り付けます。
+※Y軸モーターユニットは、取り付ける向きがあるので注意してください。
 <img src="./images/05/mini-1000mm_05_13.jpg">
 
-取り付けた際に、Y軸モーターユニットの線と、奥に見えるアルミフレームの端が一直線上に来るように位置を調整してください。内側にも同じ位置に線があるので、その線と2020 V-slot 1210mmの先端がぴったり合っているかを確認してください。
+Y軸モーターユニットの線と、2020 V-slot 1170mmの端が一直線上に来るように位置を調整してください。内側にも同じ位置に線があるので、その線と2020 V-slot 1170mmの先端がぴったり合っているかを確認してください。
 <img src="./images/05/mini-1000mm_05_14.jpg">
 
-タイミングプーリーの位置が以下の写真のように、2020 V-slot 1170mmの溝と一致していることを確認します。（写真は奥側から写しています）ずれている場合は、タイミングプーリーのイモネジ2個を一度緩め、位置を調節した上で再度イモネジを締めなおします。
+<img src="./images/05/mini-1000mm_05_32.jpg">
+
+タイミングプーリーを2020 V-slot 1170mmの溝と同位置に調整し、イモネジ2個をしっかりと締め固定してください。ずれている場合は、位置を調節した上で固定します。
 <img src="./images/05/mini-1000mm_05_15.jpg">
 
 <img src="./images/05/mini-1000mm_05_16.jpg">
 
-<img src="./images/05/mini-1000mm_05_17.jpg">
+反対側も同じ要領でidler pulley plateとY軸モーターユニットを取り付けます。idler pulley plateをM5Tナット2個とM5×8低頭ボルト2個で取り付けます。
 
-反対側も同じ要領でidler pulley plateとY軸モーターユニットを取り付けます。
 <img src="./images/05/mini-1000mm_05_18.jpg">
 
 <img src="./images/05/mini-1000mm_05_19.jpg">
 
-<img src="./images/05/mini-1000mm_05_20.jpg">
-
-## Y軸確認、V-slot調整
-Y軸の動作を手動で確認します。以下の動画のように、本体を立てた時に自然にX軸ユニットが下に落ちてくる状態が正常となります。  
-X軸ユニットを可動範囲全体で動かしてみて、少しでも引っかかりを感じる場合は、X軸ユニット左右のmini v plate_R_2040_1m、mini v plate_L_2040_1mの偏心スペーサーを少しずつ回して、緩める方向に調整してください。
-
-<div class="iframe-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BsWwEVtgDBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<br>
-
-<img src="./images/05/mini-1000mm_05_21.jpg">
-
 ## タイミングベルトの取り付け
-X軸に対して行ったと同じように、結束バンドを使いながら、タイミングベルトを取り付けます。タイミングベルトをmini v plate_R_2040_1mに通し結束バンドで固定します。
-<img src="./images/05/mini-1000mm_05_22.jpg">
+タイミングベルトをmini v plate_R_2040_1mに通し結束バンドで固定します。
+<img src="./images/05/mini-1000mm_05_33.jpg">
 
-手前と奥のプーリーを通し、mini v plate_R_2040_1mに結束バンドで固定してください。ベルトの張りは後ほど調整するため、多少ゆるみをもたせてください。
-<img src="./images/05/mini-1000mm_05_23.jpg">
+<img src="./images/05/mini-1000mm_05_35.jpg">
 
-<img src="./images/05/mini-1000mm_05_24.jpg">
+idler pulleyにタイミングベルトを通します。
+<img src="./images/05/mini-1000mm_05_36.jpg">
+
+タイミングプーリーにタイミングベルトを通します。
+<img src="./images/05/mini-1000mm_05_37.jpg">
+
+mini v plate_R_2040_1mにタイミングベルトを結束バンドで取り付けます。
+<img src="./images/05/mini-1000mm_05_38.jpg">
+
+反対側も同様にタイミングベルトを取り付けます。
 
 タイミングベルトをしっかりと張るため、idler pulley plate側のねじを一度緩め、写真を参考に引っ張りながら再度ねじを締めます。しっかりとタイミングベルトが張っていることを確認してください。
-<img src="./images/05/mini-1000mm_05_25.jpg">
+<img src="./images/05/mini-1000mm_05_39.jpg">
 
-反対側も同じ要領で、タイミングベルトを取り付けたのち、idler pulley plateを引っ張りタイミングベルトをしっかり張ってください。
-<img src="./images/05/mini-1000mm_05_26.jpg">
+反対側も同様に、タイミングベルトをしっかり張ってください。 タイミングベルトが余っている場合は、20〜30mm程度残して切り取ってください。 最後に、結束バンドの不要な部分を切り取ります。
+<img src="./images/05/mini-1000mm_05_40.jpg">
 
-タイミングベルトが余っている場合は、20〜30mm程度残して切り取ってください。
-最後に、結束バンドの不要な部分を切り取ります。
+### チェックポイント　Y軸確認 2
+タイミングベルトを取り付けた状態で再度Y軸の確認を行います。X軸ユニットを手動で動かし、ベルトの張り具合が左右で異なる場合は、idler pulley plateの位置を調整し、タイミングベルトの張りを調整してください。また、少しでも引っかかりがある場合は偏心スペーサーを調整してください。
+
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xU4jr6fL4cA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<img src="./images/05/mini-1000mm_05_34.jpg">

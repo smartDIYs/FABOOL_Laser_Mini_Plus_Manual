@@ -123,7 +123,7 @@ X軸が揺れる場合は偏心スペーサーの調整をしてください。
 <img src="./images/04/mini-300mm_04_61.jpg">
 
 idler pulley plateをM5Tナット2個とM5&times;8低頭ボルト2個で取り付けます。
-後工程で調整するので、写真を参考にidler pulleyがv-slot 410mmに触れる程度で仮止めをします。。
+後工程で調整するので、写真を参考にidler pulleyがv-slot 410mmに触れる程度で仮止めをします。
 <img src="./images/04/mini-300mm_04_43.jpg">
 
 <img src="./images/04/mini-300mm_04_44.jpg">

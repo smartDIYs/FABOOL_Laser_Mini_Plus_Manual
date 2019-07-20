@@ -10,9 +10,9 @@
 </tr>
 <tr>
 <td>19</td>
-<td>コルゲートチューブ</td>
+<td>ケーブルキャリア</td>
 <td></td>
-<td><img src="./images/08/kp8-1.jpg" alt="コルゲートチューブ"></td>
+<td><img src="./images/08/kp8-7.jpg" alt="ケーブルキャリア"></td>
 <td>1</td>
 </tr>
 <tr>
@@ -53,81 +53,73 @@
 </tbody>
 </table>
 
-## 結束バンド固定具を取り付ける
-写真は本体背面から見ています。  
-赤丸と矢印の位置に結束バンド固定具を取り付けていきます。  
-※矢印はPCBを取り付けたフレームの底面を表しています。
-<img src="./images/08/mini-1000mm_08_01.jpg">
+## ケーブルキャリア準備
+ケーブルキャリアにLaserケーブルを通します。
+<img src="./images/08/mini-1000mm_08_24.jpg">
 
-本体を立て、赤丸の箇所にM3後入ナット2個をフレームの溝に入れ、M3&times;6六角穴付きボルト2個で結束バンド固定具2個を取り付けます。
-<img src="./images/08/mini-1000mm_08_02.jpg">
+<img src="./images/08/mini-1000mm_08_25.jpg">
 
-<img src="./images/08/mini-1000mm_08_03.jpg">
+<img src="./images/08/mini-1000mm_08_26.jpg">
 
-<img src="./images/08/mini-1000mm_08_04.jpg">
 
-次に赤丸の位置に結束バンド固定具を取り付けます。
-<img src="./images/08/mini-1000mm_08_01.jpg">
+## ケーブル4種の配線
+<img src="./images/08/mini-1000mm_08_27.jpg">
 
-<img src="./images/08/mini-1000mm_08_05.jpg">
+X軸モーターユニットにX-AxisケーブルのリミットスイッチをM2×10六角穴付きボルト2個で取り付けます。
+※リミットスイッチには取り付ける向きがあるので注意して下さい。
 
-<img src="./images/08/mini-1000mm_08_06.jpg">
+<img src="./images/08/mini-1000mm_08_28.jpg">
 
-<img src="./images/08/mini-1000mm_08_07.jpg">
+ステッピングモーターにX-Axisケーブルを接続します。
+<img src="./images/08/mini-1000mm_08_29.jpg">
 
-## 本体右側配線
-Y-Axis-Rケーブルを配線します。  
-写真を参考に、Y-Axis-Rケーブルを結束バンドで結束バンド固定具に固定します。
-<img src="./images/08/mini-1000mm_08_08.jpg">
+Y軸モーターユニットにY-Axis-LケーブルのリミットスイッチをM2×10六角穴付きボルト2個で取り付けます。 ※リミットスイッチには取り付ける向きがあるので注意して下さい。
+<img src="./images/08/mini-1000mm_08_30.jpg">
 
-Y-Axis-Rケーブルのコネクタをステッピングモーターに接続します。
-<img src="./images/08/mini-1000mm_08_09.jpg">
+ステッピングモーターにY-Axis-Lケーブルを接続します。
+<img src="./images/08/mini-1000mm_08_31.jpg">
 
-## 本体左側配線
-写真を参考に、以下ケーブルを結束バンドで結束バンド固定具に固定します。  
-・Laserケーブル  
-・X-Axisケーブル  
-・Y-Axis-Lケーブル  
-・Foot Switchケーブル
-<img src="./images/08/mini-1000mm_08_10.jpg">
+Y軸モーターユニットにFoot SwitchケーブルのリミットスイッチをM2×10六角穴付きボルト2個で取り付けます。
+<img src="./images/08/mini-1000mm_08_32.jpg">
 
-Foot SwitchケーブルをM2&times;10 六角穴付きボルト2個で取り付けます。
-<img src="./images/08/mini-1000mm_08_11.jpg">
+ステッピングモーターにY-Axis-Rケーブルを接続します。
+<img src="./images/08/mini-1000mm_08_33.jpg">
 
-立てている本体を倒します。
-<img src="./images/08/mini-1000mm_08_12.jpg">
+本体を立て、写真の位置にM3後入れナット2個を入れます。
+<img src="./images/08/mini-1000mm_08_34.jpg">
 
-Y-Axis-Lケーブルのコネクタをステッピングモーターに接続します。
-<img src="./images/08/mini-1000mm_08_13.jpg">
+M3後入れナットに結束バンド固定具をM3×6六角穴付ボルトで取り付けます。
+<img src="./images/08/mini-1000mm_08_35.jpg">
 
-Y-Axis-Lケーブルのリミットスイッチの向きに注意してM2&times;10 六角穴付きボルト2個で取り付けます。
-<img src="./images/08/mini-1000mm_08_14.jpg">
+結束バンド固定具（右側）に、Y-Axis-Rケーブルを結束バンドで固定します。
+<img src="./images/08/mini-1000mm_08_37.jpg">
 
-X-Axisケーブルのリミットスイッチの向きに注意してM2&times;10六角穴付きボルト2個で取り付けます。
-<img src="./images/08/mini-1000mm_08_15.jpg">
+結束バンド固定具（左側）に、Laserケーブル、X-Axisケーブル、Y-Axis-Lケーブル、Foot Switchケーブルを結束バンドで固定します。
+<img src="./images/08/mini-1000mm_08_38.jpg">
 
-X-Axisケーブルのモーターコネクタをステッピングモーターに接続します。
-<img src="./images/08/mini-1000mm_08_16.jpg">
+## ケーブルキャリア取り付け
+（本工程はすべて後方から撮影をしています）
+本体をもとに戻し、写真の位置にM3後入れナット3個をいれます。
+<img src="./images/08/mini-1000mm_08_39.jpg">
 
-写真を参考に、X-AxisケーブルとLaserケーブルを赤丸の位置の結束バンド固定具と結束バンドで固定します。  
-結束バンドをきつく締める際にX軸ユニットを写真を参考にPCBから最大まで離してケーブルの長さを調節してください。
-<img src="./images/08/mini-1000mm_08_17.jpg">
+M3後入れナットに結束バンド固定具をM3&times;6六角穴付ボルトで取り付けます。
+<img src="./images/08/mini-1000mm_08_40.jpg">
 
-<img src="./images/08/mini-1000mm_08_18.jpg">
+ケーブルキャリアを写真の位置に置き、中心のcarrier-mount2にケーブルキャリアをM3&times;6六角穴付皿ボルト2個で取り付けます。
+<img src="./images/08/mini-1000mm_08_41.jpg">
 
-Laserケ－ブルにコルゲートチューブを通します。  
-コルゲートチューブの切れ目にLaserケーブルを押し込んで入れます。
-<img src="./images/08/mini-1000mm_08_19.jpg">
+<img src="./images/08/mini-1000mm_08_42.jpg">
 
-<img src="./images/08/mini-1000mm_08_20.jpg">
+carrier-mount1にケーブルキャリアの先端をM3&times;6六角穴付皿ボルト2個で取り付けます。
 
-写真を参考に取り付けた結束バンド固定具に結束バンドでLaserケーブルを固定します。
-<img src="./images/08/mini-1000mm_08_21.jpg">
+<img src="./images/08/mini-1000mm_08_43.jpg">
 
-Laserケーブルのコルゲートチューブ先端をX軸中央に取り付けた結束バンド固定具に結束バンドで固定します。
-<img src="./images/08/mini-1000mm_08_22.jpg">
+<img src="./images/08/mini-1000mm_08_44.jpg">
 
-コルゲートチューブの反対側はmini v plate_Cの上部に取り付けたM4&times;40六角穴付きボルトに結束バンド2本で取り付けます。
-<img src="./images/08/mini-1000mm_08_23.jpg">
+結束バンド固定具に、Laserケーブルを結束バンドで固定します。右側の結束バンド固定具には、Laserケーブル、X-Axisケーブルを結束バンドで固定します。
+<img src="./images/08/mini-1000mm_08_46.jpg">
 
-最後に、結束バンドの不要な部分は切り取ります。
+<img src="./images/08/mini-1000mm_08_47.jpg">
+
+結束バンドの不要な部分は切り取ります。
+<img src="./images/08/mini-1000mm_08_48.jpg">
