@@ -2,56 +2,42 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>No</td>
 <td>部品名</td>
 <td>備考</td>
 <td class="packing-img">画像</td>
 <td>個数</td>
 </tr>
 <tr>
-<td>19</td>
-<td>ケーブルキャリア</td>
-<td></td>
-<td><img src="./images/08/kp8-7.jpg" alt="ケーブルキャリア"></td>
-<td>1</td>
-</tr>
-<tr>
-<td>42</td>
 <td>M3後入れナット</td>
 <td>ネジケース</td>
 <td><img src="./images/08/kp8-2.jpg" alt="M3後入れナット"></td>
-<td>3</td>
+<td>5</td>
 </tr>
 <tr>
-<td>39</td>
 <td>M3&times;6六角穴付きボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/08/kp8-3.jpg" alt="M3&times;6六角穴付きボルト"></td>
-<td>22</td>
+<td>5</td>
 </tr>
 <tr>
-<td>25</td>
 <td>結束バンド固定具</td>
 <td></td>
 <td><img src="./images/08/kp8-4.jpg" alt="結束バンド固定具"></td>
-<td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<td>26</td>
 <td>結束バンド</td>
 <td></td>
 <td><img src="./images/08/kp8-5.jpg" alt="結束バンド"></td>
-<td>1</td>
+<td>5</td>
 </tr>
 <tr>
-<td>36</td>
 <td>M2&times;10六角穴付ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/08/kp8-6.jpg" alt="M2x10六角穴付ボルト"></td>
-<td>8</td>
+<td>6</td>
 </tr>
 <tr>
-<td>00</td>
 <td>M3&times;8六角穴付皿ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/14/56.jpg" alt="M3&times;8六角穴付皿ボルト"></td>

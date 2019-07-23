@@ -2,46 +2,40 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>No</td>
 <td>部品名</td>
 <td>備考</td>
 <td class="packing-img">画像</td>
 <td>個数</td>
 </tr>
 <tr>
-<td>24</td>
 <td>PCBケース</td>
-<td></td>
+<td>バックカバー</td>
 <td><img src="./images/06/kp6-1.jpg" alt="PCBケース"></td>
 <td>1</td>
 </tr>
 <tr>
-<td></td>
 <td>レーザー基板 （1.6W/3.5W）</td>
 <td></td>
 <td><img src="./images/06/p6-6.jpg" alt="レーザー基板 （1.6W/3.5W）"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>34</td>
 <td>コントロール基板</td>
 <td></td>
 <td><img src="./images/06/kp6-3.jpg" alt="コントロール基板"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>45</td>
 <td>M5&times;6 低頭ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/06/kp6-4.jpg" alt="M5&times;6 低頭ボルト"></td>
-<td>4</td>
+<td>2</td>
 </tr>
 <tr>
-<td>38</td>
 <td>M3&times;5 ナイロンネジ</td>
 <td>ネジケース</td>
 <td><img src="./images/06/kp6-5.jpg" alt="M3&times;5 ナイロンネジ"></td>
-<td>11</td>
+<td>8</td>
 </tr>
 </tbody>
 </table>

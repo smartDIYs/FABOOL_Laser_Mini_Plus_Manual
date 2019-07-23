@@ -2,105 +2,96 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>No</td>
 <td>部品名</td>
 <td>備考</td>
 <td class="packing-img">画像</td>
 <td>個数</td>
 </tr>
 <tr>
-<td>10</td>
 <td>mini v plate_C</td>
 <td></td>
 <td><img src="./images/14/10.jpg" alt="mini v plate_C"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>11</td>
 <td>mini v plate_L</td>
 <td></td>
 <td><img src="./images/14/11.jpg" alt="mini v plate_L"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>12</td>
 <td>mini v plate_R</td>
 <td></td>
 <td><img src="./images/14/12.jpg" alt="mini v plate_R"></td>
 <td>1</td>
 </tr>
 <tr>
-<td></td>
 <td>2040 v-slot 1210mm</td>
-<td></td>
+<td>加工エリア100cmx100cmで使用</td>
 <td><img src="./images/04/kp3-04.jpg" alt="2040 v-slot 1210mm"></td>
 <td>1</td>
 </tr>
 <tr>
-<td></td>
+<td>2040 V-slot 1710mm</td>
+<td>加工エリア150cmx150cmで使用</td>
+<td><img src="./images/14/1.jpg" alt="V-slot 1710mm"></td>
+<td>1</td>
+</tr>
+<tr>
 <td>X軸モーターユニット</td>
 <td></td>
 <td><img src="./images/04/kp3-05.jpg" alt="X軸モーターユニット"></td>
 <td>1</td>
 </tr>
 <tr>
-<td></td>
 <td>タイミングベルト2600mm</td>
 <td></td>
 <td><img src="./images/04/kp3-06.jpg" alt="タイミングベルト2700mm"></td>
 <td>1</td>
 </tr>
 <tr>
-<td></td>
 <td>carrier-mount1</td>
 <td></td>
 <td><img src="./images/14/51.jpg" alt="carrier-mount1"></td>
 <td>1</td>
 </tr>
 <tr>
-<td></td>
 <td>carrier-mount2</td>
 <td></td>
 <td><img src="./images/14/50.jpg" alt="carrier-mount2"></td>
 <td>3</td>
 </tr>
 <tr>
-<td>26</td>
 <td>結束バンド</td>
 <td></td>
 <td><img src="./images/04/kp3-07.jpg" alt="結束バンド"></td>
 <td>2</td>
 </tr>
 <tr>
-<td>46</td>
 <td>M5x8低頭ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/04/kp3-08.jpg" alt="M5x8低頭ボルト"></td>
 <td>16</td>
 </tr>
 <tr>
-<td>47</td>
 <td>M5Tナット</td>
 <td>ネジケース</td>
 <td><img src="./images/04/kp3-09.jpg" alt="M5Tナット"></td>
 <td>16</td>
 </tr>
 <tr>
-<td>22</td>
 <td>光学ステージ</td>
 <td></td>
 <td><img src="./images/04/kp3-11.jpg" alt="光学ステージ"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>48</td>
 <td>M6x8六角穴付ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/04/kp3-12.jpg" alt="M6x8六角穴付ボルト"></td>
 <td>2</td>
 </tr>
 <tr>
-<td></td>
 <td>M4&times;6六角穴付ボルト</td>
 <td>ネジケース</td>
 <td><img src="" alt="M4&times;6六角穴付ボルト"></td>

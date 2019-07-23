@@ -2,81 +2,82 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>No</td>
 <td>部品名</td>
 <td>備考</td>
 <td class="packing-img">画像</td>
 <td>個数</td>
 </tr>
 <tr>
-<td></td>
 <td>X軸ユニット</td>
 <td></td>
 <td><img src="./images/05/kp4-1.jpg" alt="X軸ユニット"></td>
 <td>1</td>
 </tr>
 <tr>
-<td></td>
 <td>2020 v-slot 1210mm</td>
-<td></td>
+<td>加工エリア100cmx100cmで使用</td>
 <td><img src="./images/05/kp4-2.jpg" alt="2020 v-slot 1210mm"></td>
 <td>2</td>
 </tr>
 <tr>
-<td></td>
 <td>2020 v-slot 1170mm</td>
-<td></td>
+<td>加工エリア100cmx100cmで使用</td>
 <td><img src="./images/05/kp4-3.jpg" alt="2020 v-slot 1170mm"></td>
 <td>2</td>
 </tr>
 <tr>
-<td></td>
+<td>2020 V-slot 1710mm</td>
+<td>加工エリア150cmx150cmで使用</td>
+<td><img src="./images/14/2.jpg" alt="V-slot 1710mm"></td>
+<td>2</td>
+</tr>
+<tr>
+<td>2020 V-slot 1670mm</td>
+<td>加工エリア150cmx150cmで使用</td>
+<td><img src="./images/14/3.jpg" alt="V-slot 1670mm"></td>
+<td>2</td>
+</tr>
+<tr>
 <td>Y軸モーターユニット</td>
 <td></td>
 <td><img src="./images/05/kp4-4.jpg" alt="Y軸モーターユニット"></td>
 <td>2</td>
 </tr>
 <tr>
-<td></td>
 <td>idler pulley plate</td>
 <td></td>
 <td><img src="./images/05/kp4-5.jpg" alt="idler pulley plate"></td>
 <td>2</td>
 </tr>
 <tr>
-<td></td>
-<td>直角直角ブラケット</td>
+<td>直角ブラケット</td>
 <td></td>
 <td><img src="./images/05/kp4-6.jpg" alt="直角直角ブラケット"></td>
 <td>4</td>
 </tr>
 <tr>
-<td></td>
 <td>タイミングベルト2700mm</td>
 <td></td>
 <td><img src="./images/05/kp4-7.jpg" alt="タイミングベルト2700mm"></td>
 <td>2</td>
 </tr>
 <tr>
-<td>46</td>
 <td>M5x8低頭ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/05/kp4-8.jpg" alt="M5x8低頭ボルト"></td>
-<td>25</td>
+<td>16</td>
 </tr>
 <tr>
-<td>47</td>
 <td>M5Tナット</td>
 <td>ネジケース</td>
 <td><img src="./images/05/kp4-9.jpg" alt="M5Tナット"></td>
-<td>28</td>
+<td>18</td>
 </tr>
 <tr>
-<td>26</td>
 <td>結束バンド</td>
 <td></td>
 <td><img src="./images/05/kp4-10.jpg" alt="結束バンド"></td>
-<td>1</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>

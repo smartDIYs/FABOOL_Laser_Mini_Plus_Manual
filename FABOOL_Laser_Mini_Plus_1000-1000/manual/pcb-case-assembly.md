@@ -2,42 +2,36 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>No</td>
 <td>部品名</td>
 <td>備考</td>
 <td class="packing-img">画像</td>
 <td>個数</td>
 </tr>
 <tr>
-<td>23</td>
 <td>PCBケース</td>
 <td>フロントカバー、サイドカバー</td>
 <td><img src="./images/09/kp9-1.jpg" alt="PCBケース"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>34</td>
 <td>DCファン</td>
 <td></td>
 <td><img src="./images/09/kp9-2.jpg" alt="DCファン"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>39</td>
-<td>M3&times;6六角穴付き皿ボルト</td>
+<td>M3&times;6六角穴付皿ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/09/kp9-3.jpg" alt="M3&times;6六角穴付き皿ボルト"></td>
 <td>8</td>
 </tr>
 <tr>
-<td></td>
 <td>M3&times;10ナイロンネジ</td>
 <td>ネジケース</td>
 <td><img src="./images/09/kp9-4.jpg" alt="M3&times;10ナイロンネジ"></td>
 <td>4</td>
 </tr>
 <tr>
-<td>25</td>
 <td>結束バンド</td>
 <td></td>
 <td><img src="./images/09/kp9-5.jpg" alt="結束バンド"></td>
