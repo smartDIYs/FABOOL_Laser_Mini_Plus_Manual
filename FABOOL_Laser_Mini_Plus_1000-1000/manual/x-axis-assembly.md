@@ -94,7 +94,7 @@
 <tr>
 <td>M4&times;6六角穴付ボルト</td>
 <td>ネジケース</td>
-<td><img src="" alt="M4&times;6六角穴付ボルト"></td>
+<td><img src="./images/14/57.jpg" alt="M4&times;6六角穴付ボルト"></td>
 <td>1</td>
 </tr>
 </tbody>

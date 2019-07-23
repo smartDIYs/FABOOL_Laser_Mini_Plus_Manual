@@ -50,7 +50,7 @@
 <td>4</td>
 </tr>
 <tr>
-<td>タイミングベルト</td>
+<td>タイミングベルト2600mm</td>
 <td></td>
 <td><img src="./images/14/8.jpg" alt="タイミングベルト"></td>
 <td>3</td>
@@ -241,7 +241,6 @@
 <td>6</td>
 </tr>
 <tr>
-<td>38</td>
 <td>M3&times;5 ナイロンネジ</td>
 <td><img src="./images/14/37.jpg" alt="M3&times;5 ナイロンネジ"></td>
 <td>8</td>
@@ -257,7 +256,7 @@
 <td>8</td>
 </tr>
 <tr>
-<td>M3×10ナイロンネジ</td>
+<td>M3&times;10ナイロンネジ</td>
 <td><img src="./images/14/40.jpg" alt="M3&times;10 六角穴付きボルト"></td>
 <td>4</td>
 </tr>
