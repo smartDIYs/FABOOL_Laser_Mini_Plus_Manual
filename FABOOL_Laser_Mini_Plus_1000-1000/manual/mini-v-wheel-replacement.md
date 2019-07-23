@@ -24,16 +24,16 @@
 </tr>
 <tr>
 <td>11</td>
-<td>mini v plate_L_2040_1m</td>
+<td>mini v plate_L</td>
 <td></td>
-<td><img src="./images/02/kp1-3.jpg" alt="mini v plate_L_2040_1m"></td>
+<td><img src="./images/02/kp1-3.jpg" alt="mini v plate_L"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>12</td>
-<td>mini v plate_R_2040_1m</td>
+<td>mini v plate_R</td>
 <td></td>
-<td><img src="./images/02/kp1-4.jpg" alt="mini v plate_R_2040_1m"></td>
+<td><img src="./images/02/kp1-4.jpg" alt="mini v plate_R"></td>
 <td>1</td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ mini v plate_Rとmini v plate_Lのホイール類を取り外します。
 
 <img src="./images/02/mini-1000mm_02_04.jpg">
 
-## FLM_mini v plate_L_2040_1mの組み立て
+## FLM_mini v plate_Lの組み立て
 赤丸に偏心スペーサー入りホイール、青丸に標準スペーサー入りホイールを取り付けます。  
 拡張フレームセットではmini v plateに4個のホイールを使用します。  
 残りの1箇所は拡張フレームセットに付属する偏心スペーサー入りホイールを使用してください。
@@ -98,11 +98,11 @@ M5ナイロンナットを取り付けます。M5ナイロンナットには向�
 4個すべての取付を行ってください。
 <img src="./images/02/mini-1000mm_02_17.jpg">
 
-## FLM_mini v plate_R_2040_1mの組み立て
+## FLM_mini v plate_Rの組み立て
 赤丸に偏心スペーサー入りホイール、青丸に標準スペーサー入りホイールを取り付けます。
 <img src="./images/02/mini-1000mm_02_18.jpg">
 
-先程のFLM_mini v plate_L_2040_1mの組立と同様に4個のホイールを取り付けてください。
+先程のFLM_mini v plate_Lの組立と同様に4個のホイールを取り付けてください。
 <img src="./images/02/mini-1000mm_02_19.jpg">
 
 ## idler pulleyの取付
@@ -124,5 +124,5 @@ M5&times;25 低頭ボルトを写真の向きで取付穴に挿入します。
 M5ナイロンナットを取り付けます。M5ナイロンナットには向きがありますので意してください。
 <img src="./images/02/mini-1000mm_02_25.jpg">
 
-FLM_mini v plate_R_2040_1mの組立が完了です。
+FLM_mini v plate_Rの組立が完了です。
 <img src="./images/02/mini-1000mm_02_26.jpg">

@@ -17,16 +17,16 @@
 </tr>
 <tr>
 <td>11</td>
-<td>mini v plate_L_2040_1m</td>
+<td>mini v plate_L</td>
 <td></td>
-<td><img src="./images/14/11.jpg" alt="mini v plate_L_2040_1m"></td>
+<td><img src="./images/14/11.jpg" alt="mini v plate_L"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>12</td>
-<td>mini v plate_R_2040_1m</td>
+<td>mini v plate_R</td>
 <td></td>
-<td><img src="./images/14/12.jpg" alt="mini v plate_R_2040_1m"></td>
+<td><img src="./images/14/12.jpg" alt="mini v plate_R"></td>
 <td>1</td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td></td>
-<td>タイミングベルト2700mm</td>
+<td>タイミングベルト2600mm</td>
 <td></td>
 <td><img src="./images/04/kp3-06.jpg" alt="タイミングベルト2700mm"></td>
 <td>1</td>
@@ -69,28 +69,21 @@
 <td>結束バンド</td>
 <td></td>
 <td><img src="./images/04/kp3-07.jpg" alt="結束バンド"></td>
-<td>1</td>
+<td>2</td>
 </tr>
 <tr>
 <td>46</td>
 <td>M5x8低頭ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/04/kp3-08.jpg" alt="M5x8低頭ボルト"></td>
-<td>25</td>
+<td>16</td>
 </tr>
 <tr>
 <td>47</td>
 <td>M5Tナット</td>
 <td>ネジケース</td>
 <td><img src="./images/04/kp3-09.jpg" alt="M5Tナット"></td>
-<td>28</td>
-</tr>
-<tr>
-<td>44</td>
-<td>M4x40六角穴付ボルト</td>
-<td>ネジケース</td>
-<td><img src="./images/04/kp3-10.jpg" alt="M4x40六角穴付ボルト"></td>
-<td>1</td>
+<td>16</td>
 </tr>
 <tr>
 <td>22</td>
@@ -104,7 +97,7 @@
 <td>M6x8六角穴付ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/04/kp3-12.jpg" alt="M6x8六角穴付ボルト"></td>
-<td>5</td>
+<td>2</td>
 </tr>
 <tr>
 <td></td>
@@ -146,7 +139,7 @@
 <img src="./images/04/mini-1000mm_04_38.jpg">
 
 
-### mini v plate_C、mini v plate_R_2040_1mの取り付け
+### mini v plate_C、mini v plate_Rの取り付け
 2040 V-slot 1210mmにmini v plate_Cを通します。
 <img src="./images/04/mini-1000mm_04_04.jpg">
 
@@ -155,19 +148,19 @@
 
 <img src="./images/04/mini-1000mm_04_06.jpg">
 
-mini v plate_R_2040_1mをM5&times;8低頭ボルト4個で取り付けます。2040 V-slot 1210mmの先端をmini v plate_R_2040_1mの溝に合わせてください。
+mini v plate_RをM5&times;8低頭ボルト4個で取り付けます。2040 V-slot 1210mmの先端をmini v plate_Rの溝に合わせてください。
 <img src="./images/04/mini-1000mm_04_40.jpg">
 
 <img src="./images/04/mini-1000mm_04_41.jpg">
 
 <img src="./images/04/mini-1000mm_04_42.jpg">
 
-### mini v plate_L_2040_1mの取り付け
+### mini v plate_Lの取り付け
 写真の位置にM5Tナット4個を入れます。
 
 <img src="./images/04/mini-1000mm_04_11.jpg">
 
-mini v plate_L_2040_1mをM5&times;8低頭ボルト4個で取り付けます。2040 V-slot 1210mmの先端をmini v plate_L_2040_1mの溝に合わせてください。
+mini v plate_LをM5&times;8低頭ボルト4個で取り付けます。2040 V-slot 1210mmの先端をmini v plate_Lの溝に合わせてください。
 <img src="./images/04/mini-1000mm_04_43.jpg">
 
 <img src="./images/04/mini-1000mm_04_44.jpg">
@@ -187,11 +180,12 @@ X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り�
 <img src="./images/04/mini-1000mm_04_18.jpg">
 
 ## carrier-mount2の取り付け
-2040 V-slot 1210mmの写真の位置にM5Tナット8個を入れます。
+2040 V-slot 1210mmの写真の位置にM5Tナット6個を入れます。
 
 <img src="./images/04/mini-1000mm_04_50.jpg">
 
-carrier-mount2をM5&times;8六角穴付きボルト6個で取り付けます。一番左のcarrier-mount2は、2040 V-slot 1210mmの中心に取り付けてください。
+carrier-mount2をM5&times;8低頭ボルト6個で取り付けます。一番左のcarrier-mount2は、2040 V-slot 1210mmの中心に取り付けてください。
+※carrier-mount2には取り付ける向きがあるのでご注意ください。
 <img src="./images/04/mini-1000mm_04_51.jpg">
 
 <img src="./images/04/mini-1000mm_04_52.jpg">
@@ -203,7 +197,7 @@ carrier-mount2をM5&times;8六角穴付きボルト6個で取り付けます。�
 写真のA~Dの箇所にタイミングベルトを取り付けます。
 <img src="./images/04/mini-1000mm_04_18_01.jpg">
 
-Aの箇所に、mini v plate_Cにタイミングベルト3600mmの山がある方を下にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
+Aの箇所に、mini v plate_Cにタイミングベルト2600mmの山がある方を下にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tsZOb9eN33c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -214,9 +208,11 @@ Aの箇所に、mini v plate_Cにタイミングベルト3600mmの山がある�
 
 <img src="./images/04/mini-1000mm_04_54.jpg">
 
-D、mini v plate_Cの右側にタイミングベルト3600mmの山がある方を下にして通し、結束バンドで固定します。
+mini v plate_Cの右側にタイミングベルト2600mmの山がある方を下にして通し、結束バンドで固定します。
 
 <img src="./images/04/mini-1000mm_04_55.jpg">
+
+mini v plate_Cを左右に動かし、タイミングベルトがねじれていないか確認をしてください。ねじれている場合は、結束バンドを取り外し再度タイミングベルトを取り付けてください。
 
 タイミングベルトが余っている場合は、30mm程度残して切り取ってください。  
 結束バンドの不要な部分は切り取ります。少しでも切り口が飛び出ていると怪我をする恐れがありますので、根本から切り取ってください。

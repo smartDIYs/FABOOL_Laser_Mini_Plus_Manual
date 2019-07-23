@@ -72,16 +72,16 @@
 </tr>
 <tr>
 <td>11</td>
-<td>mini v plate_L_2040_1m</td>
+<td>mini v plate_L</td>
 <td></td>
-<td><img src="./images/14/11.jpg" alt="mini v plate_L_2040_1m"></td>
+<td><img src="./images/14/11.jpg" alt="mini v plate_L"></td>
 <td>1</td>
 </tr>
 <tr>
 <td>12</td>
-<td>mini v plate_R_2040_1m</td>
+<td>mini v plate_R</td>
 <td></td>
-<td><img src="./images/14/12.jpg" alt="mini v plate_R_2040_1m"></td>
+<td><img src="./images/14/12.jpg" alt="mini v plate_R"></td>
 <td>1</td>
 </tr>
 <tr>

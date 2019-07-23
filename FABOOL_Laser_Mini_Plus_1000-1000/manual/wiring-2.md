@@ -60,15 +60,6 @@
 </tbody>
 </table>
 
-## ケーブルキャリア準備
-ケーブルキャリアにLaserケーブルを通します。
-<img src="./images/08/mini-1000mm_08_24.jpg">
-
-<img src="./images/08/mini-1000mm_08_25.jpg">
-
-<img src="./images/08/mini-1000mm_08_26.jpg">
-
-
 ## ケーブル4種の配線
 <img src="./images/08/mini-1000mm_08_27.jpg">
 
