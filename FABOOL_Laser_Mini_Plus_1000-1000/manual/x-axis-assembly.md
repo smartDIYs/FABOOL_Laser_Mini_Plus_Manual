@@ -110,7 +110,7 @@
 偏心スペーサーは各プレートの赤丸で示した部分に取り付けてあります。
 <img src="./images/04/mini-1000mm_04_33.jpg">
 
-2040 V-slot 1210mmに各プレートを一つずつ通し偏心スペーサーを調整してください。調整具合は下記動画を参考にしてください。
+2040 v-slot 1210mm（2040 V-slot 1710mm）に各プレートを一つずつ通し偏心スペーサーを調整してください。調整具合は下記動画を参考にしてください。
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-c9290TpFkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -131,15 +131,15 @@
 
 
 ### mini v plate_C、mini v plate_Rの取り付け
-2040 V-slot 1210mmにmini v plate_Cを通します。
+2040 v-slot 1210mm（2040 V-slot 1710mm）にmini v plate_Cを通します。
 <img src="./images/04/mini-1000mm_04_04.jpg">
 
-2040 V-slot 1210mmを裏返し、写真の位置にM5Tナット4個を入れます。 Tナットには、表と裏があるので注意してください。
+2040 v-slot 1210mm（2040 V-slot 1710mm）を裏返し、写真の位置にM5Tナット4個を入れます。 Tナットには、表と裏があるので注意してください。
 <img src="./images/04/mini-1000mm_04_39.jpg">
 
 <img src="./images/04/mini-1000mm_04_06.jpg">
 
-mini v plate_RをM5&times;8低頭ボルト4個で取り付けます。2040 V-slot 1210mmの先端をmini v plate_Rの溝に合わせてください。
+mini v plate_RをM5&times;8低頭ボルト4個で取り付けます。2040 v-slot 1210mm（2040 V-slot 1710mm）の先端をmini v plate_Rの溝に合わせてください。
 <img src="./images/04/mini-1000mm_04_40.jpg">
 
 <img src="./images/04/mini-1000mm_04_41.jpg">
@@ -151,7 +151,7 @@ mini v plate_RをM5&times;8低頭ボルト4個で取り付けます。2040 V-slo
 
 <img src="./images/04/mini-1000mm_04_11.jpg">
 
-mini v plate_LをM5&times;8低頭ボルト4個で取り付けます。2040 V-slot 1210mmの先端をmini v plate_Lの溝に合わせてください。
+mini v plate_LをM5&times;8低頭ボルト4個で取り付けます。2040 v-slot 1210mm（2040 V-slot 1710mm）の先端をmini v plate_Lの溝に合わせてください。
 <img src="./images/04/mini-1000mm_04_43.jpg">
 
 <img src="./images/04/mini-1000mm_04_44.jpg">
@@ -159,7 +159,7 @@ mini v plate_LをM5&times;8低頭ボルト4個で取り付けます。2040 V-slo
 <img src="./images/04/mini-1000mm_04_45.jpg">
 
 ## X軸モーターユニットの取り付け
-2040 V-slot 1210mmの写真の位置にM5Tナット2個を入れます。
+2040 v-slot 1210mm（2040 V-slot 1710mm）の写真の位置にM5Tナット2個を入れます。
 <img src="./images/04/mini-1000mm_04_46.jpg">
 
 X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り付けます。  
@@ -171,11 +171,11 @@ X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り�
 <img src="./images/04/mini-1000mm_04_18.jpg">
 
 ## carrier-mount2の取り付け
-2040 V-slot 1210mmの写真の位置にM5Tナット6個を入れます。
+2040 v-slot 1210mm（2040 V-slot 1710mm）の写真の位置にM5Tナット6個を入れます。
 
 <img src="./images/04/mini-1000mm_04_50.jpg">
 
-carrier-mount2をM5&times;8低頭ボルト6個で取り付けます。一番左のcarrier-mount2は、2040 V-slot 1210mmの中心に取り付けてください。
+carrier-mount2をM5&times;8低頭ボルト6個で取り付けます。一番左のcarrier-mount2は、2040 v-slot 1210mm（2040 V-slot 1710mm）の中心に取り付けてください。
 ※carrier-mount2には取り付ける向きがあるのでご注意ください。
 <img src="./images/04/mini-1000mm_04_51.jpg">
 
@@ -209,15 +209,15 @@ mini v plate_Cを左右に動かし、タイミングベルトがねじれてい
 結束バンドの不要な部分は切り取ります。少しでも切り口が飛び出ていると怪我をする恐れがありますので、根本から切り取ってください。
 <img src="./images/04/mini-1000mm_04_25.jpg">
 
-X軸モーターユニットのタイミングプーリーの位置を調整します。タイミングプーリーを2040 v-slot 1210mmの溝と同じ高さに調整し、M3×3イモネジ2個をしっかりと締め固定してください。
+X軸モーターユニットのタイミングプーリーの位置を調整します。タイミングプーリーを2040 v-slot 1210mm（2040 V-slot 1710mm）の溝と同じ高さに調整し、M3×3イモネジ2個をしっかりと締め固定してください。
 <img src="./images/04/mini-1000mm_04_26.jpg">
 
 <img src="./images/04/mini-1000mm_04_27.jpg">
 
-2040 v-slot 1210mmの溝から大きくずれている場合は、位置を調整してから固定してください。
+2040 v-slot 1210mm（2040 V-slot 1710mm）の溝から大きくずれている場合は、位置を調整してから固定してください。
 <img src="./images/04/mini-1000mm_04_28.jpg">
 
-タイミングベルトを張ります。X軸モーターユニットのM5&times;8低頭ボルトを緩め、矢印の方向に引っ張りながらボルトを固定します。ステッピングモーターと2040 V-slot 1210mmが平行になるようにしてください。張り具合は、下記の動画をご覧ください。
+タイミングベルトを張ります。X軸モーターユニットのM5&times;8低頭ボルトを緩め、矢印の方向に引っ張りながらボルトを固定します。ステッピングモーターと2040 v-slot 1210mm（2040 V-slot 1710mm）が平行になるようにしてください。張り具合は、下記の動画をご覧ください。
 <img src="./images/04/mini-1000mm_04_29.jpg">
 
 <img src="./images/04/mini-1000mm_04_30.jpg">
