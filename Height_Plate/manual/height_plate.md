@@ -29,6 +29,7 @@ FABOOL Laser Miniに取り付けられているFoot Switchケーブルのリミ�
 <img src="./images/2.jpg">
 
 すべての足に高さプレートをM5&times;6低頭ボルトで取り付けます。
+※高さプレートには取り付ける向きがあるので注意してください。
 
 <img src="./images/3.jpg">
 
