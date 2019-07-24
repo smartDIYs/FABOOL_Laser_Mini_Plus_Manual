@@ -256,7 +256,6 @@
 <td>22</td>
 </tr>
 <tr>
-<td>46</td>
 <td>M5 Tナット</td>
 <td><img src="./images/13/46.jpg" alt="M5 Tナット"></td>
 <td>24</td>
