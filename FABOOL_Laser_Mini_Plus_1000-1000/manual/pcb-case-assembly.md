@@ -22,7 +22,7 @@
 <tr>
 <td>M3&times;6六角穴付皿ボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/09/kp9-3.jpg" alt="M3&times;6六角穴付き皿ボルト"></td>
+<td><img src="./images/09/kp9-3.jpg" alt="M3&times;6六角穴付皿ボルト"></td>
 <td>8</td>
 </tr>
 <tr>

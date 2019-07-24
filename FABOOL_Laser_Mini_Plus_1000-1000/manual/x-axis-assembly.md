@@ -162,7 +162,7 @@ mini v plate_LをM5&times;8低頭ボルト4個で取り付けます。2040 v-slo
 2040 v-slot 1210mm（2040 V-slot 1710mm）の写真の位置にM5Tナット2個を入れます。
 <img src="./images/04/mini-1000mm_04_46.jpg">
 
-X軸モーターユニットをM5&times;8六角穴付きボルト2個で取り付けます。  
+X軸モーターユニットをM5&times;8六角穴付ボルト2個で取り付けます。  
 後工程で調整するので、ステッピングモーターの軸がmini v plate_Lに触れる程度の位置で仮止めします。
 <img src="./images/04/mini-1000mm_04_16.jpg">
 
@@ -227,7 +227,7 @@ X軸モーターユニットのタイミングプーリーの位置を調整し�
 </div>
 
 ## 光学ステージの取り付け
-mini v plate_Cに光学ステージをM6&times;8六角穴付きボルト2個で取り付けます。
+mini v plate_Cに光学ステージをM6&times;8六角穴付ボルト2個で取り付けます。
 <img src="./images/04/mini-1000mm_04_57.jpg">
 
 光学ステージ上部にcarrier-mount1をM4&times;6六角穴付ボルトで取り付けます。

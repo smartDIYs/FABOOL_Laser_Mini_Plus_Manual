@@ -230,9 +230,9 @@
 <td>1</td>
 </tr>
 <tr>
-<td>M2&times;10 六角穴付きボルト</td>
+<td>M2&times;10 六角穴付ボルト</td>
 <td rowspan="13">ネジケース</td>
-<td><img src="./images/14/35.jpg" alt="M2&times;10 六角穴付きボルト"></td>
+<td><img src="./images/14/35.jpg" alt="M2&times;10 六角穴付ボルト"></td>
 <td>6</td>
 </tr>
 <tr>
@@ -246,18 +246,18 @@
 <td>8</td>
 </tr>
 <tr>
-<td>M3&times;6 六角穴付きボルト</td>
-<td><img src="./images/14/38.jpg" alt="M3&times;6 六角穴付きボルト"></td>
+<td>M3&times;6 六角穴付ボルト</td>
+<td><img src="./images/14/38.jpg" alt="M3&times;6 六角穴付ボルト"></td>
 <td>17</td>
 </tr>
 <tr>
-<td>M3&times;6 六角穴付き皿ボルト</td>
-<td><img src="./images/14/39.jpg" alt="M3&times;6 六角穴付き皿ボルト"></td>
+<td>M3&times;6 六角穴付皿ボルト</td>
+<td><img src="./images/14/39.jpg" alt="M3&times;6 六角穴付皿ボルト"></td>
 <td>8</td>
 </tr>
 <tr>
 <td>M3&times;10ナイロンネジ</td>
-<td><img src="./images/14/40.jpg" alt="M3&times;10 六角穴付きボルト"></td>
+<td><img src="./images/14/40.jpg" alt="M3&times;10 六角穴付ボルト"></td>
 <td>4</td>
 </tr>
 <tr>
@@ -281,8 +281,8 @@
 <td>34</td>
 </tr>
 <tr>
-<td>M6&times;8 六角穴付きボルト</td>
-<td><img src="./images/14/47.jpg" alt="M6&times;8 六角穴付きボルト"></td>
+<td>M6&times;8 六角穴付ボルト</td>
+<td><img src="./images/14/47.jpg" alt="M6&times;8 六角穴付ボルト"></td>
 <td>3</td>
 </tr>
 <tr>

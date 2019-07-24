@@ -74,9 +74,9 @@
 <td>2</td>
 </tr>
 <tr>
-<td>M6&times;8六角穴付きボルト</td>
+<td>M6&times;8六角穴付ボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/03/p2-11.jpg" alt="M6&times;8六角穴付きボルト"></td>
+<td><img src="./images/03/p2-11.jpg" alt="M6&times;8六角穴付ボルト"></td>
 <td>2</td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ V-slot 450mm（V-slot 760mm）の溝から大きくずれている場合は、�
 </div>
 
 ## 光学ステージの取り付け
-mini v plate_Cに光学ステージをM6&times;8六角穴付きボルト2個で取り付けます。
+mini v plate_Cに光学ステージをM6&times;8六角穴付ボルト2個で取り付けます。
 <img src="./images/03/mini-300mm_03_37.jpg">
 
 光学ステージ上部にM4&times;8低頭ボルトを取り付けます。完全にボルトを締めずに写真のように3〜4mm余らせてください。

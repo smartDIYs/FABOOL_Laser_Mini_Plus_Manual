@@ -32,9 +32,9 @@
 <td>3</td>
 </tr>
 <tr>
-<td>M3&times;6 六角穴付きボルト</td>
+<td>M3&times;6 六角穴付ボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/03/p5.jpg" alt="M3&times;6 六角穴付きボルト"></td>
+<td><img src="./images/03/p5.jpg" alt="M3&times;6 六角穴付ボルト"></td>
 <td>12</td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@
 
 ## X軸モーターユニットの組み立て
 ### motor mount plate x-axisを取り付ける
-ステッピングモーターに、motor mount plate x-axisをM3&times;6六角穴付きボルト4個で取り付けます。  
+ステッピングモーターに、motor mount plate x-axisをM3&times;6六角穴付ボルト4個で取り付けます。  
 ※motor mount plate x-axisには取り付ける向きがあるので注意してください。小さい2つの穴が右下に来るようにします。
 <img src="./images/03/mini-1000mm_03_01.jpg">
 
@@ -68,7 +68,7 @@
 
 ## Y軸モーターユニットの組み立て
 ### motor mount plate y-axisを取り付ける
-ステッピングモーターにmotor mount plate y-axisをM3&times;6六角穴付きボルト4個で取り付けます。 合計2個組み立てます。 ※motor mount plate y-axisには取り付ける向きがあるので注意してください。穴の位置が左右対称になるようにします。
+ステッピングモーターにmotor mount plate y-axisをM3&times;6六角穴付ボルト4個で取り付けます。 合計2個組み立てます。 ※motor mount plate y-axisには取り付ける向きがあるので注意してください。穴の位置が左右対称になるようにします。
 <img src="./images/03/mini-300mm_02_06.jpg">
 
 <img src="./images/03/mini-1000mm_03_07.jpg">

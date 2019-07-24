@@ -224,13 +224,13 @@
 <td></td>
 </tr>
 <tr>
-<td>M3&times;6 六角穴付き皿ボルト</td>
+<td>M3&times;6 六角穴付皿ボルト</td>
 <td>5</td>
 <td>410円</td>
 <td>PCBケース用ネジ</td>
 </tr>
 <tr>
-<td>M6&times;8 六角穴付きボルト</td>
+<td>M6&times;8 六角穴付ボルト</td>
 <td>3</td>
 <td>410円</td>
 <td></td>
@@ -248,31 +248,31 @@
 <td></td>
 </tr>
 <tr>
-<td>M4&times;6 六角穴付きボルト</td>
+<td>M4&times;6 六角穴付ボルト</td>
 <td>1</td>
 <td>130円</td>
 <td></td>
 </tr>
 <tr>
-<td>M3&times;10 六角穴付きボルト</td>
+<td>M3&times;10 六角穴付ボルト</td>
 <td>5</td>
 <td>410円</td>
 <td></td>
 </tr>
 <tr>
-<td>M3&times;6 六角穴付きボルト</td>
+<td>M3&times;6 六角穴付ボルト</td>
 <td>5</td>
 <td>410円</td>
 <td></td>
 </tr>
 <tr>
-<td>M3&times;4 六角穴付きボルト</td>
+<td>M3&times;4 六角穴付ボルト</td>
 <td>5</td>
 <td>410円</td>
 <td></td>
 </tr>
 <tr>
-<td>M2&times;10 六角穴付きボルト</td>
+<td>M2&times;10 六角穴付ボルト</td>
 <td>5</td>
 <td>410円</td>
 <td></td>

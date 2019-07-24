@@ -26,9 +26,9 @@
 <td>1</td>
 </tr>
 <tr>
-<td>M6&times;8 六角穴付きボルト</td>
+<td>M6&times;8 六角穴付ボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/09/p9-4.jpg" alt="M6&times;8 六角穴付きボルト"></td>
+<td><img src="./images/09/p9-4.jpg" alt="M6&times;8 六角穴付ボルト"></td>
 <td>1</td>
 </tr>
 <tr>

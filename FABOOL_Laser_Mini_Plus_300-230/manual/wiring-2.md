@@ -14,9 +14,9 @@
 <td>2</td>
 </tr>
 <tr>
-<td>M3&times;6六角穴付きボルト</td>
+<td>M3&times;6六角穴付ボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/07/p7-2.jpg" alt="M3&times;6六角穴付きボルト"></td>
+<td><img src="./images/07/p7-2.jpg" alt="M3&times;6六角穴付ボルト"></td>
 <td>2</td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@
 </table>
 
 ## X-Axisケーブルの配線
-X軸モーターユニットにX-AxisケーブルのリミットスイッチをM2&times;10六角穴付きボルト2個で取り付けます。  
+X軸モーターユニットにX-AxisケーブルのリミットスイッチをM2&times;10六角穴付ボルト2個で取り付けます。  
 ※リミットスイッチには取り付ける向きがあるので注意して下さい。
 <img src="./images/07/mini-300mm_07_19.jpg">
 
@@ -54,7 +54,7 @@ X軸モーターユニットにX-Axisケーブルを結束バンドで2ヵ所固
 <img src="./images/07/mini-300mm_07_04.jpg">
 
 ## Y-Axis-Lケーブルの配線
-Y軸モーターユニットにY-Axis-LケーブルのリミットスイッチをM2&times;10六角穴付きボルト2個で取り付けます。
+Y軸モーターユニットにY-Axis-LケーブルのリミットスイッチをM2&times;10六角穴付ボルト2個で取り付けます。
 ※リミットスイッチには取り付ける向きがあるので注意して下さい。
 <img src="./images/07/mini-300mm_07_21.jpg">
 
@@ -64,7 +64,7 @@ Y軸モーターユニットにY-Axis-Lケーブルのリミットスイッチ�
 <img src="./images/07/mini-300mm_07_31.jpg">
 
 ## Foot Switchケーブルの配線
-Y軸モーターユニットにFoot SwitchケーブルのリミットスイッチをM2&times;10六角穴付きボルト2個で取り付けます。
+Y軸モーターユニットにFoot SwitchケーブルのリミットスイッチをM2&times;10六角穴付ボルト2個で取り付けます。
 <img src="./images/07/mini-300mm_07_32.jpg">
 
 ## Y-Axis-Rケーブルの配線

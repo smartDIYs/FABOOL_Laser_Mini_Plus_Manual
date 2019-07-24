@@ -20,9 +20,9 @@
 <td>1</td>
 </tr>
 <tr>
-<td>M3&times;6六角穴付き皿ボルト</td>
+<td>M3&times;6六角穴付皿ボルト</td>
 <td>ネジケース</td>
-<td><img src="./images/08/p8-3.jpg" alt="M3&times;6六角穴付き皿ボルト"></td>
+<td><img src="./images/08/p8-3.jpg" alt="M3&times;6六角穴付皿ボルト"></td>
 <td>8</td>
 </tr>
 <tr>
