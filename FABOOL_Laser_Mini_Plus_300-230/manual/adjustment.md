@@ -2,42 +2,36 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>No</td>
 <td>部品名</td>
 <td>備考</td>
 <td class="packing-img">画像</td>
 <td>個数</td>
 </tr>
 <tr>
-<td>29</td>
 <td>ACアダプター</td>
 <td></td>
 <td><img src="./images/13/29.jpg" alt="ACアダプター"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>30</td>
 <td>ACケーブル</td>
 <td></td>
 <td><img src="./images/13/30.jpg" alt="ACケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>31</td>
 <td>USBケーブル</td>
 <td></td>
 <td><img src="./images/13/31.jpg" alt="USBケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
-<td></td>
 <td>高さ調整用アクリル</td>
 <td></td>
 <td><img src="./images/09/p9-3.jpg" alt="高さ調整用アクリル"></td>
 <td>1</td>
 </tr>
 <tr>
-<td></td>
 <td>保護メガネ</td>
 <td></td>
 <td><img src="./images/10/p10-1.jpg" alt="保護メガネ"></td>

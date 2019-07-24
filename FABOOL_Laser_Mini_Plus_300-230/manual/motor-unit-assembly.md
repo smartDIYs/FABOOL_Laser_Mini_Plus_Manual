@@ -2,49 +2,42 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>No</td>
 <td>部品名</td>
 <td>備考</td>
 <td class="packing-img">画像</td>
 <td>個数</td>
 </tr>
 <tr>
-<td>32</td>
 <td>ステッピングモーター</td>
 <td></td>
 <td><img src="./images/02/p1.jpg" alt="ステッピングモーター"></td>
 <td>3</td>
 </tr>
 <tr>
-<td>27</td>
 <td>motor mount plate x-axis</td>
 <td></td>
 <td><img src="./images/02/p2.jpg" alt="motor mount plate x-axis"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>28</td>
 <td>motor mount plate y-axis</td>
 <td></td>
 <td><img src="./images/02/p3.jpg" alt="motor mount plate y-axis"></td>
 <td>2</td>
 </tr>
 <tr>
-<td>20</td>
 <td>タイミングプーリー</td>
 <td></td>
 <td><img src="./images/02/p4.jpg" alt="タイミングプーリー"></td>
 <td>3</td>
 </tr>
 <tr>
-<td>38</td>
 <td>M3&times;6 六角穴付きボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/02/p5.jpg" alt="M3&times;6 六角穴付きボルト"></td>
 <td>12</td>
 </tr>
 <tr>
-<td>36</td>
 <td>M3&times;3 イモネジ</td>
 <td>ネジケース</td>
 <td><img src="./images/02/p6.jpg" alt="M3&times;3 イモネジ"></td>

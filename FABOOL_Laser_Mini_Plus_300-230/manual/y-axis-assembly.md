@@ -2,70 +2,71 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>No</td>
 <td>部品名</td>
 <td>備考</td>
 <td class="packing-img">画像</td>
 <td>個数</td>
 </tr>
 <tr>
-<td></td>
 <td>X軸ユニット</td>
 <td></td>
 <td><img src="./images/04/p4-1.jpg" alt="X軸ユニット"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>2</td>
 <td>V-slot 410mm</td>
-<td>300x230mmで使用</td>
+<td>加工エリア30cm×23cmで使用</td>
 <td><img src="./images/04/p4-2.jpg" alt="V-slot 410mm"></td>
 <td>4</td>
 </tr>
+<td>V-slot 720mm</td>
+<td>加工エリア60cm×42cmで使用</td>
+<td><img src="./images/13/52.jpg" alt="V-slot 720mm"></td>
+<td>2</td>
+</tr>
 <tr>
-<td></td>
+<td>V-slot 610mm</td>
+<td>加工エリア60cm×42cmで使用</td>
+<td><img src="./images/13/53.jpg" alt="V-slot 610mm"></td>
+<td>2</td>
+</tr>
+<tr>
 <td>Y軸モーターユニット</td>
 <td></td>
 <td><img src="./images/04/p4-3.jpg" alt="Y軸モーター"></td>
 <td>2</td>
 </tr>
 <tr>
-<td>26</td>
 <td>idler pulley plate</td>
 <td></td>
 <td><img src="./images/04/p4-4.jpg" alt="idler pulley plate"></td>
 <td>2</td>
 </tr>
 <tr>
-<td></td>
 <td>タイミングベルト</td>
 <td></td>
 <td><img src="./images/04/p4-5.jpg" alt="タイミングベルト100cm"></td>
 <td>2</td>
 </tr>
 <tr>
-<td>46</td>
 <td>M5Tナット</td>
 <td>ネジケース</td>
 <td><img src="./images/04/p4-6.jpg" alt="M5Tナット"></td>
 <td>18</td>
 </tr>
 <tr>
-<td>7</td>
 <td>直角ブラケット</td>
 <td>ネジケース、一部の製品には黒色の直角ブラケットが入っています</td>
 <td><img src="./images/04/p4-11.jpg" alt="直角ブラケット"></td>
 <td>4</td>
 </tr>
 <tr>
-<td>45</td>
 <td>M5&times;8低頭ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/04/p4-8.jpg" alt="M5&times;8低頭ボルト"></td>
 <td>16</td>
 </tr>
 <tr>
-<td>25</td>
 <td>結束バンド</td>
 <td></td>
 <td><img src="./images/04/p4-10.jpg" alt="結束バンド"></td>
@@ -89,16 +90,16 @@ Tナットの上に直角ブラケットを載せ、ネジ締めを行います�
 ## フレームの組み立て
 水平な机の上でフレーム組み立てを行ってください。
 
-V-slot 410mmの背面にM5Tナット2個を入れます。
+V-slot 410mm（V-slot 720mm）の背面にM5Tナット2個を入れます。
 <img src="./images/04/mini-300mm_04_01.jpg">
 
-V-slot 410mm の両端にV-slot 410mmを2本置き、M5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
+V-slot 410mm（V-slot 720mm） の両端にV-slot 410mm（V-slot 610mm）を2本置き、M5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
 <img src="./images/04/mini-300mm_04_37.jpg">
 
 <a href="/manual/fabool-laser-mini-300-230-x-axis-assembly/">X軸の組み立て</a>で組み立てたX軸ユニットをフレームに通します。
 <img src="./images/04/mini-300mm_04_38.jpg">
 
-V-slot 410mm をM5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
+V-slot 410mm（V-slot 720mmとV-slot 610mm）をM5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
 <img src="./images/04/mini-300mm_04_39.jpg">
 
 ### チェックポイント　Y軸確認 １
@@ -123,7 +124,7 @@ X軸が揺れる場合は偏心スペーサーの調整をしてください。
 <img src="./images/04/mini-300mm_04_61.jpg">
 
 idler pulley plateをM5Tナット2個とM5&times;8低頭ボルト2個で取り付けます。
-後工程で調整するので、写真を参考にidler pulleyがv-slot 410mmに触れる程度で仮止めをします。
+後工程で調整するので、写真を参考にidler pulleyがv-slot 410mm（V-slot 610mm）に触れる程度で仮止めをします。
 <img src="./images/04/mini-300mm_04_43.jpg">
 
 <img src="./images/04/mini-300mm_04_44.jpg">
@@ -134,12 +135,12 @@ Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個�
 ※Y軸モーターユニットは、取り付ける向きがあるので注意してください。
 <img src="./images/04/mini-300mm_04_45.jpg">
 
-Y軸モーターユニットの線と、V-slotの端が一直線上に来るように位置を調整してください。内側にも同じ位置に線があるので、その線とV-slot 410mmの先端がぴったり合っているかを確認してください。
+Y軸モーターユニットの線と、V-slotの端が一直線上に来るように位置を調整してください。内側にも同じ位置に線があるので、その線とV-slot 410mm（V-slot 720mm）の先端がぴったり合っているかを確認してください。
 <img src="./images/04/mini-300mm_04_46.jpg">
 
 <img src="./images/04/mini-300mm_04_68.jpg">
 
-タイミングプーリーをv-slot 410mmの溝と同位置に調整し、イモネジ2個をしっかりと締め固定してください。ずれている場合は、位置を調節した上で固定します。
+タイミングプーリーをv-slot 410mm（V-slot 610mm）の溝と同位置に調整し、イモネジ2個をしっかりと締め固定してください。ずれている場合は、位置を調節した上で固定します。
 <img src="./images/04/mini-300mm_04_47.jpg">
 
 <img src="./images/04/mini-300mm_04_48.jpg">

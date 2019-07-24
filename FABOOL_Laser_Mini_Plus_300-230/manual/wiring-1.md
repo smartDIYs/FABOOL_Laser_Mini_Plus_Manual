@@ -2,56 +2,48 @@
 <table class="packing-list">
 <tbody>
 <tr>
-<td>No</td>
 <td>部品名</td>
 <td>備考</td>
 <td class="packing-img">画像</td>
 <td>個数</td>
 </tr>
 <tr>
-<td>13</td>
 <td>PCBケーブル</td>
 <td></td>
 <td><img src="./images/06/p6-9.jpg" alt="PCBケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>14</td>
 <td>Laserケーブル</td>
 <td>一部の製品には形状の違うケーブルが入っています</td>
 <td><img src="./images/06/p6-10.jpg" alt="Laserケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>15</td>
 <td>X-Axisケーブル</td>
 <td></td>
 <td><img src="./images/06/p6-11.jpg" alt="X-Axisケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>16</td>
 <td>Y-Axis-Rケーブル</td>
 <td></td>
 <td><img src="./images/06/p6-12.jpg" alt="Y-Axis-Rケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>17</td>
 <td>Y-Axis-Lケーブル</td>
 <td></td>
 <td><img src="./images/06/p6-13.jpg" alt="Y-Axis-Lケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>18</td>
 <td>Foot Switchケーブル</td>
 <td></td>
 <td><img src="./images/06/p6-14.jpg" alt="Foot Switchケーブル"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>25</td>
 <td>結束バンド</td>
 <td></td>
 <td><img src="./images/06/p6-8.jpg" alt="結束バンド"></td>
