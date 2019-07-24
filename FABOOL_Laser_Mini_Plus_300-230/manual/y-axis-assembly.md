@@ -99,7 +99,7 @@ V-slot 410mm（V-slot 720mm） の両端にV-slot 410mm（V-slot 610mm）を2本
 <a href="/manual/fabool-laser-mini-300-230-x-axis-assembly/">X軸の組み立て</a>で組み立てたX軸ユニットをフレームに通します。
 <img src="./images/04/mini-300mm_04_38.jpg">
 
-V-slot 410mm（V-slot 720mmとV-slot 610mm）をM5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
+V-slot 410mm（V-slot 720mm）をM5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
 <img src="./images/04/mini-300mm_04_39.jpg">
 
 ### チェックポイント　Y軸確認 １
