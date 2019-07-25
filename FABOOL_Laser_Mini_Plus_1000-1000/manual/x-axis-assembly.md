@@ -44,7 +44,7 @@
 <td>1</td>
 </tr>
 <tr>
-<td>タイミングベルト2600mm</td>
+<td>タイミングベルト</td>
 <td></td>
 <td><img src="./images/04/kp3-06.jpg" alt="タイミングベルト2700mm"></td>
 <td>1</td>
@@ -68,10 +68,16 @@
 <td>2</td>
 </tr>
 <tr>
+<td>M5&times;6 低頭ボルト</td>
+<td>ネジケース</td>
+<td><img src="./images/14/44.jpg" alt="M5&times;6 低頭ボルト"></td>
+<td>6</td>
+</tr>
+<tr>
 <td>M5x8低頭ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/04/kp3-08.jpg" alt="M5x8低頭ボルト"></td>
-<td>16</td>
+<td>10</td>
 </tr>
 <tr>
 <td>M5Tナット</td>
@@ -162,7 +168,7 @@ mini v plate_LをM5&times;8低頭ボルト4個で取り付けます。2040 v-slo
 2040 v-slot 1210mm（2040 V-slot 1710mm）の写真の位置にM5Tナット2個を入れます。
 <img src="./images/04/mini-1000mm_04_46.jpg">
 
-X軸モーターユニットをM5&times;8六角穴付ボルト2個で取り付けます。  
+X軸モーターユニットをM5&times;8低頭ボルト2個で取り付けます。  
 後工程で調整するので、ステッピングモーターの軸がmini v plate_Lに触れる程度の位置で仮止めします。
 <img src="./images/04/mini-1000mm_04_16.jpg">
 
@@ -175,7 +181,7 @@ X軸モーターユニットをM5&times;8六角穴付ボルト2個で取り付�
 
 <img src="./images/04/mini-1000mm_04_50.jpg">
 
-carrier-mount2をM5&times;8低頭ボルト6個で取り付けます。一番左のcarrier-mount2は、2040 v-slot 1210mm（2040 V-slot 1710mm）の中心に取り付けてください。
+carrier-mount2をM5&times;6低頭ボルト6個で取り付けます。一番左のcarrier-mount2は、2040 v-slot 1210mm（2040 V-slot 1710mm）の中心に取り付けてください。
 ※carrier-mount2には取り付ける向きがあるのでご注意ください。
 <img src="./images/04/mini-1000mm_04_51.jpg">
 
@@ -188,7 +194,7 @@ carrier-mount2をM5&times;8低頭ボルト6個で取り付けます。一番左�
 写真のA~Dの箇所にタイミングベルトを取り付けます。
 <img src="./images/04/mini-1000mm_04_18_01.jpg">
 
-Aの箇所に、mini v plate_Cにタイミングベルト2600mmの山がある方を下にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
+Aの箇所に、mini v plate_Cにタイミングベルトの山がある方を下にして通し結束バンドで固定します。固定の方法は動画を参考にしてください。
 
 <div class="iframe-content">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tsZOb9eN33c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -199,7 +205,7 @@ Aの箇所に、mini v plate_Cにタイミングベルト2600mmの山がある�
 
 <img src="./images/04/mini-1000mm_04_54.jpg">
 
-mini v plate_Cの右側にタイミングベルト2600mmの山がある方を下にして通し、結束バンドで固定します。
+mini v plate_Cの右側にタイミングベルトの山がある方を下にして通し、結束バンドで固定します。
 
 <img src="./images/04/mini-1000mm_04_55.jpg">
 
