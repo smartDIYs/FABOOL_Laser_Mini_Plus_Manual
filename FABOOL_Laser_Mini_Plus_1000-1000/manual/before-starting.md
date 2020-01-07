@@ -1,5 +1,8 @@
 このたびはFABOOL Laser Mini をお買い上げいただきありがとうございます。この章では、組み立て・仕様に関する注意点や組み立て前に確認していただきたいことを説明いたします。
 
+本マニュアルをPDFでご覧になりたい方はこちらからダウンロードできます。  
+[FABOOL Laser Mini 100cm×100cm/150cm×150cm](https://www.smartdiys.com/manual/wp-content/uploads/2020/01/fabool-laser-mini-1000-1000-pdf.pdf)
+
 ## 安全上のご注意
 本製品の組み立て、ご使用前に以下の「安全上のご注意」を必ずお読みの上、正しくご使用ください。
 
