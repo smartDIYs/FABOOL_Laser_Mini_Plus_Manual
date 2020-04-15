@@ -89,7 +89,7 @@ DCファンケーブルをコントロール基板（FAN1かFAN2）に接続し�
 <img src="./images/09/mini-1000mm_09_10.jpg">
 
 DCファンケーブルとPCBケーブルを結束バンドで固定します。
-<img src="./images/09/mini-1000mm_09_11.jpg">
+<img src="./images/09/mini-1000mm_09_03.jpg">
 
 結束バンドの不要な部分を切り取ります。
 
