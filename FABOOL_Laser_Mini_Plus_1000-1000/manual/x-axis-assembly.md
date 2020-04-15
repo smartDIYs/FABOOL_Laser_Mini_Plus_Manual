@@ -14,13 +14,13 @@
 <td>1</td>
 </tr>
 <tr>
-<td>mini v plate_L</td>
+<td>mini v plate_R</td>
 <td></td>
 <td><img src="./images/14/11.jpg" alt="mini v plate_L"></td>
 <td>1</td>
 </tr>
 <tr>
-<td>mini v plate_R</td>
+<td>mini v plate_L</td>
 <td></td>
 <td><img src="./images/14/12.jpg" alt="mini v plate_R"></td>
 <td>1</td>
