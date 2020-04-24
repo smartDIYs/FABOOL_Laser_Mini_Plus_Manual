@@ -126,6 +126,8 @@
 
 <img src="./images/04/mini-1000mm_04_35.jpg">
 
+mini v plate_Cの偏芯スペーサーを回してもガタツキがなくならない場合は、[こちらのトラブルシューティング](https://support.smartdiys.com/hc/ja/articles/360042709151)をご覧ください。
+
 写真内赤丸印10箇所のネジに緩みがないか確認してください。
 <img src="./images/04/mini-1000mm_04_36.jpg">
 
@@ -134,6 +136,8 @@
 ネジの緩みがあった場合は、六角レンチとスパナを使用して固定します。
 
 <img src="./images/04/mini-1000mm_04_38.jpg">
+
+
 
 
 ### mini v plate_C、mini v plate_Rの取り付け
