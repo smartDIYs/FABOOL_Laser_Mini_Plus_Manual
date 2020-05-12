@@ -110,6 +110,10 @@ FABOOL Laser Miniで加工を行う際、加工する素材の厚さが変わる
 
 <img src="./images/10/mini-300mm_10_33.jpg">
 
+<div class="iframe-content">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B3CAB7b_228" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## ソフトウェア操作
 ソフトウェアを操作し、製品が問題なく組み立てられているかチェックをします。
