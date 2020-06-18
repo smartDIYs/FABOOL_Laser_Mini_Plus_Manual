@@ -19,7 +19,7 @@
 <td>4</td>
 </tr>
 <tr>
-<td>V-slot 760mm</td>
+<td>V-slot 760m</td>
 <td>加工エリア60cm×42cmで使用</td>
 <td><img src="./images/13/51.jpg" alt="V-slot 760mm></td>
 <td>1</td>
