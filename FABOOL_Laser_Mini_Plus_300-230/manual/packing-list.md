@@ -25,12 +25,6 @@
 <td>1</td>
 </tr>
 <tr>
-<td>V-slot 720mm</td>
-<td>加工エリア60cm×42cmで使用</td>
-<td><img src="./images/13/52.jpg" alt="V-slot 720mm"></td>
-<td>2</td>
-</tr>
-<tr>
 <td>V-slot 610mm</td>
 <td>加工エリア60cm×42cmで使用</td>
 <td><img src="./images/13/53.jpg" alt="V-slot 610mm"></td>
