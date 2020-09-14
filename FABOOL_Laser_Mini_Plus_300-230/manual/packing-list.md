@@ -253,8 +253,13 @@
 <tr>
 <td>M5&times;8 低頭ボルト</td>
 <td><img src="./images/13/45.jpg" alt="M5&times;8 低頭ボルト"></td>
-<td>22</td>
+<td>14</td>
 </tr>
+    <tr>
+        <td>M5&times;10 低頭ボルト</td>
+        <td><img src="./images/13/55.jpg" alt="M5&times;10 低頭ボルト"></td>
+        <td>8</td>
+    </tr>
 <tr>
 <td>M5 Tナット</td>
 <td><img src="./images/13/46.jpg" alt="M5 Tナット"></td>

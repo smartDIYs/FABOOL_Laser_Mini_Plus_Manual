@@ -65,8 +65,14 @@
 <td>M5x8低頭ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/05/kp4-8.jpg" alt="M5x8低頭ボルト"></td>
-<td>16</td>
+<td>8</td>
 </tr>
+    <tr>
+        <td>M5x10低頭ボルト</td>
+        <td>ネジケース</td>
+        <td><img src="./images/14/58.jpg" alt="M5x10低頭ボルト"></td>
+        <td>8</td>
+    </tr>
 <tr>
 <td>M5Tナット</td>
 <td>ネジケース</td>
@@ -99,7 +105,7 @@ Tナットの上に直角ブラケットを載せ、ネジ締めを行います�
 2020 v-slot 1170mm（2020 V-slot 1670mm）の背面にM5Tナット2個を入れます。
 <img src="./images/05/mini-1000mm_05_27.jpg">
 
-2020 v-slot 1170mm（2020 V-slot 1670mm） の両端に、2020 v-slot 1210mm（2020 V-slot 1710mm） を2本置き、M5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
+2020 v-slot 1170mm（2020 V-slot 1670mm） の両端に、2020 v-slot 1210mm（2020 V-slot 1710mm） を2本置き、M5Tナット4個とM5&times;10低頭ボルト4個と直角ブラケット2個で取り付けます。
 <img src="./images/05/mini-1000mm_05_28.jpg">
 
 <a href="/manual/fabool-laser-mini-plus-1000-1000-x-axis-assembly/">X軸の組み立て</a>で組み立てたX軸ユニットをフレームに通します。
@@ -107,7 +113,7 @@ Tナットの上に直角ブラケットを載せ、ネジ締めを行います�
 <img src="./images/05/mini-1000mm_05_29.jpg">
 
 
-2020 v-slot 1170mm（2020 V-slot 1670mm）をM5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
+2020 v-slot 1170mm（2020 V-slot 1670mm）をM5Tナット4個とM5&times;10低頭ボルト4個と直角ブラケット2個で取り付けます。
 <img src="./images/05/mini-1000mm_05_30.jpg">
 
 ## チェックポイント　Y軸確認 １

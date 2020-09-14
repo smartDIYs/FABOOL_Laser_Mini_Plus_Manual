@@ -64,7 +64,13 @@
 <td>M5&times;8低頭ボルト</td>
 <td>ネジケース</td>
 <td><img src="./images/04/p4-8.jpg" alt="M5&times;8低頭ボルト"></td>
-<td>16</td>
+<td>8</td>
+</tr>
+<tr>
+    <td>M5&times;10低頭ボルト</td>
+    <td>ネジケース</td>
+    <td><img src="./images/13/55.jpg" alt="M5&times;10低頭ボルト"></td>
+    <td>8</td>
 </tr>
 <tr>
 <td>結束バンド</td>
@@ -93,13 +99,13 @@ Tナットの上に直角ブラケットを載せ、ネジ締めを行います�
 V-slot 410mm（V-slot 720mm）の背面にM5Tナット2個を入れます。
 <img src="./images/04/mini-300mm_04_01.jpg">
 
-V-slot 410mm（V-slot 720mm） の両端にV-slot 410mm（V-slot 610mm）を2本置き、M5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
+V-slot 410mm（V-slot 720mm） の両端にV-slot 410mm（V-slot 610mm）を2本置き、M5Tナット4個とM5&times;10低頭ボルト4個と直角ブラケット2個で取り付けます。
 <img src="./images/04/mini-300mm_04_37.jpg">
 
 <a href="/manual/fabool-laser-mini-300-230-x-axis-assembly/">X軸の組み立て</a>で組み立てたX軸ユニットをフレームに通します。
 <img src="./images/04/mini-300mm_04_38.jpg">
 
-V-slot 410mm（V-slot 720mm）をM5Tナット4個とM5&times;8低頭ボルト4個と直角ブラケット2個で取り付けます。
+V-slot 410mm（V-slot 720mm）をM5Tナット4個とM5&times;10低頭ボルト4個と直角ブラケット2個で取り付けます。
 <img src="./images/04/mini-300mm_04_39.jpg">
 
 ### チェックポイント　Y軸確認 １
@@ -158,7 +164,7 @@ Y軸モーターユニットをM5Tナット2個とM5&times;8低頭ボルト2個�
 
 ## タイミングベルトの取り付け
 加工エリア30cm×23cmの方は、タイミングベルト2本を1000mmに切ります。
-加工エリア60cm×42cmの方は、タイミングベルト2本を1400mmに切ります。 
+加工エリア60cm×42cmの方は、タイミングベルト2本を1400mmに切ります。
 mini v plate_Lにタイミングベルトを結束バンドで取り付けます。
 <img src="./images/04/mini-300mm_04_63.jpg">
 
