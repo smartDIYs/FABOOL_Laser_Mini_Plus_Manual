@@ -231,17 +231,19 @@
 </tr>
 <tr>
 <td>M2&times;10 六角穴付ボルト</td>
-<td rowspan="13">ネジケース</td>
+<td></td>
 <td><img src="./images/14/35.jpg" alt="M2&times;10 六角穴付ボルト"></td>
 <td>6</td>
 </tr>
 <tr>
 <td>M3&times;3 イモネジ</td>
+<td></td>
 <td><img src="./images/14/36.jpg" alt="M3&times;3 イモネジ"></td>
 <td>6</td>
 </tr>
 <tr>
 <td>M3&times;5 ナイロンネジ</td>
+<td></td>
 <td><img src="./images/14/37.jpg" alt="M3&times;5 ナイロンネジ"></td>
 <td>8</td>
 </tr>
@@ -252,51 +254,61 @@
 </tr>
 <tr>
 <td>M3&times;6 六角穴付皿ボルト</td>
+<td></td>
 <td><img src="./images/14/39.jpg" alt="M3&times;6 六角穴付皿ボルト"></td>
 <td>8</td>
 </tr>
 <tr>
 <td>M3&times;10ナイロンネジ</td>
+<td></td>
 <td><img src="./images/14/40.jpg" alt="M3&times;10 六角穴付ボルト"></td>
 <td>4</td>
 </tr>
 <tr>
 <td>M3後入れナット</td>
+<td></td>
 <td><img src="./images/14/41.jpg" alt="M3後入れナット"></td>
 <td>5</td>
 </tr>
 <tr>
 <td>M5&times;6 低頭ボルト</td>
+<td></td>
 <td><img src="./images/14/44.jpg" alt="M5&times;6 低頭ボルト"></td>
 <td>8</td>
 </tr>
 <tr>
 <td>M5&times;8 低頭ボルト</td>
+<td>2020/9/11以前にご購入された方は22個</td>
 <td><img src="./images/14/45.jpg" alt="M5&times;8 低頭ボルト"></td>
 <td>18</td>
 </tr>
 <tr>
     <td>M5&times;10 低頭ボルト</td>
+    <td>2020/9/11以前にご購入された方は0個</td>
     <td><img src="./images/14/58.jpg" alt="M5&times;10 低頭ボルト"></td>
     <td>8</td>
 </tr>
 <tr>
 <td>M5 Tナット</td>
+<td></td>
 <td><img src="./images/14/46.jpg" alt="M5 Tナット"></td>
 <td>34</td>
 </tr>
 <tr>
 <td>M6&times;8 六角穴付ボルト</td>
+<td></td>
 <td><img src="./images/14/47.jpg" alt="M6&times;8 六角穴付ボルト"></td>
 <td>3</td>
 </tr>
 <tr>
 <td>M3&times;8六角穴付皿ボルト</td>
+<td></td>
 <td><img src="./images/14/56.jpg" alt="M3&times;8六角穴付皿ボルト"></td>
 <td>4</td>
 </tr>
 <tr>
 <td>M4&times;6六角穴付ボルト</td>
+<td></td>
 <td><img src="./images/14/57.jpg" alt="M4&times;6六角穴付ボルト"></td>
 <td>1</td>
 </tr>
