@@ -89,7 +89,7 @@ PCと製品が問題なく接続できている場合、ソフトウェアの画
 **製品と接続しているのに未接続と表示される**
 <a href="https://www.smartdiys.com/support/product/sc-trouble/software-4/" target="_blank">USBで接続してもソフトウェア画面に「非接続」と表示される</a>をご覧ください。
 
-####エラーリスト
+#### エラーリスト
 - **フットスイッチが接地していません**  製品左後方に取り付けたフットスイッチ（リミットスイッチ）が地面と接地しておらず、スイッチが押されていない状態になっています。水平で平らな場所に装置を置いた状態で、フットスイッチが押されているかご確認ください。<a href="/manual/fabool-laser-mini-plus-1000-1000-wiring-2/" target="_blank">Foot Switchケーブル配線</a>
 - **リミットスイッチに接触しています**  <a href="/manual/fabool-laser-mini-plus-1000-1000-wiring-2/" target="_blank">X-Axisケーブルの配線とY-Axis-Lケーブルの配線</a>、で配線したリミットスイッチに、X軸またはレーザーヘッドが接触しています。下記で説明する原点復帰を行ってください。改善しない場合は<a href="/manual/fabool-laser-mini-plus-1000-1000-wiring-2/" target="_blank">X-Axisケーブルの配線とY-Axis-Lケーブルの配線</a>、ならびに<a href="/manual/fabool-laser-mini-plus-1000-1000-wiring-1/" target="_blank">配線1</a>をご覧いただき、リミットスイッチの取り付け位置と部品の向き、配線をご確認ください。
 
