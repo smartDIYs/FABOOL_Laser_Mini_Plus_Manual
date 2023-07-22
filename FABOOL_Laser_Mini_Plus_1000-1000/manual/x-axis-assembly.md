@@ -126,7 +126,7 @@
 
 <img src="./images/04/mini-1000mm_04_35.jpg">
 
-mini v plate_Cの偏芯スペーサーを回してもガタツキがなくならない場合は、[こちらのトラブルシューティング](https://support.smartdiys.com/hc/ja/articles/360042709151)をご覧ください。
+mini v plate_Cの偏芯スペーサーを回してもガタツキがなくならない場合は、[こちらのトラブルシューティング](https://www.smartdiys.com/support/product/fl-trouble/spacer/)をご覧ください。
 
 写真内赤丸印10箇所のネジに緩みがないか確認してください。
 <img src="./images/04/mini-1000mm_04_36.jpg">
