@@ -1,4 +1,5 @@
 ## 保守部品 価格表
+
 <table class="packing-list" style="text-align: center;">
 <tbody>
     <tr>
@@ -53,13 +54,13 @@
         <td>X軸タイミングベルト</td>
         <td>1</td>
         <td>866円</td>
-        <td>GT2 長さ1060m</td>
+        <td>GT2 長さ1060mm</td>
     </tr>
     <tr>
         <td>Y軸タイミングベルト</td>
         <td>1</td>
         <td>815円</td>
-        <td>GT2 長さ1000m</td>
+        <td>GT2 長さ1000mm</td>
     </tr>
     <tr>
         <td>光学ステージ</td>
@@ -224,55 +225,55 @@
         <td></td>
     </tr>
     <tr>
-        <td>M3&times;6 六角穴付皿ボルト</td>
+        <td>M3×6 六角穴付皿ボルト</td>
         <td>5</td>
         <td>418円</td>
         <td>PCBケース用ネジ</td>
     </tr>
     <tr>
-        <td>M6&times;8 六角穴付ボルト</td>
+        <td>M6×8 六角穴付ボルト</td>
         <td>3</td>
         <td>418円</td>
         <td></td>
     </tr>
     <tr>
-        <td>M5&times;8 低頭ボルト</td>
+        <td>M5×8 低頭ボルト</td>
         <td>5</td>
         <td>528円</td>
         <td></td>
     </tr>
     <tr>
-        <td>M5&times;6 低頭ボルト</td>
+        <td>M5×6 低頭ボルト</td>
         <td>5</td>
         <td>528円</td>
         <td></td>
     </tr>
     <tr>
-        <td>M4&times;6 六角穴付ボルト</td>
+        <td>M4×6 六角穴付ボルト</td>
         <td>1</td>
         <td>132円</td>
         <td></td>
     </tr>
     <tr>
-        <td>M3&times;10 六角穴付ボルト</td>
+        <td>M3×10 六角穴付ボルト</td>
         <td>5</td>
         <td>418円</td>
         <td></td>
     </tr>
     <tr>
-        <td>M3&times;6 六角穴付ボルト</td>
+        <td>M3×6 六角穴付ボルト</td>
         <td>5</td>
         <td>418円</td>
         <td></td>
     </tr>
     <tr>
-        <td>M3&times;4 六角穴付ボルト</td>
+        <td>M3×4 六角穴付ボルト</td>
         <td>5</td>
         <td>418円</td>
         <td></td>
     </tr>
     <tr>
-        <td>M2&times;10 六角穴付ボルト</td>
+        <td>M2×10 六角穴付ボルト</td>
         <td>5</td>
         <td>418円</td>
         <td></td>
